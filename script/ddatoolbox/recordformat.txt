@@ -1,0 +1,89 @@
+ACCESSION:	*	Mandatory	unique	no	no
+RECORD_TITLE:	*	Mandatory	unique	no	no
+DATE:	*	Mandatory	unique	no	no
+AUTHORS:	*	Mandatory	unique	no	no
+LICENSE:	*	Mandatory	unique	no	no
+COPYRIGHT:	*	Optinal	unique	no	no
+PUBLICATION:	*	Optinal	unique	no	no
+PROJECT:	*	Optinal	unique	no	no
+DEPRECATED:	*	Optinal	iterative	no	no
+COMMENT:	*	Optinal	iterative	no	no
+COMMENT:	CONFIDENCE	Optinal	iterative	no	no
+COMMENT:	EVIDENCE_INVENTORY	Optinal	iterative	no	no
+COMMENT:	REPOSITORY	Mandatory	unique	no	no
+COMMENT:	DATASET_ID	Mandatory	unique	no	no
+COMMENT:	DATASET_TITLE	Mandatory	unique	no	no
+COMMENT:	DATASET_AUTHORS	Mandatory	unique	no	no
+COMMENT:	DATASET_PUBLICATION	Optinal	unique	no	no
+COMMENT:	DATASET_PUBLICATION_PMID	Optinal	unique	no	no
+COMMENT:	MS1_M/Z_RAW_THRES	Optinal	unique	{:.3f}	float
+COMMENT:	MS2_M/Z_RAW_THRES	Optinal	unique	{:.3f}	float
+COMMENT:	MS1_M/Z_AVERAGED_THRES	Optinal	unique	{:.3f}	float
+COMMENT:	MS2_M/Z_AVERAGED_THRES	Optinal	unique	{:.3f}	float
+COMMENT:	MS1_M/Z_CORRECTION	Optinal	unique	no	no
+COMMENT:	MS2_M/Z_CORRECTION	Optinal	unique	no	no
+COMMENT:	DOTPRODUCT_THRES	Optinal	unique	{:.3f}	float
+COMMENT:	RETENTION_TIME_THRES	Optinal	unique	{:.3f}	float
+COMMENT:	DATASET_FILE_NUM	Mandatory	unique	{:d}	no
+COMMENT:	NUM_AVERAGED_SPEC	Mandatory	unique	{:d}	no
+COMMENT:	RAW_SPEC	Optinal	unique	no	no
+COMMENT:	RETENTION_TIME_STDEV	Optinal	unique	{:.3f}	float
+COMMENT:	RETENTION_TIME_LIST	Optinal	unique	no	no
+COMMENT:	PRECURSOR_M/Z_RAW	Optinal	unique	{:.6f}	float
+COMMENT:	PRECURSOR_M/Z_STDEV	Optinal	unique	{:.6f}	float
+COMMENT:	PRECURSOR_M/Z_LIST	Optinal	unique	no	no
+COMMENT:	PRECURSOR_IN_MS1	Optinal	unique	mz {:.6f}; int {:.3f}; delta(ppm) {:-.6f}	no
+COMMENT:	MS1_SPEC	Optinal	unique	no	no
+COMMENT:	PROPOSED_CHARGE_STATE	Optinal	iterative	{:+d}; mz {:.6f}; int {:.3f}; cor {:.3f}	no
+COMMENT:	PROPOSED_ISOTOPE_STATE	Optinal	iterative	{:+d}; mz {:.6f}; int {:.3f}; cor {:.3f}	no
+COMMENT:	PROPOSED_ION_FORM	Optinal	iterative	{:s}; {:s}; mz {:.6f}; int {:.3f}; cor {:.3f}	no
+COMMENT:	PROPOSED_SULFAR_ATOM	Optinal	iterative	{:+d}; mz {:.6f}; int {:.3f}; cor {:.3f}	no
+COMMENT:	PROPOSED_MAX_NUM_S	Optinal	iterative	{:d}	no
+COMMENT:	PROPOSED_MF_FROM_PRECMZ	Optinal	iterative	no	no
+COMMENT:	PROPOSED_MF	Optinal	iterative	{:s} {:.3f}; {:s}; {:s}; delta(ppm) {:-.6f}	no
+COMMENT:	PROPOSED_FROM_SPEC_SIMILARITY	Optinal	iterative	no	no
+COMMENT:	PROPOSED_COMPOUND	Optinal	iterative	{:s}:{:s} {:.3f}; {:s}; {:s}; {:s}	no
+COMMENT:	PROPOSED_CLASS	Optinal	iterative	{:s}:{:s} {:.3f}; {:s}; {:s}; {:s}	no
+COMMENT:	DATES	Optinal	unique	no	no
+COMMENT:	COUNTER	Optinal	unique	no	no
+CH$NAME:	*	Mandatory	iterative	no	no
+CH$COMPOUND_CLASS:	*	Mandatory	unique	no	no
+CH$FORMULA:	*	Mandatory	unique	no	no
+CH$EXACT_MASS:	*	Mandatory	unique	{:.6f}	float
+CH$SMILES:	*	Mandatory	unique	no	no
+CH$IUPAC:	*	Mandatory	unique	no	no
+CH$LINK:	CHEBI	Optinal	unique	no	no
+CH$LINK:	CHEMSPIDER	Optinal	unique	no	no
+CH$LINK:	HMDB	Optinal	unique	no	no
+CH$LINK:	INCHIKEY	Optinal	unique	no	no
+CH$LINK:	LIPIDBANK	Optinal	unique	no	no
+CH$LINK:	LIPIDMAPS	Optinal	unique	no	no
+CH$LINK:	PUBCHEM	Optinal	unique	no	no
+SP$SCIENTIFIC_NAME:	*	Optinal	unique	no	no
+SP$LINEAGE:	*	Optinal	unique	no	no
+SP$LINK:	*	Optinal	unique	no	no
+SP$SAMPLE:	*	Optinal	unique	no	no
+AC$INSTRUMENT:	*	Mandatory	unique	no	no
+AC$INSTRUMENT_TYPE:	*	Mandatory	unique	no	no
+AC$MASS_SPECTROMETRY:	MS_TYPE	Mandatory	unique	no	no
+AC$MASS_SPECTROMETRY:	ION_MODE	Mandatory	unique	no	no
+AC$MASS_SPECTROMETRY:	COLLISION_ENERGY	Optinal	unique	no	no
+AC$MASS_SPECTROMETRY:	COLLISION_GAS	Optinal	unique	no	no
+AC$MASS_SPECTROMETRY:	FRAGMENTATION_MODE	Optinal	unique	no	no
+AC$MASS_SPECTROMETRY:	ION_SPRAY_VOLTAGE	Optinal	unique	no	no
+AC$MASS_SPECTROMETRY:	IONIZATION	Optinal	unique	no	no
+AC$MASS_SPECTROMETRY:	MASS_ACCURACY	Optinal	unique	MS1(ppm) {:.2f}; MS2(ppm) {:.2f}	no
+AC$CHROMATOGRAPHY:	COLUMN_NAME	Optinal	unique	no	no
+AC$CHROMATOGRAPHY:	FLOW_GRADIENT	Optinal	unique	no	no
+AC$CHROMATOGRAPHY:	FLOW_RATE	Optinal	unique	no	no
+AC$CHROMATOGRAPHY:	RETENTION_TIME	Optinal	unique	{:.3f}	float
+AC$CHROMATOGRAPHY:	SOLVENT	Optinal	iterative	no	no
+MS$FOCUSED_ION:	ION_TYPE	Optinal	unique	no	no
+MS$FOCUSED_ION:	PRECURSOR_M/Z	Optinal	unique	{:.6f}	float
+MS$FOCUSED_ION:	PRECURSOR_TYPE	Optinal	unique	no	no
+MS$DATA_PROCESSING:	COMMENT	Optinal	iterative	no	no
+MS$DATA_PROCESSING:	RECALIBRATE	Optinal	unique	no	no
+PK$SPLASH:	*	Mandatory	unique	no	no
+PK$ANNOTATION:	*	Optinal	text	no	no
+PK$NUM_PEAK:	*	Mandatory	unique	{:d}	no
+PK$PEAK:	*	Mandatory	text	no	no

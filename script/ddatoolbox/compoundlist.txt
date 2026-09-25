@@ -1,0 +1,24 @@
+SHXWCVYOXRDMCX	sensitive
+GVGYEFKIHJTNQZ	sensitive
+QIQNNBXHAYSQRY	sensitive
+CMYJDRSCSOXYHG	sensitive
+KWGRBVOPPLSCSI	sensitive
+DTTZIOJYDSISDA	unrealistic	benzyloxycarbonyl (Cbz/Z) group	Z-Pro-Gly-Trp (benzyloxycarbonyl-protected peptide)	C1CC(N(C1)C(=O)OCC2=CC=CC=C2)C(=O)NCC(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)O	2/1 (HSA045)
+UZJYMPDJLRDMFI	unrealistic	t-Boc	N-Boc-3-(Dimethylamino)-Ala-Pro-(2-amino* 1-oxo-2,2-ethanoethane-1-yl)-Leu-NH2	CC(C)C[C@@H](C(=O)N)NC(=O)C1(CC1)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CN(C)C)NC(=O)OC(C)(C)C	1/1  (HSA003)
+SVSLOACKYSDWGV	unrealistic	t-Boc	tert-butyl N-[5-[(2-methylpropan-2-yl)oxycarbonylamino]-2-oxopent-3-ynyl]carbamate	CC(C)(C)OC(=O)NCC#CC(=O)CNC(=O)OC(C)(C)C	1/1 (HSA010)
+IBABAURSJXMCQJ	unrealistic	t-Boc	3-methyl-2-[[3-methyl-2-[(2-methylpropan-2-yl)oxycarbonylamino]butanoyl]amino]butanoate	CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)OC(C)(C)C	1/1 (HSA010)
+HUVLSUBYYLAXGE	unrealistic	t-Boc	3-[(4-Tert-butylphenyl)methylsulfanyl]-2-[(2-methylpropan-2-yl)oxycarbonylamino]propanoic acid	CC(C)(C)C1=CC=C(C=C1)CSCC(C(=O)O)NC(=O)OC(C)(C)C	1/1 (HSA090)
+AZDVQUBAPUXLGX	unrealistic	internal alkyne	5-(1H-Indol-3-yl)pent-3-ynoic acid ()	C1=CC=C2C(=C1)C(=CN2)CC#CCC(=O)O	1/1 (HSA090)
+HFNFEOLXZKPCQJ	unrealistic	alkyne	Aza-propargylglycyl-phenylalanine	[2H]N(CC(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)NC#C	1/1 (HSA010)
+YXLLZOKBFNDTEY	unrealistic	internal alkyne	3-[8-hydroxy-13-(oxan-2-yloxy)-13-[5-[1-(oxan-2-yloxy)tridecyl]oxolan-2-yl]tridec-10-ynyl]-4-(methoxymethoxy)-5-methyloxolan-2-one	CCCCCCCCCCCCC(C1CCC(O1)C(CC#CCC(CCCCCCCC2C(C(OC2=O)C)OCOC)O)OC3CCCCO3)OC4CCCCO4	1/1 (HSA020)
+MUZPJQUWDXQPLR	unrealistic	internal alkyne P-450 inhibitor	Hdypd	CC12CCC3C(C1CCC2C(C)(C#CCCC#C)O)CC=C4C3(CCC(C4)O)C	1/1 (HSA010)
+SVSLOACKYSDWGV	unrealistic	internal alkyne	tert-butyl N-[5-[(2-methylpropan-2-yl)oxycarbonylamino]-2-oxopent-3-ynyl]carbamate	CC(C)(C)OC(=O)NCC#CC(=O)CNC(=O)OC(C)(C)C	1/1 (HSA010)
+JAKVEOCMEMGHGB	unrealistic	alkyne	2-amino-3-prop-2-ynylsulfanylpropanoic acid	C#CCSCC(C(=O)O)N	1/1 HSA020
+GTTINBWNPGSJBA	unrealistic	internal alkyne	gamma-Glutamyl-(3-hydroxy-hex-4-ynoic acid)	CC#CC(C(C(=O)O)NC(=O)CCC(C(=O)O)N)O	1/1 HSA080
+CSZGEDPWASKNHR	unrealistic	internal alkyne	but-2-yne-1,4-diamine	C(C#CCN)N	1/1 HSA084
+UKYRSCSLPPYXEI	unrealistic	internal alkyne	2-[2-[2-[2-[2-[2-[2-[2-[2-(2-Ethynoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol	C#COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO	1/1 HSA022
+NOBIPILOBBDRIN	unrealistic	ynamine (C#C-NH-	2-(Ethynylamino)-3-(1H-indol-3-yl)propanoic acid	C#CNC(CC1=CNC2=CC=CC=C21)C(=O)O	1/1 (HSA010)
+CXAYRNANCDVNLK	unrealistic	aryl methyl peroxide (Ar-O-O-CH3)	Methylperoxy-phenoxy ranolazine analogue	CC1=C(C(=CC=C1)C)NC(=O)CN2CCN(CC2)CC(COC3=CC=CC=C3OOC)O	1/1 (HSA010)
+ITCQRQNCUNYROF	unrealistic	peroxy-phosphate ester (P-O-O-CH3)	Methylperoxy-phosphoryl diterpenyl diphosphate	C/C/1=C\CCC2=CCCC(=C2C(C(=CCC1)C)OP(=O)(O)OP(=O)(O)OOC)C	1/1 (HSA063)
+LKYWXXAVLLVJAS	unrealistic	iminium ion	2-Iminio-3-(indol-3-yl)propanoate	C1=CC=C2C(=C1)C(=CN2)CC(=N)C(=O)O	3/3 HSA079,HSA009,HSA022
+XAVFGDZINHIWPZ	unrealistic	free carbamic acid (R-NH-COOH)	2-(carboxyamino)-3-(1H-indol-3-yl)propanoic acid	C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)NC(=O)O	4/4 HSA010, HSA009,HSA079,HSA088

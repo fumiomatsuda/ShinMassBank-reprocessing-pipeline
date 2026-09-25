@@ -1,0 +1,1417 @@
+ZipfRanking	['MBK001']	2026.09.04.22.47.33	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 7}}	total	2698	numofgrandtruth	1872	fullannotation	611	poorconfidence	234	Used	1853
+ZipfRanking	['HSA003']	2026.09.04.22.50.08	confidence_threshold	{'confidence': {'thres': 0.7, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 7}}	total	3062	numofgrandtruth	161	fullannotation	1908	poorconfidence	689	Used	465
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.04.23.19.52	confidence_threshold	{'confidence': {'thres': 0.7, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 7}}	total	49570	numofgrandtruth	2054	fullannotation	36150	poorconfidence	10771	Used	2649
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.00.15.57	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 7}}	total	217958	numofgrandtruth	12448	fullannotation	158992	poorconfidence	38351	Used	20615
+ZipfRanking	['HSA001']	2026.09.05.06.16.16	confidence_threshold	{'confidence': {'thres': 0.2, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	2873	numofgrandtruth	0	fullannotation	994	poorconfidence	711	Used	1168
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.07.19.53	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 5}}	total	217958	numofgrandtruth	12063	fullannotation	157674	poorconfidence	0	Used	31213
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.05.07.38.33	confidence_threshold	{'confidence': {'thres': 0.54, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 2, 'MetFrag:MS-FINDER_DB': 4}}	total	49570	numofgrandtruth	1949	fullannotation	36550	poorconfidence	0	Used	5720
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.07.58.28	confidence_threshold	{'confidence': {'thres': 0.2, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	217958	numofgrandtruth	12448	fullannotation	85194	poorconfidence	80734	Used	52030
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.05.08.04.31	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	49570	numofgrandtruth	2054	fullannotation	21148	poorconfidence	23416	Used	5006
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.09.23.20	confidence_threshold	{'confidence': {'thres': 0.2, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	217958	numofgrandtruth	12448	fullannotation	85194	poorconfidence	80734	Used	52030
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.05.09.28.21	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	49570	numofgrandtruth	2054	fullannotation	21148	poorconfidence	23416	Used	5006
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.10.03.07	confidence_threshold	{'confidence': {'thres': 0.2, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	217958	numofgrandtruth	12448	fullannotation	118206	poorconfidence	50639	Used	49113
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.05.10.09.59	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_Sirius': 1, 'MS-FINDER': 2}}	total	49570	numofgrandtruth	2054	fullannotation	29734	poorconfidence	15069	Used	4767
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.10.45.52	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 4, 'MetFrag:MS-FINDER_DB': 10}}	total	217958	numofgrandtruth	12063	fullannotation	157674	poorconfidence	0	Used	36408
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.05.10.52.01	confidence_threshold	{'confidence': {'thres': 0.54, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 8}}	total	49570	numofgrandtruth	1949	fullannotation	36550	poorconfidence	0	Used	6993
+ZipfRanking	['HSA001', 'HSA002', 'HSA005', 'HSA006', 'HSA009', 'HSA010', 'HSA014', 'HSA015', 'HSA017', 'HSA018', 'HSA019', 'HSA020', 'HSA021', 'HSA022', 'HSA028', 'HSA029', 'HSA043', 'HSA044', 'HSA045', 'HSA046', 'HSA047', 'HSA048', 'HSA051', 'HSA052', 'HSA054', 'HSA061', 'HSA062', 'HSA063', 'HSA064', 'HSA065', 'HSA066', 'HSA067', 'HSA068', 'HSA069', 'HSA070', 'HSA073', 'HSA076', 'HSA077', 'HSA078', 'HSA079', 'HSA080', 'HSA081', 'HSA082', 'HSA088', 'HSA089', 'HSA090', 'HSA091', 'HSA092', 'HSA093', 'HSA094', 'HSA099', 'HSA100']	2026.09.05.11.15.35	confidence_threshold	{'confidence': {'thres': 0.5, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 3, 'MetFrag:MS-FINDER_DB': 5}}	total	217958	numofgrandtruth	12063	fullannotation	157674	poorconfidence	0	Used	31213
+ZipfRanking	['HSA003', 'HSA004', 'HSA007', 'HSA008', 'HSA031', 'HSA032', 'HSA033', 'HSA025', 'HSA034', 'HSA035', 'HSA036', 'HSA037', 'HSA038', 'HSA039', 'HSA040', 'HSA041', 'HSA042', 'HSA056', 'HSA057', 'HSA059', 'HSA060', 'HSA087']	2026.09.05.11.21.50	confidence_threshold	{'confidence': {'thres': 0.54, 'method': 's6'}, 'rank': {'SIRIUS6_CSI:biodatabase': 1, 'MS-FINDER:MS-FINDER_DB': 2, 'MetFrag:MS-FINDER_DB': 4}}	total	49570	numofgrandtruth	1949	fullannotation	36550	poorconfidence	0	Used	5720
+HSA001	Estimated qvalue	2026.09.05.14.32.15	total	2003	noallranking	0	pvaluecalced	253	fdr<0.1	125	fdr<0.05	56	fdr<0.01	0
+HSA001	Estimated qvalue	2026.09.05.14.59.06	total	2003	noallranking	0	pvaluecalced	253	fdr<0.1	125	fdr<0.05	56	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.05.14.59.29	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA001	Estimated qvalue formula	2026.09.05.15.00.17	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	353	fdr<0.05	288	fdr<0.01	199
+HSA001	Estimated qvalue	2026.09.05.15.09.34	total	2003	noallranking	0	pvaluecalced	253	fdr<0.1	279	fdr<0.05	170	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.05.15.10.00	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA001	Estimated qvalue formula	2026.09.05.15.10.55	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	353	fdr<0.05	288	fdr<0.01	199
+HSA001	Estimated qvalue	2026.09.05.18.11.01	total	2003	noallranking	0	pvaluecalced	253	fdr<0.1	279	fdr<0.05	170	fdr<0.01	0
+HSA002	Estimated qvalue	2026.09.05.18.12.38	total	885	noallranking	0	pvaluecalced	122	fdr<0.1	166	fdr<0.05	91	fdr<0.01	0
+HSA003	Estimated qvalue	2026.09.05.18.18.04	total	2342	noallranking	0	pvaluecalced	407	fdr<0.1	445	fdr<0.05	138	fdr<0.01	0
+HSA004	Estimated qvalue	2026.09.05.18.19.29	total	1673	noallranking	0	pvaluecalced	90	fdr<0.1	110	fdr<0.05	39	fdr<0.01	0
+HSA005	Estimated qvalue	2026.09.05.18.19.50	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	21	fdr<0.05	11	fdr<0.01	0
+HSA006	Estimated qvalue	2026.09.05.18.21.12	total	725	noallranking	0	pvaluecalced	111	fdr<0.1	151	fdr<0.05	88	fdr<0.01	0
+HSA007	Estimated qvalue	2026.09.05.18.22.51	total	1638	noallranking	0	pvaluecalced	199	fdr<0.1	279	fdr<0.05	104	fdr<0.01	0
+HSA008	Estimated qvalue	2026.09.05.18.23.49	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	58	fdr<0.05	26	fdr<0.01	0
+HSA009	Estimated qvalue	2026.09.05.18.40.33	total	17293	noallranking	0	pvaluecalced	1544	fdr<0.1	1955	fdr<0.05	1072	fdr<0.01	0
+HSA010	Estimated qvalue	2026.09.05.18.56.21	total	17465	noallranking	0	pvaluecalced	2197	fdr<0.1	2459	fdr<0.05	1350	fdr<0.01	0
+HSA014	Estimated qvalue	2026.09.05.18.56.44	total	906	noallranking	0	pvaluecalced	49	fdr<0.1	93	fdr<0.05	55	fdr<0.01	0
+HSA015	Estimated qvalue	2026.09.05.18.58.37	total	2013	noallranking	0	pvaluecalced	220	fdr<0.1	277	fdr<0.05	155	fdr<0.01	0
+HSA017	Estimated qvalue	2026.09.05.18.58.42	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	37	fdr<0.05	23	fdr<0.01	0
+HSA018	Estimated qvalue	2026.09.05.18.58.53	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	87	fdr<0.05	56	fdr<0.01	0
+HSA019	Estimated qvalue	2026.09.05.19.00.33	total	2890	noallranking	0	pvaluecalced	307	fdr<0.1	502	fdr<0.05	309	fdr<0.01	0
+HSA020	Estimated qvalue	2026.09.05.19.03.12	total	5782	noallranking	0	pvaluecalced	466	fdr<0.1	615	fdr<0.05	372	fdr<0.01	0
+HSA021	Estimated qvalue	2026.09.05.19.07.01	total	6363	noallranking	0	pvaluecalced	479	fdr<0.1	648	fdr<0.05	385	fdr<0.01	0
+HSA022	Estimated qvalue	2026.09.05.19.10.54	total	7452	noallranking	0	pvaluecalced	801	fdr<0.1	1114	fdr<0.05	710	fdr<0.01	0
+HSA028	Estimated qvalue	2026.09.05.19.12.28	total	3327	noallranking	0	pvaluecalced	280	fdr<0.1	429	fdr<0.05	239	fdr<0.01	0
+HSA029	Estimated qvalue	2026.09.05.19.14.19	total	3516	noallranking	0	pvaluecalced	313	fdr<0.1	443	fdr<0.05	256	fdr<0.01	0
+HSA031	Estimated qvalue	2026.09.05.19.15.10	total	620	noallranking	0	pvaluecalced	45	fdr<0.1	66	fdr<0.05	29	fdr<0.01	0
+HSA032	Estimated qvalue	2026.09.05.19.18.14	total	1723	noallranking	0	pvaluecalced	218	fdr<0.1	257	fdr<0.05	95	fdr<0.01	0
+HSA033	Estimated qvalue	2026.09.05.19.19.11	total	1217	noallranking	0	pvaluecalced	50	fdr<0.1	92	fdr<0.05	41	fdr<0.01	0
+HSA025	Estimated qvalue	2026.09.05.19.19.47	total	1660	noallranking	0	pvaluecalced	10	fdr<0.1	14	fdr<0.05	6	fdr<0.01	0
+HSA034	Estimated qvalue	2026.09.05.19.20.58	total	871	noallranking	0	pvaluecalced	143	fdr<0.1	208	fdr<0.05	78	fdr<0.01	0
+HSA035	Estimated qvalue	2026.09.05.19.22.25	total	1954	noallranking	0	pvaluecalced	26	fdr<0.1	33	fdr<0.05	13	fdr<0.01	0
+HSA036	Estimated qvalue	2026.09.05.19.22.52	total	206	noallranking	0	pvaluecalced	23	fdr<0.1	19	fdr<0.05	6	fdr<0.01	0
+HSA037	Estimated qvalue	2026.09.05.19.23.42	total	1234	noallranking	0	pvaluecalced	9	fdr<0.1	9	fdr<0.05	3	fdr<0.01	0
+HSA038	Estimated qvalue	2026.09.05.19.25.08	total	508	noallranking	0	pvaluecalced	31	fdr<0.1	22	fdr<0.05	9	fdr<0.01	0
+HSA039	Estimated qvalue	2026.09.05.19.25.16	total	428	noallranking	0	pvaluecalced	5	fdr<0.1	9	fdr<0.05	4	fdr<0.01	0
+HSA040	Estimated qvalue	2026.09.05.19.25.22	total	121	noallranking	0	pvaluecalced	21	fdr<0.1	38	fdr<0.05	16	fdr<0.01	0
+HSA041	Estimated qvalue	2026.09.05.19.25.59	total	1094	noallranking	0	pvaluecalced	45	fdr<0.1	79	fdr<0.05	35	fdr<0.01	0
+HSA042	Estimated qvalue	2026.09.05.19.27.35	total	1853	noallranking	0	pvaluecalced	215	fdr<0.1	316	fdr<0.05	131	fdr<0.01	0
+HSA043	Estimated qvalue	2026.09.05.19.28.53	total	1935	noallranking	0	pvaluecalced	172	fdr<0.1	235	fdr<0.05	125	fdr<0.01	0
+HSA044	Estimated qvalue	2026.09.05.19.31.36	total	5469	noallranking	0	pvaluecalced	98	fdr<0.1	86	fdr<0.05	36	fdr<0.01	0
+HSA045	Estimated qvalue	2026.09.05.19.32.27	total	1874	noallranking	0	pvaluecalced	118	fdr<0.1	204	fdr<0.05	122	fdr<0.01	0
+HSA046	Estimated qvalue	2026.09.05.19.34.19	total	3407	noallranking	0	pvaluecalced	438	fdr<0.1	525	fdr<0.05	313	fdr<0.01	0
+HSA047	Estimated qvalue	2026.09.05.19.35.27	total	1713	noallranking	0	pvaluecalced	123	fdr<0.1	165	fdr<0.05	94	fdr<0.01	0
+HSA048	Estimated qvalue	2026.09.05.19.37.44	total	3306	noallranking	0	pvaluecalced	418	fdr<0.1	483	fdr<0.05	277	fdr<0.01	0
+HSA051	Estimated qvalue	2026.09.05.19.38.47	total	1452	noallranking	0	pvaluecalced	126	fdr<0.1	154	fdr<0.05	71	fdr<0.01	0
+HSA052	Estimated qvalue	2026.09.05.19.40.13	total	5194	noallranking	0	pvaluecalced	183	fdr<0.1	289	fdr<0.05	177	fdr<0.01	0
+HSA054	Estimated qvalue	2026.09.05.19.40.43	total	978	noallranking	0	pvaluecalced	18	fdr<0.1	25	fdr<0.05	14	fdr<0.01	0
+HSA056	Estimated qvalue	2026.09.05.19.40.56	total	405	noallranking	0	pvaluecalced	1	fdr<0.1	0	fdr<0.05	0	fdr<0.01	0
+HSA057	Estimated qvalue	2026.09.05.19.41.33	total	923	noallranking	0	pvaluecalced	11	fdr<0.1	11	fdr<0.05	2	fdr<0.01	0
+HSA059	Estimated qvalue	2026.09.05.19.43.49	total	4055	noallranking	0	pvaluecalced	149	fdr<0.1	241	fdr<0.05	101	fdr<0.01	0
+HSA060	Estimated qvalue	2026.09.05.19.47.21	total	3930	noallranking	0	pvaluecalced	249	fdr<0.1	357	fdr<0.05	133	fdr<0.01	0
+HSA061	Estimated qvalue	2026.09.05.19.47.39	total	691	noallranking	0	pvaluecalced	65	fdr<0.1	101	fdr<0.05	64	fdr<0.01	0
+HSA062	Estimated qvalue	2026.09.05.19.49.18	total	1161	noallranking	0	pvaluecalced	216	fdr<0.1	251	fdr<0.05	146	fdr<0.01	0
+HSA063	Estimated qvalue	2026.09.05.19.50.20	total	1379	noallranking	0	pvaluecalced	176	fdr<0.1	269	fdr<0.05	170	fdr<0.01	0
+HSA064	Estimated qvalue	2026.09.05.19.52.22	total	1765	noallranking	0	pvaluecalced	324	fdr<0.1	313	fdr<0.05	146	fdr<0.01	0
+HSA065	Estimated qvalue	2026.09.05.19.52.42	total	615	noallranking	0	pvaluecalced	29	fdr<0.1	49	fdr<0.05	32	fdr<0.01	0
+HSA066	Estimated qvalue	2026.09.05.19.54.27	total	1670	noallranking	0	pvaluecalced	235	fdr<0.1	248	fdr<0.05	117	fdr<0.01	0
+HSA067	Estimated qvalue	2026.09.05.19.54.50	total	682	noallranking	0	pvaluecalced	34	fdr<0.1	62	fdr<0.05	43	fdr<0.01	0
+HSA068	Estimated qvalue	2026.09.05.19.55.34	total	903	noallranking	0	pvaluecalced	148	fdr<0.1	188	fdr<0.05	115	fdr<0.01	0
+HSA069	Estimated qvalue	2026.09.05.19.56.06	total	1030	noallranking	0	pvaluecalced	53	fdr<0.1	78	fdr<0.05	39	fdr<0.01	0
+HSA070	Estimated qvalue	2026.09.05.19.57.06	total	1285	noallranking	0	pvaluecalced	170	fdr<0.1	205	fdr<0.05	114	fdr<0.01	0
+HSA073	Estimated qvalue	2026.09.05.19.57.49	total	2325	noallranking	0	pvaluecalced	32	fdr<0.1	46	fdr<0.05	27	fdr<0.01	0
+HSA076	Estimated qvalue	2026.09.05.20.01.37	total	3483	noallranking	0	pvaluecalced	376	fdr<0.1	415	fdr<0.05	204	fdr<0.01	0
+HSA077	Estimated qvalue	2026.09.05.20.02.14	total	1008	noallranking	0	pvaluecalced	113	fdr<0.1	132	fdr<0.05	64	fdr<0.01	0
+HSA078	Estimated qvalue	2026.09.05.20.06.36	total	10995	noallranking	0	pvaluecalced	290	fdr<0.1	338	fdr<0.05	188	fdr<0.01	0
+HSA079	Estimated qvalue	2026.09.05.20.10.47	total	6479	noallranking	0	pvaluecalced	575	fdr<0.1	653	fdr<0.05	329	fdr<0.01	0
+HSA080	Estimated qvalue	2026.09.05.20.16.28	total	8707	noallranking	0	pvaluecalced	689	fdr<0.1	793	fdr<0.05	423	fdr<0.01	0
+HSA081	Estimated qvalue	2026.09.05.20.16.56	total	1014	noallranking	0	pvaluecalced	19	fdr<0.1	28	fdr<0.05	17	fdr<0.01	0
+HSA082	Estimated qvalue	2026.09.05.20.17.32	total	1013	noallranking	0	pvaluecalced	78	fdr<0.1	63	fdr<0.05	41	fdr<0.01	0
+HSA087	Estimated qvalue	2026.09.05.20.18.03	total	613	noallranking	0	pvaluecalced	37	fdr<0.1	55	fdr<0.05	23	fdr<0.01	0
+HSA088	Estimated qvalue	2026.09.05.20.25.51	total	12411	noallranking	0	pvaluecalced	1055	fdr<0.1	1267	fdr<0.05	649	fdr<0.01	0
+HSA089	Estimated qvalue	2026.09.05.20.26.58	total	1622	noallranking	0	pvaluecalced	211	fdr<0.1	212	fdr<0.05	112	fdr<0.01	0
+HSA090	Estimated qvalue	2026.09.05.20.28.54	total	1526	noallranking	0	pvaluecalced	358	fdr<0.1	382	fdr<0.05	206	fdr<0.01	0
+HSA091	Estimated qvalue	2026.09.05.20.29.35	total	1452	noallranking	0	pvaluecalced	187	fdr<0.1	260	fdr<0.05	153	fdr<0.01	0
+HSA092	Estimated qvalue	2026.09.05.20.30.27	total	1603	noallranking	0	pvaluecalced	247	fdr<0.1	358	fdr<0.05	218	fdr<0.01	0
+HSA093	Estimated qvalue	2026.09.05.20.32.10	total	1908	noallranking	0	pvaluecalced	381	fdr<0.1	444	fdr<0.05	257	fdr<0.01	0
+HSA094	Estimated qvalue	2026.09.05.20.33.59	total	1904	noallranking	0	pvaluecalced	449	fdr<0.1	576	fdr<0.05	354	fdr<0.01	0
+HSA099	Estimated qvalue	2026.09.05.20.34.20	total	1110	noallranking	0	pvaluecalced	44	fdr<0.1	72	fdr<0.05	50	fdr<0.01	0
+HSA100	Estimated qvalue	2026.09.05.20.35.12	total	1404	noallranking	0	pvaluecalced	202	fdr<0.1	238	fdr<0.05	139	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.05.20.36.10	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA002	Estimated qvalue formula	2026.09.05.20.36.41	total	2383	noallranking	0	pvaluecalced	577	fdr<0.1	577	fdr<0.05	577	fdr<0.01	574
+HSA003	Estimated qvalue formula	2026.09.05.20.38.07	total	3062	noallranking	0	pvaluecalced	1370	fdr<0.1	1370	fdr<0.05	1329	fdr<0.01	1260
+HSA004	Estimated qvalue formula	2026.09.05.20.39.11	total	2317	noallranking	0	pvaluecalced	644	fdr<0.1	633	fdr<0.05	596	fdr<0.01	494
+HSA005	Estimated qvalue formula	2026.09.05.20.39.24	total	763	noallranking	0	pvaluecalced	111	fdr<0.1	111	fdr<0.05	111	fdr<0.01	107
+HSA006	Estimated qvalue formula	2026.09.05.20.39.46	total	867	noallranking	0	pvaluecalced	502	fdr<0.1	502	fdr<0.05	502	fdr<0.01	499
+HSA007	Estimated qvalue formula	2026.09.05.20.40.38	total	3067	noallranking	0	pvaluecalced	786	fdr<0.1	786	fdr<0.05	769	fdr<0.01	731
+HSA008	Estimated qvalue formula	2026.09.05.20.41.28	total	3255	noallranking	0	pvaluecalced	603	fdr<0.1	595	fdr<0.05	560	fdr<0.01	530
+HSA009	Estimated qvalue formula	2026.09.05.20.47.08	total	21405	noallranking	0	pvaluecalced	6440	fdr<0.1	6440	fdr<0.05	6440	fdr<0.01	6375
+HSA010	Estimated qvalue formula	2026.09.05.20.52.37	total	19350	noallranking	0	pvaluecalced	9293	fdr<0.1	9293	fdr<0.05	9293	fdr<0.01	9211
+HSA014	Estimated qvalue formula	2026.09.05.20.52.54	total	1187	noallranking	0	pvaluecalced	318	fdr<0.1	318	fdr<0.05	318	fdr<0.01	315
+HSA015	Estimated qvalue formula	2026.09.05.20.53.34	total	2403	noallranking	0	pvaluecalced	1221	fdr<0.1	1221	fdr<0.05	1221	fdr<0.01	1208
+HSA017	Estimated qvalue formula	2026.09.05.20.53.37	total	228	noallranking	0	pvaluecalced	80	fdr<0.1	80	fdr<0.05	80	fdr<0.01	78
+HSA018	Estimated qvalue formula	2026.09.05.20.53.42	total	320	noallranking	0	pvaluecalced	130	fdr<0.1	130	fdr<0.05	130	fdr<0.01	129
+HSA019	Estimated qvalue formula	2026.09.05.20.55.00	total	4784	noallranking	0	pvaluecalced	1536	fdr<0.1	1536	fdr<0.05	1536	fdr<0.01	1514
+HSA020	Estimated qvalue formula	2026.09.05.20.57.18	total	7165	noallranking	0	pvaluecalced	1797	fdr<0.1	1782	fdr<0.05	1687	fdr<0.01	1593
+HSA021	Estimated qvalue formula	2026.09.05.20.59.34	total	7820	noallranking	0	pvaluecalced	2678	fdr<0.1	2678	fdr<0.05	2678	fdr<0.01	2626
+HSA022	Estimated qvalue formula	2026.09.05.21.01.50	total	9395	noallranking	0	pvaluecalced	2538	fdr<0.1	2538	fdr<0.05	2492	fdr<0.01	2371
+HSA028	Estimated qvalue formula	2026.09.05.21.02.05	total	4358	noallranking	0	pvaluecalced	1176	fdr<0.1	1176	fdr<0.05	1176	fdr<0.01	1154
+HSA029	Estimated qvalue formula	2026.09.05.21.02.22	total	4191	noallranking	0	pvaluecalced	1428	fdr<0.1	1428	fdr<0.05	1428	fdr<0.01	1406
+HSA031	Estimated qvalue formula	2026.09.05.21.02.33	total	1488	noallranking	0	pvaluecalced	341	fdr<0.1	341	fdr<0.05	323	fdr<0.01	286
+HSA032	Estimated qvalue formula	2026.09.05.21.03.05	total	2908	noallranking	0	pvaluecalced	1161	fdr<0.1	1161	fdr<0.05	1114	fdr<0.01	1054
+HSA033	Estimated qvalue formula	2026.09.05.21.03.25	total	2501	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	625	fdr<0.01	573
+HSA025	Estimated qvalue formula	2026.09.05.21.03.41	total	1848	noallranking	0	pvaluecalced	764	fdr<0.1	757	fdr<0.05	715	fdr<0.01	676
+HSA034	Estimated qvalue formula	2026.09.05.21.03.54	total	1788	noallranking	0	pvaluecalced	592	fdr<0.1	592	fdr<0.05	587	fdr<0.01	556
+HSA035	Estimated qvalue formula	2026.09.05.21.04.48	total	3301	noallranking	0	pvaluecalced	1132	fdr<0.1	1074	fdr<0.05	1003	fdr<0.01	927
+HSA036	Estimated qvalue formula	2026.09.05.21.04.51	total	307	noallranking	0	pvaluecalced	87	fdr<0.1	81	fdr<0.05	76	fdr<0.01	72
+HSA037	Estimated qvalue formula	2026.09.05.21.05.03	total	2211	noallranking	0	pvaluecalced	341	fdr<0.1	283	fdr<0.05	263	fdr<0.01	249
+HSA038	Estimated qvalue formula	2026.09.05.21.05.11	total	925	noallranking	0	pvaluecalced	281	fdr<0.1	271	fdr<0.05	254	fdr<0.01	236
+HSA039	Estimated qvalue formula	2026.09.05.21.05.13	total	687	noallranking	0	pvaluecalced	54	fdr<0.1	54	fdr<0.05	54	fdr<0.01	49
+HSA040	Estimated qvalue formula	2026.09.05.21.05.14	total	205	noallranking	0	pvaluecalced	64	fdr<0.1	64	fdr<0.05	64	fdr<0.01	63
+HSA041	Estimated qvalue formula	2026.09.05.21.05.28	total	1888	noallranking	0	pvaluecalced	363	fdr<0.1	345	fdr<0.05	322	fdr<0.01	300
+HSA042	Estimated qvalue formula	2026.09.05.21.05.55	total	2709	noallranking	0	pvaluecalced	978	fdr<0.1	978	fdr<0.05	934	fdr<0.01	885
+HSA043	Estimated qvalue formula	2026.09.05.21.06.12	total	2659	noallranking	0	pvaluecalced	1064	fdr<0.1	1064	fdr<0.05	1064	fdr<0.01	1019
+HSA044	Estimated qvalue formula	2026.09.05.21.06.53	total	6523	noallranking	0	pvaluecalced	2946	fdr<0.1	2946	fdr<0.05	2905	fdr<0.01	2745
+HSA045	Estimated qvalue formula	2026.09.05.21.07.04	total	3154	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	763	fdr<0.01	730
+HSA046	Estimated qvalue formula	2026.09.05.21.07.23	total	4023	noallranking	0	pvaluecalced	1672	fdr<0.1	1672	fdr<0.05	1649	fdr<0.01	1568
+HSA047	Estimated qvalue formula	2026.09.05.21.07.40	total	3546	noallranking	0	pvaluecalced	949	fdr<0.1	949	fdr<0.05	925	fdr<0.01	874
+HSA048	Estimated qvalue formula	2026.09.05.21.08.03	total	3722	noallranking	0	pvaluecalced	2139	fdr<0.1	2139	fdr<0.05	2139	fdr<0.01	2041
+HSA051	Estimated qvalue formula	2026.09.05.21.08.15	total	1621	noallranking	0	pvaluecalced	873	fdr<0.1	873	fdr<0.05	849	fdr<0.01	799
+HSA052	Estimated qvalue formula	2026.09.05.21.08.41	total	6238	noallranking	0	pvaluecalced	1450	fdr<0.1	1450	fdr<0.05	1411	fdr<0.01	1341
+HSA054	Estimated qvalue formula	2026.09.05.21.08.57	total	1643	noallranking	0	pvaluecalced	345	fdr<0.1	343	fdr<0.05	322	fdr<0.01	296
+HSA056	Estimated qvalue formula	2026.09.05.21.09.06	total	554	noallranking	0	pvaluecalced	114	fdr<0.1	90	fdr<0.05	84	fdr<0.01	72
+HSA057	Estimated qvalue formula	2026.09.05.21.09.32	total	1695	noallranking	0	pvaluecalced	443	fdr<0.1	410	fdr<0.05	382	fdr<0.01	349
+HSA059	Estimated qvalue formula	2026.09.05.21.10.15	total	6219	noallranking	0	pvaluecalced	1524	fdr<0.1	1485	fdr<0.05	1392	fdr<0.01	1318
+HSA060	Estimated qvalue formula	2026.09.05.21.11.31	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1182	fdr<0.05	1113	fdr<0.01	1053
+HSA061	Estimated qvalue formula	2026.09.05.21.11.34	total	835	noallranking	0	pvaluecalced	234	fdr<0.1	234	fdr<0.05	234	fdr<0.01	226
+HSA062	Estimated qvalue formula	2026.09.05.21.11.45	total	1285	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	665
+HSA063	Estimated qvalue formula	2026.09.05.21.11.55	total	1672	noallranking	0	pvaluecalced	953	fdr<0.1	953	fdr<0.05	953	fdr<0.01	924
+HSA064	Estimated qvalue formula	2026.09.05.21.12.11	total	1962	noallranking	0	pvaluecalced	1117	fdr<0.1	1117	fdr<0.05	1110	fdr<0.01	1051
+HSA065	Estimated qvalue formula	2026.09.05.21.12.14	total	1365	noallranking	0	pvaluecalced	156	fdr<0.1	156	fdr<0.05	156	fdr<0.01	149
+HSA066	Estimated qvalue formula	2026.09.05.21.12.44	total	2729	noallranking	0	pvaluecalced	1147	fdr<0.1	1147	fdr<0.05	1081	fdr<0.01	1016
+HSA067	Estimated qvalue formula	2026.09.05.21.12.48	total	1595	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	149	fdr<0.01	143
+HSA068	Estimated qvalue formula	2026.09.05.21.12.58	total	1976	noallranking	0	pvaluecalced	602	fdr<0.1	602	fdr<0.05	591	fdr<0.01	560
+HSA069	Estimated qvalue formula	2026.09.05.21.13.03	total	1236	noallranking	0	pvaluecalced	423	fdr<0.1	423	fdr<0.05	423	fdr<0.01	422
+HSA070	Estimated qvalue formula	2026.09.05.21.13.10	total	1505	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	695
+HSA073	Estimated qvalue formula	2026.09.05.21.13.22	total	2525	noallranking	0	pvaluecalced	283	fdr<0.1	283	fdr<0.05	277	fdr<0.01	265
+HSA076	Estimated qvalue formula	2026.09.05.21.14.13	total	3673	noallranking	0	pvaluecalced	2022	fdr<0.1	2022	fdr<0.05	1933	fdr<0.01	1818
+HSA077	Estimated qvalue formula	2026.09.05.21.14.20	total	1105	noallranking	0	pvaluecalced	566	fdr<0.1	566	fdr<0.05	566	fdr<0.01	554
+HSA078	Estimated qvalue formula	2026.09.05.21.15.26	total	15823	noallranking	0	pvaluecalced	3268	fdr<0.1	3268	fdr<0.05	3173	fdr<0.01	3005
+HSA079	Estimated qvalue formula	2026.09.05.21.16.05	total	9277	noallranking	0	pvaluecalced	2906	fdr<0.1	2906	fdr<0.05	2905	fdr<0.01	2764
+HSA080	Estimated qvalue formula	2026.09.05.21.16.59	total	12308	noallranking	0	pvaluecalced	3668	fdr<0.1	3668	fdr<0.05	3668	fdr<0.01	3500
+HSA081	Estimated qvalue formula	2026.09.05.21.17.07	total	1967	noallranking	0	pvaluecalced	290	fdr<0.1	290	fdr<0.05	280	fdr<0.01	266
+HSA082	Estimated qvalue formula	2026.09.05.21.17.18	total	2018	noallranking	0	pvaluecalced	490	fdr<0.1	488	fdr<0.05	461	fdr<0.01	434
+HSA087	Estimated qvalue formula	2026.09.05.21.17.37	total	1215	noallranking	0	pvaluecalced	259	fdr<0.1	224	fdr<0.05	208	fdr<0.01	189
+HSA088	Estimated qvalue formula	2026.09.05.21.18.35	total	15954	noallranking	0	pvaluecalced	5105	fdr<0.1	5105	fdr<0.05	5105	fdr<0.01	4995
+HSA089	Estimated qvalue formula	2026.09.05.21.18.46	total	1712	noallranking	0	pvaluecalced	1020	fdr<0.1	867	fdr<0.05	798	fdr<0.01	751
+HSA090	Estimated qvalue formula	2026.09.05.21.18.57	total	1602	noallranking	0	pvaluecalced	1208	fdr<0.1	1208	fdr<0.05	1208	fdr<0.01	1181
+HSA091	Estimated qvalue formula	2026.09.05.21.19.03	total	1597	noallranking	0	pvaluecalced	679	fdr<0.1	679	fdr<0.05	679	fdr<0.01	660
+HSA092	Estimated qvalue formula	2026.09.05.21.19.11	total	1769	noallranking	0	pvaluecalced	1021	fdr<0.1	1021	fdr<0.05	1021	fdr<0.01	993
+HSA093	Estimated qvalue formula	2026.09.05.21.19.22	total	1991	noallranking	0	pvaluecalced	1275	fdr<0.1	1275	fdr<0.05	1275	fdr<0.01	1259
+HSA094	Estimated qvalue formula	2026.09.05.21.19.35	total	2007	noallranking	0	pvaluecalced	1463	fdr<0.1	1463	fdr<0.05	1463	fdr<0.01	1417
+HSA099	Estimated qvalue formula	2026.09.05.21.19.39	total	1620	noallranking	0	pvaluecalced	231	fdr<0.1	231	fdr<0.05	231	fdr<0.01	226
+HSA100	Estimated qvalue formula	2026.09.05.21.19.47	total	2229	noallranking	0	pvaluecalced	668	fdr<0.1	668	fdr<0.05	668	fdr<0.01	644
+HSA001	Estimated qvalue formula	2026.09.05.21.20.40	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	353	fdr<0.05	288	fdr<0.01	199
+HSA002	Estimated qvalue formula	2026.09.05.21.20.46	total	2383	noallranking	0	pvaluecalced	137	fdr<0.1	132	fdr<0.05	112	fdr<0.01	56
+HSA003	Estimated qvalue formula	2026.09.05.21.21.25	total	3062	noallranking	0	pvaluecalced	563	fdr<0.1	563	fdr<0.05	530	fdr<0.01	328
+HSA004	Estimated qvalue formula	2026.09.05.21.21.34	total	2317	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	210	fdr<0.01	142
+HSA005	Estimated qvalue formula	2026.09.05.21.21.36	total	763	noallranking	0	pvaluecalced	81	fdr<0.1	81	fdr<0.05	81	fdr<0.01	58
+HSA006	Estimated qvalue formula	2026.09.05.21.21.40	total	867	noallranking	0	pvaluecalced	355	fdr<0.1	355	fdr<0.05	355	fdr<0.01	327
+HSA007	Estimated qvalue formula	2026.09.05.21.21.49	total	3067	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	279
+HSA008	Estimated qvalue formula	2026.09.05.21.21.56	total	3255	noallranking	0	pvaluecalced	306	fdr<0.1	306	fdr<0.05	301	fdr<0.01	217
+HSA009	Estimated qvalue formula	2026.09.05.21.23.08	total	21405	noallranking	0	pvaluecalced	2151	fdr<0.1	2151	fdr<0.05	1893	fdr<0.01	1076
+HSA010	Estimated qvalue formula	2026.09.05.21.24.31	total	19350	noallranking	0	pvaluecalced	3203	fdr<0.1	3203	fdr<0.05	2792	fdr<0.01	1745
+HSA014	Estimated qvalue formula	2026.09.05.21.24.34	total	1187	noallranking	0	pvaluecalced	119	fdr<0.1	119	fdr<0.05	115	fdr<0.01	76
+HSA015	Estimated qvalue formula	2026.09.05.21.24.45	total	2403	noallranking	0	pvaluecalced	350	fdr<0.1	338	fdr<0.05	287	fdr<0.01	159
+HSA017	Estimated qvalue formula	2026.09.05.21.24.46	total	228	noallranking	0	pvaluecalced	38	fdr<0.1	38	fdr<0.05	38	fdr<0.01	25
+HSA018	Estimated qvalue formula	2026.09.05.21.24.47	total	320	noallranking	0	pvaluecalced	77	fdr<0.1	77	fdr<0.05	77	fdr<0.01	61
+HSA019	Estimated qvalue formula	2026.09.05.21.25.04	total	4784	noallranking	0	pvaluecalced	689	fdr<0.1	689	fdr<0.05	655	fdr<0.01	372
+HSA020	Estimated qvalue formula	2026.09.05.21.25.27	total	7165	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	721	fdr<0.01	521
+HSA021	Estimated qvalue formula	2026.09.05.21.25.57	total	7820	noallranking	0	pvaluecalced	1167	fdr<0.1	1167	fdr<0.05	1117	fdr<0.01	713
+HSA022	Estimated qvalue formula	2026.09.05.21.26.26	total	9395	noallranking	0	pvaluecalced	1186	fdr<0.1	1186	fdr<0.05	1164	fdr<0.01	827
+HSA028	Estimated qvalue formula	2026.09.05.21.26.37	total	4358	noallranking	0	pvaluecalced	390	fdr<0.1	390	fdr<0.05	369	fdr<0.01	235
+HSA029	Estimated qvalue formula	2026.09.05.21.26.50	total	4191	noallranking	0	pvaluecalced	494	fdr<0.1	494	fdr<0.05	469	fdr<0.01	286
+HSA031	Estimated qvalue formula	2026.09.05.21.26.55	total	1488	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	134	fdr<0.01	48
+HSA032	Estimated qvalue formula	2026.09.05.21.27.13	total	2908	noallranking	0	pvaluecalced	391	fdr<0.1	391	fdr<0.05	349	fdr<0.01	165
+HSA033	Estimated qvalue formula	2026.09.05.21.27.22	total	2501	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	235	fdr<0.01	128
+HSA025	Estimated qvalue formula	2026.09.05.21.27.29	total	1848	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	242
+HSA034	Estimated qvalue formula	2026.09.05.21.27.35	total	1788	noallranking	0	pvaluecalced	258	fdr<0.1	258	fdr<0.05	255	fdr<0.01	151
+HSA035	Estimated qvalue formula	2026.09.05.21.27.49	total	3301	noallranking	0	pvaluecalced	606	fdr<0.1	606	fdr<0.05	592	fdr<0.01	435
+HSA036	Estimated qvalue formula	2026.09.05.21.27.51	total	307	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	16
+HSA037	Estimated qvalue formula	2026.09.05.21.27.57	total	2211	noallranking	0	pvaluecalced	44	fdr<0.1	44	fdr<0.05	44	fdr<0.01	21
+HSA038	Estimated qvalue formula	2026.09.05.21.28.02	total	925	noallranking	0	pvaluecalced	51	fdr<0.1	51	fdr<0.05	45	fdr<0.01	25
+HSA039	Estimated qvalue formula	2026.09.05.21.28.04	total	687	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	14
+HSA040	Estimated qvalue formula	2026.09.05.21.28.04	total	205	noallranking	0	pvaluecalced	28	fdr<0.1	28	fdr<0.05	28	fdr<0.01	24
+HSA041	Estimated qvalue formula	2026.09.05.21.28.10	total	1888	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	139	fdr<0.01	90
+HSA042	Estimated qvalue formula	2026.09.05.21.28.20	total	2709	noallranking	0	pvaluecalced	432	fdr<0.1	432	fdr<0.05	426	fdr<0.01	267
+HSA043	Estimated qvalue formula	2026.09.05.21.28.29	total	2659	noallranking	0	pvaluecalced	358	fdr<0.1	358	fdr<0.05	332	fdr<0.01	189
+HSA044	Estimated qvalue formula	2026.09.05.21.28.54	total	6523	noallranking	0	pvaluecalced	772	fdr<0.1	723	fdr<0.05	599	fdr<0.01	318
+HSA045	Estimated qvalue formula	2026.09.05.21.29.01	total	3154	noallranking	0	pvaluecalced	320	fdr<0.1	320	fdr<0.05	292	fdr<0.01	193
+HSA046	Estimated qvalue formula	2026.09.05.21.29.14	total	4023	noallranking	0	pvaluecalced	687	fdr<0.1	687	fdr<0.05	642	fdr<0.01	428
+HSA047	Estimated qvalue formula	2026.09.05.21.29.23	total	3546	noallranking	0	pvaluecalced	319	fdr<0.1	319	fdr<0.05	286	fdr<0.01	148
+HSA048	Estimated qvalue formula	2026.09.05.21.29.39	total	3722	noallranking	0	pvaluecalced	708	fdr<0.1	708	fdr<0.05	639	fdr<0.01	442
+HSA051	Estimated qvalue formula	2026.09.05.21.29.47	total	1621	noallranking	0	pvaluecalced	249	fdr<0.1	239	fdr<0.05	201	fdr<0.01	71
+HSA052	Estimated qvalue formula	2026.09.05.21.29.59	total	6238	noallranking	0	pvaluecalced	630	fdr<0.1	630	fdr<0.05	630	fdr<0.01	449
+HSA054	Estimated qvalue formula	2026.09.05.21.30.04	total	1643	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	219	fdr<0.01	128
+HSA056	Estimated qvalue formula	2026.09.05.21.30.07	total	554	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	44	fdr<0.01	8
+HSA057	Estimated qvalue formula	2026.09.05.21.30.14	total	1695	noallranking	0	pvaluecalced	148	fdr<0.1	148	fdr<0.05	143	fdr<0.01	97
+HSA059	Estimated qvalue formula	2026.09.05.21.30.33	total	6219	noallranking	0	pvaluecalced	499	fdr<0.1	499	fdr<0.05	478	fdr<0.01	253
+HSA060	Estimated qvalue formula	2026.09.05.21.31.04	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	409	fdr<0.01	195
+HSA061	Estimated qvalue formula	2026.09.05.21.31.06	total	835	noallranking	0	pvaluecalced	136	fdr<0.1	136	fdr<0.05	136	fdr<0.01	96
+HSA062	Estimated qvalue formula	2026.09.05.21.31.12	total	1285	noallranking	0	pvaluecalced	356	fdr<0.1	356	fdr<0.05	348	fdr<0.01	241
+HSA063	Estimated qvalue formula	2026.09.05.21.31.21	total	1672	noallranking	0	pvaluecalced	453	fdr<0.1	453	fdr<0.05	426	fdr<0.01	269
+HSA064	Estimated qvalue formula	2026.09.05.21.31.31	total	1962	noallranking	0	pvaluecalced	437	fdr<0.1	437	fdr<0.05	406	fdr<0.01	220
+HSA065	Estimated qvalue formula	2026.09.05.21.31.33	total	1365	noallranking	0	pvaluecalced	84	fdr<0.1	84	fdr<0.05	84	fdr<0.01	59
+HSA066	Estimated qvalue formula	2026.09.05.21.31.45	total	2729	noallranking	0	pvaluecalced	623	fdr<0.1	623	fdr<0.05	582	fdr<0.01	311
+HSA067	Estimated qvalue formula	2026.09.05.21.31.48	total	1595	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	33
+HSA068	Estimated qvalue formula	2026.09.05.21.31.53	total	1976	noallranking	0	pvaluecalced	373	fdr<0.1	373	fdr<0.05	363	fdr<0.01	255
+HSA069	Estimated qvalue formula	2026.09.05.21.31.58	total	1236	noallranking	0	pvaluecalced	147	fdr<0.1	147	fdr<0.05	145	fdr<0.01	79
+HSA070	Estimated qvalue formula	2026.09.05.21.32.05	total	1505	noallranking	0	pvaluecalced	281	fdr<0.1	281	fdr<0.05	261	fdr<0.01	196
+HSA073	Estimated qvalue formula	2026.09.05.21.32.11	total	2525	noallranking	0	pvaluecalced	129	fdr<0.1	129	fdr<0.05	129	fdr<0.01	88
+HSA076	Estimated qvalue formula	2026.09.05.21.32.36	total	3673	noallranking	0	pvaluecalced	737	fdr<0.1	733	fdr<0.05	628	fdr<0.01	338
+HSA077	Estimated qvalue formula	2026.09.05.21.32.40	total	1105	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	313	fdr<0.01	252
+HSA078	Estimated qvalue formula	2026.09.05.21.33.13	total	15823	noallranking	0	pvaluecalced	997	fdr<0.1	997	fdr<0.05	968	fdr<0.01	667
+HSA079	Estimated qvalue formula	2026.09.05.21.33.39	total	9277	noallranking	0	pvaluecalced	1201	fdr<0.1	1201	fdr<0.05	1118	fdr<0.01	691
+HSA080	Estimated qvalue formula	2026.09.05.21.34.13	total	12308	noallranking	0	pvaluecalced	1367	fdr<0.1	1367	fdr<0.05	1249	fdr<0.01	799
+HSA081	Estimated qvalue formula	2026.09.05.21.34.17	total	1967	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	90
+HSA082	Estimated qvalue formula	2026.09.05.21.34.21	total	2018	noallranking	0	pvaluecalced	266	fdr<0.1	266	fdr<0.05	262	fdr<0.01	215
+HSA087	Estimated qvalue formula	2026.09.05.21.34.30	total	1215	noallranking	0	pvaluecalced	69	fdr<0.1	69	fdr<0.05	68	fdr<0.01	24
+HSA088	Estimated qvalue formula	2026.09.05.21.35.23	total	15954	noallranking	0	pvaluecalced	1522	fdr<0.1	1522	fdr<0.05	1342	fdr<0.01	790
+HSA089	Estimated qvalue formula	2026.09.05.21.35.30	total	1712	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	406	fdr<0.01	247
+HSA090	Estimated qvalue formula	2026.09.05.21.35.39	total	1602	noallranking	0	pvaluecalced	479	fdr<0.1	472	fdr<0.05	394	fdr<0.01	206
+HSA091	Estimated qvalue formula	2026.09.05.21.35.45	total	1597	noallranking	0	pvaluecalced	293	fdr<0.1	293	fdr<0.05	275	fdr<0.01	160
+HSA092	Estimated qvalue formula	2026.09.05.21.35.52	total	1769	noallranking	0	pvaluecalced	449	fdr<0.1	449	fdr<0.05	419	fdr<0.01	263
+HSA093	Estimated qvalue formula	2026.09.05.21.36.02	total	1991	noallranking	0	pvaluecalced	543	fdr<0.1	543	fdr<0.05	508	fdr<0.01	319
+HSA094	Estimated qvalue formula	2026.09.05.21.36.14	total	2007	noallranking	0	pvaluecalced	635	fdr<0.1	635	fdr<0.05	603	fdr<0.01	397
+HSA099	Estimated qvalue formula	2026.09.05.21.36.17	total	1620	noallranking	0	pvaluecalced	88	fdr<0.1	88	fdr<0.05	87	fdr<0.01	51
+HSA100	Estimated qvalue formula	2026.09.05.21.36.23	total	2229	noallranking	0	pvaluecalced	302	fdr<0.1	302	fdr<0.05	300	fdr<0.01	223
+MBK001	Estimated qvalue	2026.09.06.10.23.36	total	2698	noallranking	0	pvaluecalced	1638	fdr<0.1	2541	fdr<0.05	1894	fdr<0.01	0
+MBK002	Estimated qvalue	2026.09.06.10.23.57	total	536	noallranking	0	pvaluecalced	176	fdr<0.1	278	fdr<0.05	250	fdr<0.01	0
+HSA001	Estimated qvalue	2026.09.06.10.51.26	total	2003	noallranking	0	pvaluecalced	253	fdr<0.1	295	fdr<0.05	203	fdr<0.01	0
+MBK001	Estimated qvalue	2026.09.06.11.14.43	total	2698	noallranking	0	pvaluecalced	1638	fdr<0.1	2887	fdr<0.05	2493	fdr<0.01	1277
+MBK002	Estimated qvalue	2026.09.06.11.15.07	total	536	noallranking	0	pvaluecalced	176	fdr<0.1	292	fdr<0.05	276	fdr<0.01	190
+HSA001	Estimated qvalue	2026.09.06.11.42.43	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	370	fdr<0.05	327	fdr<0.01	149
+HSA002	Estimated qvalue	2026.09.06.11.44.46	total	885	noallranking	0	pvaluecalced	126	fdr<0.1	193	fdr<0.05	170	fdr<0.01	73
+MBK003	Estimated qvalue	2026.09.06.11.47.20	total	12464	noallranking	0	pvaluecalced	4461	fdr<0.1	7164	fdr<0.05	6395	fdr<0.01	3485
+MBK001	Estimated qvalue formula	2026.09.06.11.47.46	total	2698	noallranking	0	pvaluecalced	2075	fdr<0.1	2075	fdr<0.05	2075	fdr<0.01	2069
+MBK002	Estimated qvalue formula	2026.09.06.11.47.53	total	536	noallranking	0	pvaluecalced	239	fdr<0.1	239	fdr<0.05	237	fdr<0.01	223
+MBK003	Estimated qvalue formula	2026.09.06.11.49.53	total	12464	noallranking	0	pvaluecalced	7546	fdr<0.1	7546	fdr<0.05	7546	fdr<0.01	7301
+MBK001	Estimated qvalue formula	2026.09.06.11.50.48	total	2698	noallranking	0	pvaluecalced	1361	fdr<0.1	1361	fdr<0.05	1361	fdr<0.01	1186
+MBK002	Estimated qvalue formula	2026.09.06.11.50.50	total	536	noallranking	0	pvaluecalced	157	fdr<0.1	157	fdr<0.05	157	fdr<0.01	157
+HSA003	Estimated qvalue	2026.09.06.11.51.56	total	2342	noallranking	0	pvaluecalced	416	fdr<0.1	570	fdr<0.05	469	fdr<0.01	204
+MBK003	Estimated qvalue formula	2026.09.06.11.52.25	total	12464	noallranking	0	pvaluecalced	3720	fdr<0.1	3720	fdr<0.05	3720	fdr<0.01	3647
+HSA004	Estimated qvalue	2026.09.06.11.53.34	total	1673	noallranking	0	pvaluecalced	92	fdr<0.1	132	fdr<0.05	116	fdr<0.01	63
+HSA005	Estimated qvalue	2026.09.06.11.54.03	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	27	fdr<0.05	24	fdr<0.01	10
+HSA006	Estimated qvalue	2026.09.06.11.55.45	total	725	noallranking	0	pvaluecalced	112	fdr<0.1	188	fdr<0.05	171	fdr<0.01	79
+HSA007	Estimated qvalue	2026.09.06.11.57.32	total	1638	noallranking	0	pvaluecalced	200	fdr<0.1	339	fdr<0.05	288	fdr<0.01	127
+HSA008	Estimated qvalue	2026.09.06.11.58.31	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	61	fdr<0.05	58	fdr<0.01	35
+HSA009	Estimated qvalue	2026.09.06.12.17.58	total	17293	noallranking	0	pvaluecalced	1576	fdr<0.1	2419	fdr<0.05	2127	fdr<0.01	878
+HSA010	Estimated qvalue	2026.09.06.12.35.38	total	17465	noallranking	0	pvaluecalced	2233	fdr<0.1	3138	fdr<0.05	2739	fdr<0.01	1131
+HSA014	Estimated qvalue	2026.09.06.12.35.59	total	906	noallranking	0	pvaluecalced	50	fdr<0.1	98	fdr<0.05	94	fdr<0.01	50
+HSA015	Estimated qvalue	2026.09.06.12.37.47	total	2013	noallranking	0	pvaluecalced	221	fdr<0.1	333	fdr<0.05	293	fdr<0.01	124
+HSA017	Estimated qvalue	2026.09.06.12.37.51	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	37	fdr<0.01	22
+HSA018	Estimated qvalue	2026.09.06.12.38.04	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	100	fdr<0.05	93	fdr<0.01	52
+HSA019	Estimated qvalue	2026.09.06.12.39.52	total	2890	noallranking	0	pvaluecalced	312	fdr<0.1	577	fdr<0.05	514	fdr<0.01	255
+MBK001	Estimated qvalue	2026.09.06.12.41.20	total	2698	noallranking	0	pvaluecalced	1638	fdr<0.1	2760	fdr<0.05	2387	fdr<0.01	0
+MBK002	Estimated qvalue	2026.09.06.12.41.40	total	536	noallranking	0	pvaluecalced	176	fdr<0.1	290	fdr<0.05	267	fdr<0.01	0
+HSA020	Estimated qvalue	2026.09.06.12.42.46	total	5782	noallranking	0	pvaluecalced	483	fdr<0.1	766	fdr<0.05	676	fdr<0.01	314
+HSA021	Estimated qvalue	2026.09.06.12.46.50	total	6363	noallranking	0	pvaluecalced	493	fdr<0.1	765	fdr<0.05	673	fdr<0.01	323
+HSA022	Estimated qvalue	2026.09.06.12.50.55	total	7452	noallranking	0	pvaluecalced	813	fdr<0.1	1341	fdr<0.05	1204	fdr<0.01	617
+HSA028	Estimated qvalue	2026.09.06.12.52.26	total	3327	noallranking	0	pvaluecalced	282	fdr<0.1	495	fdr<0.05	441	fdr<0.01	203
+HSA029	Estimated qvalue	2026.09.06.12.54.42	total	3516	noallranking	0	pvaluecalced	327	fdr<0.1	541	fdr<0.05	491	fdr<0.01	218
+HSA031	Estimated qvalue	2026.09.06.12.55.33	total	620	noallranking	0	pvaluecalced	46	fdr<0.1	75	fdr<0.05	67	fdr<0.01	35
+HSA032	Estimated qvalue	2026.09.06.12.59.02	total	1723	noallranking	0	pvaluecalced	226	fdr<0.1	313	fdr<0.05	269	fdr<0.01	105
+HSA033	Estimated qvalue	2026.09.06.12.59.58	total	1217	noallranking	0	pvaluecalced	52	fdr<0.1	99	fdr<0.05	92	fdr<0.01	54
+HSA025	Estimated qvalue	2026.09.06.13.00.32	total	1660	noallranking	0	pvaluecalced	10	fdr<0.1	15	fdr<0.05	14	fdr<0.01	7
+HSA034	Estimated qvalue	2026.09.06.13.01.50	total	871	noallranking	0	pvaluecalced	150	fdr<0.1	251	fdr<0.05	215	fdr<0.01	98
+HSA035	Estimated qvalue	2026.09.06.13.03.11	total	1954	noallranking	0	pvaluecalced	26	fdr<0.1	39	fdr<0.05	36	fdr<0.01	14
+HSA036	Estimated qvalue	2026.09.06.13.03.43	total	206	noallranking	0	pvaluecalced	24	fdr<0.1	29	fdr<0.05	22	fdr<0.01	7
+HSA037	Estimated qvalue	2026.09.06.13.04.31	total	1234	noallranking	0	pvaluecalced	11	fdr<0.1	12	fdr<0.05	10	fdr<0.01	3
+HSA038	Estimated qvalue	2026.09.06.13.06.07	total	508	noallranking	0	pvaluecalced	33	fdr<0.1	28	fdr<0.05	23	fdr<0.01	10
+HSA039	Estimated qvalue	2026.09.06.13.06.15	total	428	noallranking	0	pvaluecalced	5	fdr<0.1	10	fdr<0.05	9	fdr<0.01	3
+HSA040	Estimated qvalue	2026.09.06.13.06.20	total	121	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	39	fdr<0.01	24
+HSA041	Estimated qvalue	2026.09.06.13.06.55	total	1094	noallranking	0	pvaluecalced	46	fdr<0.1	90	fdr<0.05	83	fdr<0.01	44
+HSA042	Estimated qvalue	2026.09.06.13.08.54	total	1853	noallranking	0	pvaluecalced	226	fdr<0.1	381	fdr<0.05	327	fdr<0.01	169
+HSA043	Estimated qvalue	2026.09.06.13.10.15	total	1935	noallranking	0	pvaluecalced	179	fdr<0.1	294	fdr<0.05	256	fdr<0.01	102
+HSA044	Estimated qvalue	2026.09.06.13.12.47	total	5469	noallranking	0	pvaluecalced	99	fdr<0.1	109	fdr<0.05	93	fdr<0.01	27
+MBK003	Estimated qvalue	2026.09.06.13.12.53	total	12464	noallranking	0	pvaluecalced	4461	fdr<0.1	7034	fdr<0.05	6270	fdr<0.01	2304
+MBK001	Estimated qvalue formula	2026.09.06.13.13.21	total	2698	noallranking	0	pvaluecalced	2075	fdr<0.1	2075	fdr<0.05	2075	fdr<0.01	2069
+MBK002	Estimated qvalue formula	2026.09.06.13.13.27	total	536	noallranking	0	pvaluecalced	239	fdr<0.1	239	fdr<0.05	237	fdr<0.01	223
+HSA045	Estimated qvalue	2026.09.06.13.13.34	total	1874	noallranking	0	pvaluecalced	121	fdr<0.1	224	fdr<0.05	208	fdr<0.01	102
+HSA046	Estimated qvalue	2026.09.06.13.15.26	total	3407	noallranking	0	pvaluecalced	443	fdr<0.1	661	fdr<0.05	581	fdr<0.01	267
+MBK003	Estimated qvalue formula	2026.09.06.13.15.28	total	12464	noallranking	0	pvaluecalced	7546	fdr<0.1	7546	fdr<0.05	7546	fdr<0.01	7301
+MBK001	Estimated qvalue formula	2026.09.06.13.16.22	total	2698	noallranking	0	pvaluecalced	1361	fdr<0.1	1361	fdr<0.05	1225	fdr<0.01	755
+MBK002	Estimated qvalue formula	2026.09.06.13.16.24	total	536	noallranking	0	pvaluecalced	157	fdr<0.1	157	fdr<0.05	157	fdr<0.01	120
+HSA047	Estimated qvalue	2026.09.06.13.16.27	total	1713	noallranking	0	pvaluecalced	123	fdr<0.1	209	fdr<0.05	186	fdr<0.01	78
+MBK003	Estimated qvalue formula	2026.09.06.13.17.59	total	12464	noallranking	0	pvaluecalced	3720	fdr<0.1	3720	fdr<0.05	3598	fdr<0.01	2373
+HSA048	Estimated qvalue	2026.09.06.13.19.21	total	3306	noallranking	0	pvaluecalced	436	fdr<0.1	627	fdr<0.05	539	fdr<0.01	236
+HSA051	Estimated qvalue	2026.09.06.13.20.21	total	1452	noallranking	0	pvaluecalced	127	fdr<0.1	194	fdr<0.05	169	fdr<0.01	54
+HSA052	Estimated qvalue	2026.09.06.13.21.51	total	5194	noallranking	0	pvaluecalced	188	fdr<0.1	344	fdr<0.05	311	fdr<0.01	158
+HSA054	Estimated qvalue	2026.09.06.13.22.23	total	978	noallranking	0	pvaluecalced	18	fdr<0.1	29	fdr<0.05	26	fdr<0.01	13
+HSA056	Estimated qvalue	2026.09.06.13.22.36	total	405	noallranking	0	pvaluecalced	1	fdr<0.1	0	fdr<0.05	0	fdr<0.01	0
+HSA057	Estimated qvalue	2026.09.06.13.23.13	total	923	noallranking	0	pvaluecalced	11	fdr<0.1	14	fdr<0.05	11	fdr<0.01	4
+HSA059	Estimated qvalue	2026.09.06.13.25.31	total	4055	noallranking	0	pvaluecalced	150	fdr<0.1	277	fdr<0.05	246	fdr<0.01	105
+HSA060	Estimated qvalue	2026.09.06.13.29.24	total	3930	noallranking	0	pvaluecalced	253	fdr<0.1	430	fdr<0.05	368	fdr<0.01	152
+HSA061	Estimated qvalue	2026.09.06.13.29.43	total	691	noallranking	0	pvaluecalced	69	fdr<0.1	120	fdr<0.05	107	fdr<0.01	57
+HSA062	Estimated qvalue	2026.09.06.13.31.34	total	1161	noallranking	0	pvaluecalced	224	fdr<0.1	320	fdr<0.05	280	fdr<0.01	119
+HSA063	Estimated qvalue	2026.09.06.13.32.42	total	1379	noallranking	0	pvaluecalced	181	fdr<0.1	314	fdr<0.05	281	fdr<0.01	142
+HSA064	Estimated qvalue	2026.09.06.13.34.46	total	1765	noallranking	0	pvaluecalced	325	fdr<0.1	418	fdr<0.05	361	fdr<0.01	117
+HSA065	Estimated qvalue	2026.09.06.13.35.06	total	615	noallranking	0	pvaluecalced	29	fdr<0.1	55	fdr<0.05	48	fdr<0.01	28
+HSA066	Estimated qvalue	2026.09.06.13.36.54	total	1670	noallranking	0	pvaluecalced	237	fdr<0.1	352	fdr<0.05	314	fdr<0.01	96
+HSA067	Estimated qvalue	2026.09.06.13.37.16	total	682	noallranking	0	pvaluecalced	35	fdr<0.1	68	fdr<0.05	64	fdr<0.01	36
+HSA068	Estimated qvalue	2026.09.06.13.38.21	total	903	noallranking	0	pvaluecalced	159	fdr<0.1	239	fdr<0.05	211	fdr<0.01	97
+HSA069	Estimated qvalue	2026.09.06.13.39.08	total	1030	noallranking	0	pvaluecalced	65	fdr<0.1	94	fdr<0.05	83	fdr<0.01	28
+HSA070	Estimated qvalue	2026.09.06.13.40.26	total	1285	noallranking	0	pvaluecalced	179	fdr<0.1	257	fdr<0.05	223	fdr<0.01	95
+HSA073	Estimated qvalue	2026.09.06.13.41.08	total	2325	noallranking	0	pvaluecalced	32	fdr<0.1	52	fdr<0.05	48	fdr<0.01	23
+HSA076	Estimated qvalue	2026.09.06.13.45.09	total	3483	noallranking	0	pvaluecalced	386	fdr<0.1	547	fdr<0.05	466	fdr<0.01	164
+HSA077	Estimated qvalue	2026.09.06.13.45.47	total	1008	noallranking	0	pvaluecalced	113	fdr<0.1	159	fdr<0.05	139	fdr<0.01	53
+HSA078	Estimated qvalue	2026.09.06.13.50.18	total	10995	noallranking	0	pvaluecalced	296	fdr<0.1	469	fdr<0.05	417	fdr<0.01	160
+HSA079	Estimated qvalue	2026.09.06.13.55.03	total	6479	noallranking	0	pvaluecalced	586	fdr<0.1	844	fdr<0.05	732	fdr<0.01	273
+HSA080	Estimated qvalue	2026.09.06.14.00.50	total	8707	noallranking	0	pvaluecalced	708	fdr<0.1	1014	fdr<0.05	886	fdr<0.01	349
+HSA081	Estimated qvalue	2026.09.06.14.01.19	total	1014	noallranking	0	pvaluecalced	20	fdr<0.1	32	fdr<0.05	28	fdr<0.01	14
+HSA082	Estimated qvalue	2026.09.06.14.01.52	total	1013	noallranking	0	pvaluecalced	78	fdr<0.1	90	fdr<0.05	81	fdr<0.01	40
+HSA087	Estimated qvalue	2026.09.06.14.02.20	total	613	noallranking	0	pvaluecalced	37	fdr<0.1	63	fdr<0.05	57	fdr<0.01	19
+HSA088	Estimated qvalue	2026.09.06.14.10.43	total	12411	noallranking	0	pvaluecalced	1078	fdr<0.1	1622	fdr<0.05	1422	fdr<0.01	525
+HSA089	Estimated qvalue	2026.09.06.14.11.57	total	1622	noallranking	0	pvaluecalced	213	fdr<0.1	266	fdr<0.05	224	fdr<0.01	91
+HSA090	Estimated qvalue	2026.09.06.14.14.16	total	1526	noallranking	0	pvaluecalced	365	fdr<0.1	487	fdr<0.05	416	fdr<0.01	165
+HSA091	Estimated qvalue	2026.09.06.14.15.03	total	1452	noallranking	0	pvaluecalced	192	fdr<0.1	300	fdr<0.05	260	fdr<0.01	127
+HSA092	Estimated qvalue	2026.09.06.14.16.04	total	1603	noallranking	0	pvaluecalced	253	fdr<0.1	407	fdr<0.05	357	fdr<0.01	184
+HSA093	Estimated qvalue	2026.09.06.14.18.24	total	1908	noallranking	0	pvaluecalced	394	fdr<0.1	553	fdr<0.05	474	fdr<0.01	211
+HSA094	Estimated qvalue	2026.09.06.14.20.36	total	1904	noallranking	0	pvaluecalced	459	fdr<0.1	688	fdr<0.05	607	fdr<0.01	296
+HSA099	Estimated qvalue	2026.09.06.14.20.58	total	1110	noallranking	0	pvaluecalced	45	fdr<0.1	79	fdr<0.05	74	fdr<0.01	45
+HSA100	Estimated qvalue	2026.09.06.14.21.49	total	1404	noallranking	0	pvaluecalced	206	fdr<0.1	306	fdr<0.05	271	fdr<0.01	118
+HSA001	Estimated qvalue formula	2026.09.06.14.22.15	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA002	Estimated qvalue formula	2026.09.06.14.22.22	total	2383	noallranking	0	pvaluecalced	577	fdr<0.1	577	fdr<0.05	577	fdr<0.01	574
+HSA003	Estimated qvalue formula	2026.09.06.14.23.08	total	3062	noallranking	0	pvaluecalced	1370	fdr<0.1	1370	fdr<0.05	1329	fdr<0.01	1260
+HSA004	Estimated qvalue formula	2026.09.06.14.23.45	total	2317	noallranking	0	pvaluecalced	644	fdr<0.1	633	fdr<0.05	596	fdr<0.01	494
+HSA005	Estimated qvalue formula	2026.09.06.14.23.49	total	763	noallranking	0	pvaluecalced	111	fdr<0.1	111	fdr<0.05	111	fdr<0.01	107
+HSA006	Estimated qvalue formula	2026.09.06.14.23.59	total	867	noallranking	0	pvaluecalced	502	fdr<0.1	502	fdr<0.05	502	fdr<0.01	499
+HSA007	Estimated qvalue formula	2026.09.06.14.24.18	total	3067	noallranking	0	pvaluecalced	786	fdr<0.1	786	fdr<0.05	769	fdr<0.01	731
+HSA008	Estimated qvalue formula	2026.09.06.14.24.34	total	3255	noallranking	0	pvaluecalced	603	fdr<0.1	595	fdr<0.05	560	fdr<0.01	530
+HSA009	Estimated qvalue formula	2026.09.06.14.26.03	total	21405	noallranking	0	pvaluecalced	6440	fdr<0.1	6440	fdr<0.05	6440	fdr<0.01	6375
+HSA010	Estimated qvalue formula	2026.09.06.14.27.35	total	19350	noallranking	0	pvaluecalced	9293	fdr<0.1	9293	fdr<0.05	9293	fdr<0.01	9211
+HSA014	Estimated qvalue formula	2026.09.06.14.27.39	total	1187	noallranking	0	pvaluecalced	318	fdr<0.1	318	fdr<0.05	318	fdr<0.01	315
+HSA015	Estimated qvalue formula	2026.09.06.14.27.50	total	2403	noallranking	0	pvaluecalced	1221	fdr<0.1	1221	fdr<0.05	1221	fdr<0.01	1208
+HSA017	Estimated qvalue formula	2026.09.06.14.27.51	total	228	noallranking	0	pvaluecalced	80	fdr<0.1	80	fdr<0.05	80	fdr<0.01	78
+HSA018	Estimated qvalue formula	2026.09.06.14.27.52	total	320	noallranking	0	pvaluecalced	130	fdr<0.1	130	fdr<0.05	130	fdr<0.01	129
+HSA019	Estimated qvalue formula	2026.09.06.14.28.15	total	4784	noallranking	0	pvaluecalced	1536	fdr<0.1	1536	fdr<0.05	1536	fdr<0.01	1514
+HSA020	Estimated qvalue formula	2026.09.06.14.29.06	total	7165	noallranking	0	pvaluecalced	1797	fdr<0.1	1782	fdr<0.05	1687	fdr<0.01	1593
+HSA021	Estimated qvalue formula	2026.09.06.14.29.48	total	7820	noallranking	0	pvaluecalced	2678	fdr<0.1	2678	fdr<0.05	2678	fdr<0.01	2626
+HSA022	Estimated qvalue formula	2026.09.06.14.30.27	total	9395	noallranking	0	pvaluecalced	2538	fdr<0.1	2538	fdr<0.05	2492	fdr<0.01	2371
+HSA028	Estimated qvalue formula	2026.09.06.14.30.40	total	4358	noallranking	0	pvaluecalced	1176	fdr<0.1	1176	fdr<0.05	1176	fdr<0.01	1154
+HSA029	Estimated qvalue formula	2026.09.06.14.30.56	total	4191	noallranking	0	pvaluecalced	1428	fdr<0.1	1428	fdr<0.05	1428	fdr<0.01	1406
+HSA031	Estimated qvalue formula	2026.09.06.14.31.06	total	1488	noallranking	0	pvaluecalced	341	fdr<0.1	341	fdr<0.05	323	fdr<0.01	286
+HSA032	Estimated qvalue formula	2026.09.06.14.31.37	total	2908	noallranking	0	pvaluecalced	1161	fdr<0.1	1161	fdr<0.05	1114	fdr<0.01	1054
+HSA033	Estimated qvalue formula	2026.09.06.14.31.56	total	2501	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	625	fdr<0.01	573
+HSA025	Estimated qvalue formula	2026.09.06.14.32.10	total	1848	noallranking	0	pvaluecalced	764	fdr<0.1	757	fdr<0.05	715	fdr<0.01	676
+HSA034	Estimated qvalue formula	2026.09.06.14.32.23	total	1788	noallranking	0	pvaluecalced	592	fdr<0.1	592	fdr<0.05	587	fdr<0.01	556
+HSA035	Estimated qvalue formula	2026.09.06.14.33.14	total	3301	noallranking	0	pvaluecalced	1132	fdr<0.1	1074	fdr<0.05	1003	fdr<0.01	927
+HSA036	Estimated qvalue formula	2026.09.06.14.33.17	total	307	noallranking	0	pvaluecalced	87	fdr<0.1	81	fdr<0.05	76	fdr<0.01	72
+HSA037	Estimated qvalue formula	2026.09.06.14.33.29	total	2211	noallranking	0	pvaluecalced	341	fdr<0.1	283	fdr<0.05	263	fdr<0.01	249
+HSA038	Estimated qvalue formula	2026.09.06.14.33.36	total	925	noallranking	0	pvaluecalced	281	fdr<0.1	271	fdr<0.05	254	fdr<0.01	236
+HSA039	Estimated qvalue formula	2026.09.06.14.33.38	total	687	noallranking	0	pvaluecalced	54	fdr<0.1	54	fdr<0.05	54	fdr<0.01	49
+HSA040	Estimated qvalue formula	2026.09.06.14.33.38	total	205	noallranking	0	pvaluecalced	64	fdr<0.1	64	fdr<0.05	64	fdr<0.01	63
+HSA041	Estimated qvalue formula	2026.09.06.14.33.52	total	1888	noallranking	0	pvaluecalced	363	fdr<0.1	345	fdr<0.05	322	fdr<0.01	300
+HSA042	Estimated qvalue formula	2026.09.06.14.34.17	total	2709	noallranking	0	pvaluecalced	978	fdr<0.1	978	fdr<0.05	934	fdr<0.01	885
+HSA043	Estimated qvalue formula	2026.09.06.14.34.35	total	2659	noallranking	0	pvaluecalced	1064	fdr<0.1	1064	fdr<0.05	1064	fdr<0.01	1019
+HSA044	Estimated qvalue formula	2026.09.06.14.35.13	total	6523	noallranking	0	pvaluecalced	2946	fdr<0.1	2946	fdr<0.05	2905	fdr<0.01	2745
+HSA045	Estimated qvalue formula	2026.09.06.14.35.23	total	3154	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	763	fdr<0.01	730
+HSA046	Estimated qvalue formula	2026.09.06.14.35.41	total	4023	noallranking	0	pvaluecalced	1672	fdr<0.1	1672	fdr<0.05	1649	fdr<0.01	1568
+HSA047	Estimated qvalue formula	2026.09.06.14.35.56	total	3546	noallranking	0	pvaluecalced	949	fdr<0.1	949	fdr<0.05	925	fdr<0.01	874
+HSA048	Estimated qvalue formula	2026.09.06.14.36.18	total	3722	noallranking	0	pvaluecalced	2139	fdr<0.1	2139	fdr<0.05	2139	fdr<0.01	2041
+HSA051	Estimated qvalue formula	2026.09.06.14.36.28	total	1621	noallranking	0	pvaluecalced	873	fdr<0.1	873	fdr<0.05	849	fdr<0.01	799
+HSA052	Estimated qvalue formula	2026.09.06.14.36.53	total	6238	noallranking	0	pvaluecalced	1450	fdr<0.1	1450	fdr<0.05	1411	fdr<0.01	1341
+HSA054	Estimated qvalue formula	2026.09.06.14.37.09	total	1643	noallranking	0	pvaluecalced	345	fdr<0.1	343	fdr<0.05	322	fdr<0.01	296
+HSA056	Estimated qvalue formula	2026.09.06.14.37.18	total	554	noallranking	0	pvaluecalced	114	fdr<0.1	90	fdr<0.05	84	fdr<0.01	72
+HSA057	Estimated qvalue formula	2026.09.06.14.37.43	total	1695	noallranking	0	pvaluecalced	443	fdr<0.1	410	fdr<0.05	382	fdr<0.01	349
+HSA059	Estimated qvalue formula	2026.09.06.14.38.21	total	6219	noallranking	0	pvaluecalced	1524	fdr<0.1	1485	fdr<0.05	1392	fdr<0.01	1318
+HSA060	Estimated qvalue formula	2026.09.06.14.39.34	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1182	fdr<0.05	1113	fdr<0.01	1053
+HSA061	Estimated qvalue formula	2026.09.06.14.39.37	total	835	noallranking	0	pvaluecalced	234	fdr<0.1	234	fdr<0.05	234	fdr<0.01	226
+HSA062	Estimated qvalue formula	2026.09.06.14.39.46	total	1285	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	665
+HSA063	Estimated qvalue formula	2026.09.06.14.39.57	total	1672	noallranking	0	pvaluecalced	953	fdr<0.1	953	fdr<0.05	953	fdr<0.01	924
+HSA064	Estimated qvalue formula	2026.09.06.14.40.12	total	1962	noallranking	0	pvaluecalced	1117	fdr<0.1	1117	fdr<0.05	1110	fdr<0.01	1051
+HSA065	Estimated qvalue formula	2026.09.06.14.40.15	total	1365	noallranking	0	pvaluecalced	156	fdr<0.1	156	fdr<0.05	156	fdr<0.01	149
+HSA066	Estimated qvalue formula	2026.09.06.14.40.45	total	2729	noallranking	0	pvaluecalced	1147	fdr<0.1	1147	fdr<0.05	1081	fdr<0.01	1016
+HSA067	Estimated qvalue formula	2026.09.06.14.40.48	total	1595	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	149	fdr<0.01	143
+HSA068	Estimated qvalue formula	2026.09.06.14.40.57	total	1976	noallranking	0	pvaluecalced	602	fdr<0.1	602	fdr<0.05	591	fdr<0.01	560
+HSA069	Estimated qvalue formula	2026.09.06.14.41.02	total	1236	noallranking	0	pvaluecalced	423	fdr<0.1	423	fdr<0.05	423	fdr<0.01	422
+HSA070	Estimated qvalue formula	2026.09.06.14.41.09	total	1505	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	695
+HSA073	Estimated qvalue formula	2026.09.06.14.41.20	total	2525	noallranking	0	pvaluecalced	283	fdr<0.1	283	fdr<0.05	277	fdr<0.01	265
+HSA076	Estimated qvalue formula	2026.09.06.14.42.06	total	3673	noallranking	0	pvaluecalced	2022	fdr<0.1	2022	fdr<0.05	1933	fdr<0.01	1818
+HSA077	Estimated qvalue formula	2026.09.06.14.42.12	total	1105	noallranking	0	pvaluecalced	566	fdr<0.1	566	fdr<0.05	566	fdr<0.01	554
+HSA078	Estimated qvalue formula	2026.09.06.14.43.12	total	15823	noallranking	0	pvaluecalced	3268	fdr<0.1	3268	fdr<0.05	3173	fdr<0.01	3005
+HSA079	Estimated qvalue formula	2026.09.06.14.43.47	total	9277	noallranking	0	pvaluecalced	2906	fdr<0.1	2906	fdr<0.05	2905	fdr<0.01	2764
+HSA080	Estimated qvalue formula	2026.09.06.14.44.36	total	12308	noallranking	0	pvaluecalced	3668	fdr<0.1	3668	fdr<0.05	3668	fdr<0.01	3500
+HSA081	Estimated qvalue formula	2026.09.06.14.44.44	total	1967	noallranking	0	pvaluecalced	290	fdr<0.1	290	fdr<0.05	280	fdr<0.01	266
+HSA082	Estimated qvalue formula	2026.09.06.14.44.54	total	2018	noallranking	0	pvaluecalced	490	fdr<0.1	488	fdr<0.05	461	fdr<0.01	434
+HSA087	Estimated qvalue formula	2026.09.06.14.45.13	total	1215	noallranking	0	pvaluecalced	259	fdr<0.1	224	fdr<0.05	208	fdr<0.01	189
+HSA088	Estimated qvalue formula	2026.09.06.14.46.12	total	15954	noallranking	0	pvaluecalced	5105	fdr<0.1	5105	fdr<0.05	5105	fdr<0.01	4995
+HSA089	Estimated qvalue formula	2026.09.06.14.46.22	total	1712	noallranking	0	pvaluecalced	1020	fdr<0.1	867	fdr<0.05	798	fdr<0.01	751
+HSA090	Estimated qvalue formula	2026.09.06.14.46.34	total	1602	noallranking	0	pvaluecalced	1208	fdr<0.1	1208	fdr<0.05	1208	fdr<0.01	1181
+HSA091	Estimated qvalue formula	2026.09.06.14.46.40	total	1597	noallranking	0	pvaluecalced	679	fdr<0.1	679	fdr<0.05	679	fdr<0.01	660
+HSA092	Estimated qvalue formula	2026.09.06.14.46.48	total	1769	noallranking	0	pvaluecalced	1021	fdr<0.1	1021	fdr<0.05	1021	fdr<0.01	993
+HSA093	Estimated qvalue formula	2026.09.06.14.46.59	total	1991	noallranking	0	pvaluecalced	1275	fdr<0.1	1275	fdr<0.05	1275	fdr<0.01	1259
+HSA094	Estimated qvalue formula	2026.09.06.14.47.11	total	2007	noallranking	0	pvaluecalced	1463	fdr<0.1	1463	fdr<0.05	1463	fdr<0.01	1417
+HSA099	Estimated qvalue formula	2026.09.06.14.47.15	total	1620	noallranking	0	pvaluecalced	231	fdr<0.1	231	fdr<0.05	231	fdr<0.01	226
+HSA100	Estimated qvalue formula	2026.09.06.14.47.23	total	2229	noallranking	0	pvaluecalced	668	fdr<0.1	668	fdr<0.05	668	fdr<0.01	644
+HSA001	Estimated qvalue formula	2026.09.06.14.48.16	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	411	fdr<0.05	370	fdr<0.01	306
+HSA002	Estimated qvalue formula	2026.09.06.14.48.21	total	2383	noallranking	0	pvaluecalced	137	fdr<0.1	137	fdr<0.05	131	fdr<0.01	110
+HSA003	Estimated qvalue formula	2026.09.06.14.49.00	total	3062	noallranking	0	pvaluecalced	563	fdr<0.1	563	fdr<0.05	563	fdr<0.01	549
+HSA004	Estimated qvalue formula	2026.09.06.14.49.09	total	2317	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	217
+HSA005	Estimated qvalue formula	2026.09.06.14.49.11	total	763	noallranking	0	pvaluecalced	81	fdr<0.1	81	fdr<0.05	81	fdr<0.01	80
+HSA006	Estimated qvalue formula	2026.09.06.14.49.15	total	867	noallranking	0	pvaluecalced	355	fdr<0.1	355	fdr<0.05	355	fdr<0.01	355
+HSA007	Estimated qvalue formula	2026.09.06.14.49.23	total	3067	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	433
+HSA008	Estimated qvalue formula	2026.09.06.14.49.29	total	3255	noallranking	0	pvaluecalced	306	fdr<0.1	306	fdr<0.05	306	fdr<0.01	300
+HSA009	Estimated qvalue formula	2026.09.06.14.50.36	total	21405	noallranking	0	pvaluecalced	2151	fdr<0.1	2151	fdr<0.05	2151	fdr<0.01	1886
+HSA010	Estimated qvalue formula	2026.09.06.14.51.54	total	19350	noallranking	0	pvaluecalced	3203	fdr<0.1	3203	fdr<0.05	3203	fdr<0.01	2785
+HSA014	Estimated qvalue formula	2026.09.06.14.51.58	total	1187	noallranking	0	pvaluecalced	119	fdr<0.1	119	fdr<0.05	119	fdr<0.01	111
+HSA015	Estimated qvalue formula	2026.09.06.14.52.08	total	2403	noallranking	0	pvaluecalced	350	fdr<0.1	350	fdr<0.05	343	fdr<0.01	289
+HSA017	Estimated qvalue formula	2026.09.06.14.52.09	total	228	noallranking	0	pvaluecalced	38	fdr<0.1	38	fdr<0.05	38	fdr<0.01	37
+HSA018	Estimated qvalue formula	2026.09.06.14.52.10	total	320	noallranking	0	pvaluecalced	77	fdr<0.1	77	fdr<0.05	77	fdr<0.01	75
+HSA019	Estimated qvalue formula	2026.09.06.14.52.26	total	4784	noallranking	0	pvaluecalced	689	fdr<0.1	689	fdr<0.05	689	fdr<0.01	647
+HSA020	Estimated qvalue formula	2026.09.06.14.52.49	total	7165	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	763	fdr<0.01	709
+HSA021	Estimated qvalue formula	2026.09.06.14.53.17	total	7820	noallranking	0	pvaluecalced	1167	fdr<0.1	1167	fdr<0.05	1167	fdr<0.01	1092
+HSA022	Estimated qvalue formula	2026.09.06.14.53.43	total	9395	noallranking	0	pvaluecalced	1186	fdr<0.1	1186	fdr<0.05	1186	fdr<0.01	1132
+HSA028	Estimated qvalue formula	2026.09.06.14.53.54	total	4358	noallranking	0	pvaluecalced	390	fdr<0.1	390	fdr<0.05	390	fdr<0.01	365
+HSA029	Estimated qvalue formula	2026.09.06.14.54.05	total	4191	noallranking	0	pvaluecalced	494	fdr<0.1	494	fdr<0.05	494	fdr<0.01	463
+HSA031	Estimated qvalue formula	2026.09.06.14.54.10	total	1488	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	142
+HSA032	Estimated qvalue formula	2026.09.06.14.54.26	total	2908	noallranking	0	pvaluecalced	391	fdr<0.1	391	fdr<0.05	391	fdr<0.01	362
+HSA033	Estimated qvalue formula	2026.09.06.14.54.35	total	2501	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	249	fdr<0.01	241
+HSA025	Estimated qvalue formula	2026.09.06.14.54.41	total	1848	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	316
+HSA034	Estimated qvalue formula	2026.09.06.14.54.47	total	1788	noallranking	0	pvaluecalced	258	fdr<0.1	258	fdr<0.05	258	fdr<0.01	256
+HSA035	Estimated qvalue formula	2026.09.06.14.55.00	total	3301	noallranking	0	pvaluecalced	606	fdr<0.1	606	fdr<0.05	606	fdr<0.01	590
+HSA036	Estimated qvalue formula	2026.09.06.14.55.01	total	307	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	22
+HSA037	Estimated qvalue formula	2026.09.06.14.55.08	total	2211	noallranking	0	pvaluecalced	44	fdr<0.1	44	fdr<0.05	44	fdr<0.01	44
+HSA038	Estimated qvalue formula	2026.09.06.14.55.13	total	925	noallranking	0	pvaluecalced	51	fdr<0.1	51	fdr<0.05	51	fdr<0.01	46
+HSA039	Estimated qvalue formula	2026.09.06.14.55.14	total	687	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	23
+HSA040	Estimated qvalue formula	2026.09.06.14.55.15	total	205	noallranking	0	pvaluecalced	28	fdr<0.1	28	fdr<0.05	28	fdr<0.01	28
+HSA041	Estimated qvalue formula	2026.09.06.14.55.20	total	1888	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	142
+HSA042	Estimated qvalue formula	2026.09.06.14.55.30	total	2709	noallranking	0	pvaluecalced	432	fdr<0.1	432	fdr<0.05	432	fdr<0.01	432
+HSA043	Estimated qvalue formula	2026.09.06.14.55.39	total	2659	noallranking	0	pvaluecalced	358	fdr<0.1	358	fdr<0.05	358	fdr<0.01	323
+HSA044	Estimated qvalue formula	2026.09.06.14.56.02	total	6523	noallranking	0	pvaluecalced	772	fdr<0.1	772	fdr<0.05	742	fdr<0.01	612
+HSA045	Estimated qvalue formula	2026.09.06.14.56.09	total	3154	noallranking	0	pvaluecalced	320	fdr<0.1	320	fdr<0.05	320	fdr<0.01	284
+HSA046	Estimated qvalue formula	2026.09.06.14.56.20	total	4023	noallranking	0	pvaluecalced	687	fdr<0.1	687	fdr<0.05	687	fdr<0.01	630
+HSA047	Estimated qvalue formula	2026.09.06.14.56.29	total	3546	noallranking	0	pvaluecalced	319	fdr<0.1	319	fdr<0.05	319	fdr<0.01	281
+HSA048	Estimated qvalue formula	2026.09.06.14.56.44	total	3722	noallranking	0	pvaluecalced	708	fdr<0.1	708	fdr<0.05	708	fdr<0.01	627
+HSA051	Estimated qvalue formula	2026.09.06.14.56.51	total	1621	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	241	fdr<0.01	201
+HSA052	Estimated qvalue formula	2026.09.06.14.57.02	total	6238	noallranking	0	pvaluecalced	630	fdr<0.1	630	fdr<0.05	630	fdr<0.01	615
+HSA054	Estimated qvalue formula	2026.09.06.14.57.07	total	1643	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	214
+HSA056	Estimated qvalue formula	2026.09.06.14.57.09	total	554	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	46
+HSA057	Estimated qvalue formula	2026.09.06.14.57.16	total	1695	noallranking	0	pvaluecalced	148	fdr<0.1	148	fdr<0.05	148	fdr<0.01	147
+HSA059	Estimated qvalue formula	2026.09.06.14.57.34	total	6219	noallranking	0	pvaluecalced	499	fdr<0.1	499	fdr<0.05	499	fdr<0.01	489
+HSA060	Estimated qvalue formula	2026.09.06.14.58.05	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	448	fdr<0.01	422
+HSA061	Estimated qvalue formula	2026.09.06.14.58.07	total	835	noallranking	0	pvaluecalced	136	fdr<0.1	136	fdr<0.05	136	fdr<0.01	132
+HSA062	Estimated qvalue formula	2026.09.06.14.58.13	total	1285	noallranking	0	pvaluecalced	356	fdr<0.1	356	fdr<0.05	356	fdr<0.01	339
+HSA063	Estimated qvalue formula	2026.09.06.14.58.21	total	1672	noallranking	0	pvaluecalced	453	fdr<0.1	453	fdr<0.05	453	fdr<0.01	415
+HSA064	Estimated qvalue formula	2026.09.06.14.58.31	total	1962	noallranking	0	pvaluecalced	437	fdr<0.1	437	fdr<0.05	437	fdr<0.01	399
+HSA065	Estimated qvalue formula	2026.09.06.14.58.33	total	1365	noallranking	0	pvaluecalced	84	fdr<0.1	84	fdr<0.05	84	fdr<0.01	83
+HSA066	Estimated qvalue formula	2026.09.06.14.58.44	total	2729	noallranking	0	pvaluecalced	623	fdr<0.1	623	fdr<0.05	623	fdr<0.01	568
+HSA067	Estimated qvalue formula	2026.09.06.14.58.47	total	1595	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	52
+HSA068	Estimated qvalue formula	2026.09.06.14.58.53	total	1976	noallranking	0	pvaluecalced	373	fdr<0.1	373	fdr<0.05	373	fdr<0.01	353
+HSA069	Estimated qvalue formula	2026.09.06.14.58.57	total	1236	noallranking	0	pvaluecalced	147	fdr<0.1	147	fdr<0.05	147	fdr<0.01	142
+HSA070	Estimated qvalue formula	2026.09.06.14.59.03	total	1505	noallranking	0	pvaluecalced	281	fdr<0.1	281	fdr<0.05	281	fdr<0.01	252
+HSA073	Estimated qvalue formula	2026.09.06.14.59.10	total	2525	noallranking	0	pvaluecalced	129	fdr<0.1	129	fdr<0.05	129	fdr<0.01	128
+HSA076	Estimated qvalue formula	2026.09.06.14.59.33	total	3673	noallranking	0	pvaluecalced	737	fdr<0.1	737	fdr<0.05	736	fdr<0.01	620
+HSA077	Estimated qvalue formula	2026.09.06.14.59.37	total	1105	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	308
+HSA078	Estimated qvalue formula	2026.09.06.15.00.09	total	15823	noallranking	0	pvaluecalced	997	fdr<0.1	997	fdr<0.05	997	fdr<0.01	943
+HSA079	Estimated qvalue formula	2026.09.06.15.00.33	total	9277	noallranking	0	pvaluecalced	1201	fdr<0.1	1201	fdr<0.05	1201	fdr<0.01	1100
+HSA080	Estimated qvalue formula	2026.09.06.15.01.05	total	12308	noallranking	0	pvaluecalced	1367	fdr<0.1	1367	fdr<0.05	1367	fdr<0.01	1219
+HSA081	Estimated qvalue formula	2026.09.06.15.01.09	total	1967	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	146
+HSA082	Estimated qvalue formula	2026.09.06.15.01.13	total	2018	noallranking	0	pvaluecalced	266	fdr<0.1	266	fdr<0.05	266	fdr<0.01	250
+HSA087	Estimated qvalue formula	2026.09.06.15.01.20	total	1215	noallranking	0	pvaluecalced	69	fdr<0.1	69	fdr<0.05	69	fdr<0.01	69
+HSA088	Estimated qvalue formula	2026.09.06.15.02.04	total	15954	noallranking	0	pvaluecalced	1522	fdr<0.1	1522	fdr<0.05	1522	fdr<0.01	1325
+HSA089	Estimated qvalue formula	2026.09.06.15.02.11	total	1712	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	397
+HSA090	Estimated qvalue formula	2026.09.06.15.02.19	total	1602	noallranking	0	pvaluecalced	479	fdr<0.1	479	fdr<0.05	479	fdr<0.01	413
+HSA091	Estimated qvalue formula	2026.09.06.15.02.24	total	1597	noallranking	0	pvaluecalced	293	fdr<0.1	293	fdr<0.05	293	fdr<0.01	266
+HSA092	Estimated qvalue formula	2026.09.06.15.02.31	total	1769	noallranking	0	pvaluecalced	449	fdr<0.1	449	fdr<0.05	449	fdr<0.01	409
+HSA093	Estimated qvalue formula	2026.09.06.15.02.40	total	1991	noallranking	0	pvaluecalced	543	fdr<0.1	543	fdr<0.05	543	fdr<0.01	501
+HSA094	Estimated qvalue formula	2026.09.06.15.02.51	total	2007	noallranking	0	pvaluecalced	635	fdr<0.1	635	fdr<0.05	635	fdr<0.01	590
+HSA099	Estimated qvalue formula	2026.09.06.15.02.54	total	1620	noallranking	0	pvaluecalced	88	fdr<0.1	88	fdr<0.05	88	fdr<0.01	85
+HSA100	Estimated qvalue formula	2026.09.06.15.02.59	total	2229	noallranking	0	pvaluecalced	302	fdr<0.1	302	fdr<0.05	302	fdr<0.01	291
+HSA001	Estimated qvalue	2026.09.07.03.50.07	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	356	fdr<0.05	293	fdr<0.01	0
+HSA002	Estimated qvalue	2026.09.07.03.52.19	total	885	noallranking	0	pvaluecalced	126	fdr<0.1	187	fdr<0.05	155	fdr<0.01	0
+HSA003	Estimated qvalue	2026.09.07.04.00.04	total	2342	noallranking	0	pvaluecalced	416	fdr<0.1	534	fdr<0.05	453	fdr<0.01	100
+HSA004	Estimated qvalue	2026.09.07.04.01.48	total	1673	noallranking	0	pvaluecalced	92	fdr<0.1	129	fdr<0.05	112	fdr<0.01	34
+HSA005	Estimated qvalue	2026.09.07.04.02.17	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	26	fdr<0.05	21	fdr<0.01	0
+HSA006	Estimated qvalue	2026.09.07.04.04.02	total	725	noallranking	0	pvaluecalced	112	fdr<0.1	183	fdr<0.05	159	fdr<0.01	0
+HSA007	Estimated qvalue	2026.09.07.04.05.50	total	1638	noallranking	0	pvaluecalced	200	fdr<0.1	324	fdr<0.05	279	fdr<0.01	73
+HSA008	Estimated qvalue	2026.09.07.04.06.48	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	60	fdr<0.05	58	fdr<0.01	25
+HSA009	Estimated qvalue	2026.09.07.04.26.38	total	17293	noallranking	0	pvaluecalced	1576	fdr<0.1	2339	fdr<0.05	2018	fdr<0.01	0
+HSA010	Estimated qvalue	2026.09.07.04.44.57	total	17465	noallranking	0	pvaluecalced	2233	fdr<0.1	3023	fdr<0.05	2591	fdr<0.01	0
+HSA014	Estimated qvalue	2026.09.07.04.45.21	total	906	noallranking	0	pvaluecalced	50	fdr<0.1	98	fdr<0.05	92	fdr<0.01	0
+HSA015	Estimated qvalue	2026.09.07.04.47.17	total	2013	noallranking	0	pvaluecalced	221	fdr<0.1	324	fdr<0.05	277	fdr<0.01	0
+HSA017	Estimated qvalue	2026.09.07.04.47.21	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	37	fdr<0.01	0
+HSA018	Estimated qvalue	2026.09.07.04.47.35	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	99	fdr<0.05	91	fdr<0.01	0
+HSA019	Estimated qvalue	2026.09.07.04.49.27	total	2890	noallranking	0	pvaluecalced	312	fdr<0.1	563	fdr<0.05	494	fdr<0.01	0
+HSA020	Estimated qvalue	2026.09.07.04.52.32	total	5782	noallranking	0	pvaluecalced	483	fdr<0.1	742	fdr<0.05	646	fdr<0.01	0
+HSA021	Estimated qvalue	2026.09.07.04.56.50	total	6363	noallranking	0	pvaluecalced	493	fdr<0.1	742	fdr<0.05	645	fdr<0.01	0
+HSA022	Estimated qvalue	2026.09.07.05.01.05	total	7452	noallranking	0	pvaluecalced	813	fdr<0.1	1308	fdr<0.05	1152	fdr<0.01	0
+HSA028	Estimated qvalue	2026.09.07.05.02.42	total	3327	noallranking	0	pvaluecalced	282	fdr<0.1	482	fdr<0.05	425	fdr<0.01	0
+HSA029	Estimated qvalue	2026.09.07.05.05.13	total	3516	noallranking	0	pvaluecalced	327	fdr<0.1	526	fdr<0.05	470	fdr<0.01	0
+HSA031	Estimated qvalue	2026.09.07.05.06.10	total	620	noallranking	0	pvaluecalced	46	fdr<0.1	75	fdr<0.05	66	fdr<0.01	25
+HSA032	Estimated qvalue	2026.09.07.05.09.54	total	1723	noallranking	0	pvaluecalced	226	fdr<0.1	304	fdr<0.05	260	fdr<0.01	72
+HSA033	Estimated qvalue	2026.09.07.05.10.56	total	1217	noallranking	0	pvaluecalced	52	fdr<0.1	98	fdr<0.05	91	fdr<0.01	36
+HSA025	Estimated qvalue	2026.09.07.05.11.33	total	1660	noallranking	0	pvaluecalced	10	fdr<0.1	15	fdr<0.05	14	fdr<0.01	5
+HSA034	Estimated qvalue	2026.09.07.05.12.59	total	871	noallranking	0	pvaluecalced	150	fdr<0.1	240	fdr<0.05	209	fdr<0.01	56
+HSA035	Estimated qvalue	2026.09.07.05.14.29	total	1954	noallranking	0	pvaluecalced	26	fdr<0.1	39	fdr<0.05	35	fdr<0.01	9
+HSA036	Estimated qvalue	2026.09.07.05.15.03	total	206	noallranking	0	pvaluecalced	24	fdr<0.1	26	fdr<0.05	21	fdr<0.01	4
+HSA037	Estimated qvalue	2026.09.07.05.15.55	total	1234	noallranking	0	pvaluecalced	11	fdr<0.1	11	fdr<0.05	10	fdr<0.01	2
+HSA038	Estimated qvalue	2026.09.07.05.17.37	total	508	noallranking	0	pvaluecalced	33	fdr<0.1	27	fdr<0.05	23	fdr<0.01	7
+HSA039	Estimated qvalue	2026.09.07.05.17.46	total	428	noallranking	0	pvaluecalced	5	fdr<0.1	10	fdr<0.05	9	fdr<0.01	3
+HSA040	Estimated qvalue	2026.09.07.05.17.51	total	121	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	38	fdr<0.01	16
+HSA041	Estimated qvalue	2026.09.07.05.18.30	total	1094	noallranking	0	pvaluecalced	46	fdr<0.1	89	fdr<0.05	80	fdr<0.01	30
+HSA042	Estimated qvalue	2026.09.07.05.20.44	total	1853	noallranking	0	pvaluecalced	226	fdr<0.1	369	fdr<0.05	316	fdr<0.01	99
+HSA043	Estimated qvalue	2026.09.07.05.22.15	total	1935	noallranking	0	pvaluecalced	179	fdr<0.1	284	fdr<0.05	234	fdr<0.01	0
+HSA044	Estimated qvalue	2026.09.07.05.25.03	total	5469	noallranking	0	pvaluecalced	99	fdr<0.1	105	fdr<0.05	87	fdr<0.01	0
+HSA045	Estimated qvalue	2026.09.07.05.25.54	total	1874	noallranking	0	pvaluecalced	121	fdr<0.1	221	fdr<0.05	202	fdr<0.01	0
+HSA046	Estimated qvalue	2026.09.07.05.27.59	total	3407	noallranking	0	pvaluecalced	443	fdr<0.1	638	fdr<0.05	552	fdr<0.01	0
+HSA047	Estimated qvalue	2026.09.07.05.29.08	total	1713	noallranking	0	pvaluecalced	123	fdr<0.1	203	fdr<0.05	175	fdr<0.01	0
+HSA048	Estimated qvalue	2026.09.07.05.32.18	total	3306	noallranking	0	pvaluecalced	436	fdr<0.1	600	fdr<0.05	509	fdr<0.01	0
+HSA051	Estimated qvalue	2026.09.07.05.33.24	total	1452	noallranking	0	pvaluecalced	127	fdr<0.1	187	fdr<0.05	152	fdr<0.01	0
+HSA052	Estimated qvalue	2026.09.07.05.34.55	total	5194	noallranking	0	pvaluecalced	188	fdr<0.1	336	fdr<0.05	295	fdr<0.01	0
+HSA054	Estimated qvalue	2026.09.07.05.35.27	total	978	noallranking	0	pvaluecalced	18	fdr<0.1	27	fdr<0.05	24	fdr<0.01	0
+HSA056	Estimated qvalue	2026.09.07.05.35.39	total	405	noallranking	0	pvaluecalced	1	fdr<0.1	0	fdr<0.05	0	fdr<0.01	0
+HSA057	Estimated qvalue	2026.09.07.05.36.16	total	923	noallranking	0	pvaluecalced	11	fdr<0.1	13	fdr<0.05	11	fdr<0.01	2
+HSA059	Estimated qvalue	2026.09.07.05.38.36	total	4055	noallranking	0	pvaluecalced	150	fdr<0.1	271	fdr<0.05	238	fdr<0.01	73
+HSA060	Estimated qvalue	2026.09.07.05.42.31	total	3930	noallranking	0	pvaluecalced	253	fdr<0.1	412	fdr<0.05	355	fdr<0.01	103
+HSA061	Estimated qvalue	2026.09.07.05.42.49	total	691	noallranking	0	pvaluecalced	69	fdr<0.1	117	fdr<0.05	103	fdr<0.01	0
+HSA062	Estimated qvalue	2026.09.07.05.44.41	total	1161	noallranking	0	pvaluecalced	224	fdr<0.1	310	fdr<0.05	263	fdr<0.01	0
+HSA063	Estimated qvalue	2026.09.07.05.45.51	total	1379	noallranking	0	pvaluecalced	181	fdr<0.1	305	fdr<0.05	271	fdr<0.01	0
+HSA064	Estimated qvalue	2026.09.07.05.47.57	total	1765	noallranking	0	pvaluecalced	325	fdr<0.1	399	fdr<0.05	324	fdr<0.01	0
+HSA065	Estimated qvalue	2026.09.07.05.48.17	total	615	noallranking	0	pvaluecalced	29	fdr<0.1	53	fdr<0.05	48	fdr<0.01	0
+HSA066	Estimated qvalue	2026.09.07.05.50.07	total	1670	noallranking	0	pvaluecalced	237	fdr<0.1	338	fdr<0.05	255	fdr<0.01	0
+HSA067	Estimated qvalue	2026.09.07.05.50.30	total	682	noallranking	0	pvaluecalced	35	fdr<0.1	67	fdr<0.05	62	fdr<0.01	0
+HSA068	Estimated qvalue	2026.09.07.05.51.36	total	903	noallranking	0	pvaluecalced	159	fdr<0.1	230	fdr<0.05	200	fdr<0.01	0
+HSA069	Estimated qvalue	2026.09.07.05.52.25	total	1030	noallranking	0	pvaluecalced	65	fdr<0.1	90	fdr<0.05	66	fdr<0.01	0
+HSA070	Estimated qvalue	2026.09.07.05.53.45	total	1285	noallranking	0	pvaluecalced	179	fdr<0.1	247	fdr<0.05	211	fdr<0.01	0
+HSA073	Estimated qvalue	2026.09.07.05.54.28	total	2325	noallranking	0	pvaluecalced	32	fdr<0.1	52	fdr<0.05	46	fdr<0.01	0
+HSA076	Estimated qvalue	2026.09.07.05.58.36	total	3483	noallranking	0	pvaluecalced	386	fdr<0.1	522	fdr<0.05	419	fdr<0.01	0
+HSA077	Estimated qvalue	2026.09.07.05.59.13	total	1008	noallranking	0	pvaluecalced	113	fdr<0.1	153	fdr<0.05	134	fdr<0.01	0
+HSA078	Estimated qvalue	2026.09.07.06.03.50	total	10995	noallranking	0	pvaluecalced	296	fdr<0.1	453	fdr<0.05	359	fdr<0.01	0
+HSA079	Estimated qvalue	2026.09.07.06.08.39	total	6479	noallranking	0	pvaluecalced	586	fdr<0.1	811	fdr<0.05	682	fdr<0.01	0
+HSA080	Estimated qvalue	2026.09.07.06.14.48	total	8707	noallranking	0	pvaluecalced	708	fdr<0.1	976	fdr<0.05	832	fdr<0.01	0
+HSA081	Estimated qvalue	2026.09.07.06.15.20	total	1014	noallranking	0	pvaluecalced	20	fdr<0.1	31	fdr<0.05	27	fdr<0.01	0
+HSA082	Estimated qvalue	2026.09.07.06.15.56	total	1013	noallranking	0	pvaluecalced	78	fdr<0.1	87	fdr<0.05	65	fdr<0.01	0
+HSA087	Estimated qvalue	2026.09.07.06.16.27	total	613	noallranking	0	pvaluecalced	37	fdr<0.1	62	fdr<0.05	55	fdr<0.01	15
+HSA088	Estimated qvalue	2026.09.07.06.25.09	total	12411	noallranking	0	pvaluecalced	1078	fdr<0.1	1563	fdr<0.05	1318	fdr<0.01	0
+HSA089	Estimated qvalue	2026.09.07.06.26.23	total	1622	noallranking	0	pvaluecalced	213	fdr<0.1	253	fdr<0.05	212	fdr<0.01	0
+HSA090	Estimated qvalue	2026.09.07.06.28.44	total	1526	noallranking	0	pvaluecalced	365	fdr<0.1	466	fdr<0.05	383	fdr<0.01	0
+HSA091	Estimated qvalue	2026.09.07.06.29.31	total	1452	noallranking	0	pvaluecalced	192	fdr<0.1	290	fdr<0.05	251	fdr<0.01	0
+HSA092	Estimated qvalue	2026.09.07.06.30.31	total	1603	noallranking	0	pvaluecalced	253	fdr<0.1	396	fdr<0.05	345	fdr<0.01	0
+HSA093	Estimated qvalue	2026.09.07.06.32.51	total	1908	noallranking	0	pvaluecalced	394	fdr<0.1	532	fdr<0.05	449	fdr<0.01	0
+HSA094	Estimated qvalue	2026.09.07.06.35.07	total	1904	noallranking	0	pvaluecalced	459	fdr<0.1	667	fdr<0.05	581	fdr<0.01	0
+HSA099	Estimated qvalue	2026.09.07.06.35.29	total	1110	noallranking	0	pvaluecalced	45	fdr<0.1	78	fdr<0.05	73	fdr<0.01	0
+HSA100	Estimated qvalue	2026.09.07.06.36.23	total	1404	noallranking	0	pvaluecalced	206	fdr<0.1	296	fdr<0.05	254	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.07.06.37.22	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA002	Estimated qvalue formula	2026.09.07.06.37.54	total	2383	noallranking	0	pvaluecalced	577	fdr<0.1	577	fdr<0.05	577	fdr<0.01	574
+HSA003	Estimated qvalue formula	2026.09.07.06.39.20	total	3062	noallranking	0	pvaluecalced	1370	fdr<0.1	1370	fdr<0.05	1329	fdr<0.01	1260
+HSA004	Estimated qvalue formula	2026.09.07.06.40.26	total	2317	noallranking	0	pvaluecalced	644	fdr<0.1	633	fdr<0.05	596	fdr<0.01	494
+HSA005	Estimated qvalue formula	2026.09.07.06.40.40	total	763	noallranking	0	pvaluecalced	111	fdr<0.1	111	fdr<0.05	111	fdr<0.01	107
+HSA006	Estimated qvalue formula	2026.09.07.06.41.02	total	867	noallranking	0	pvaluecalced	502	fdr<0.1	502	fdr<0.05	502	fdr<0.01	499
+HSA007	Estimated qvalue formula	2026.09.07.06.41.55	total	3067	noallranking	0	pvaluecalced	786	fdr<0.1	786	fdr<0.05	769	fdr<0.01	731
+HSA008	Estimated qvalue formula	2026.09.07.06.42.45	total	3255	noallranking	0	pvaluecalced	603	fdr<0.1	595	fdr<0.05	560	fdr<0.01	530
+HSA009	Estimated qvalue formula	2026.09.07.06.46.34	total	21405	noallranking	0	pvaluecalced	6440	fdr<0.1	6440	fdr<0.05	6440	fdr<0.01	6375
+HSA010	Estimated qvalue formula	2026.09.07.06.50.52	total	19350	noallranking	0	pvaluecalced	9293	fdr<0.1	9293	fdr<0.05	9293	fdr<0.01	9211
+HSA014	Estimated qvalue formula	2026.09.07.06.51.07	total	1187	noallranking	0	pvaluecalced	318	fdr<0.1	318	fdr<0.05	318	fdr<0.01	315
+HSA015	Estimated qvalue formula	2026.09.07.06.51.42	total	2403	noallranking	0	pvaluecalced	1221	fdr<0.1	1221	fdr<0.05	1221	fdr<0.01	1208
+HSA017	Estimated qvalue formula	2026.09.07.06.51.45	total	228	noallranking	0	pvaluecalced	80	fdr<0.1	80	fdr<0.05	80	fdr<0.01	78
+HSA018	Estimated qvalue formula	2026.09.07.06.51.49	total	320	noallranking	0	pvaluecalced	130	fdr<0.1	130	fdr<0.05	130	fdr<0.01	129
+HSA019	Estimated qvalue formula	2026.09.07.06.52.58	total	4784	noallranking	0	pvaluecalced	1536	fdr<0.1	1536	fdr<0.05	1536	fdr<0.01	1514
+HSA020	Estimated qvalue formula	2026.09.07.06.54.59	total	7165	noallranking	0	pvaluecalced	1797	fdr<0.1	1782	fdr<0.05	1687	fdr<0.01	1593
+HSA021	Estimated qvalue formula	2026.09.07.06.57.00	total	7820	noallranking	0	pvaluecalced	2678	fdr<0.1	2678	fdr<0.05	2678	fdr<0.01	2626
+HSA022	Estimated qvalue formula	2026.09.07.06.59.11	total	9395	noallranking	0	pvaluecalced	2538	fdr<0.1	2538	fdr<0.05	2492	fdr<0.01	2371
+HSA028	Estimated qvalue formula	2026.09.07.07.00.05	total	4358	noallranking	0	pvaluecalced	1176	fdr<0.1	1176	fdr<0.05	1176	fdr<0.01	1154
+HSA029	Estimated qvalue formula	2026.09.07.07.01.01	total	4191	noallranking	0	pvaluecalced	1428	fdr<0.1	1428	fdr<0.05	1428	fdr<0.01	1406
+HSA031	Estimated qvalue formula	2026.09.07.07.01.25	total	1488	noallranking	0	pvaluecalced	341	fdr<0.1	341	fdr<0.05	323	fdr<0.01	286
+HSA032	Estimated qvalue formula	2026.09.07.07.02.28	total	2908	noallranking	0	pvaluecalced	1161	fdr<0.1	1161	fdr<0.05	1114	fdr<0.01	1054
+HSA033	Estimated qvalue formula	2026.09.07.07.03.12	total	2501	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	625	fdr<0.01	573
+HSA025	Estimated qvalue formula	2026.09.07.07.03.44	total	1848	noallranking	0	pvaluecalced	764	fdr<0.1	757	fdr<0.05	715	fdr<0.01	676
+HSA034	Estimated qvalue formula	2026.09.07.07.04.14	total	1788	noallranking	0	pvaluecalced	592	fdr<0.1	592	fdr<0.05	587	fdr<0.01	556
+HSA035	Estimated qvalue formula	2026.09.07.07.05.42	total	3301	noallranking	0	pvaluecalced	1132	fdr<0.1	1074	fdr<0.05	1003	fdr<0.01	927
+HSA036	Estimated qvalue formula	2026.09.07.07.05.48	total	307	noallranking	0	pvaluecalced	87	fdr<0.1	81	fdr<0.05	76	fdr<0.01	72
+HSA037	Estimated qvalue formula	2026.09.07.07.06.20	total	2211	noallranking	0	pvaluecalced	341	fdr<0.1	283	fdr<0.05	263	fdr<0.01	249
+HSA038	Estimated qvalue formula	2026.09.07.07.06.36	total	925	noallranking	0	pvaluecalced	281	fdr<0.1	271	fdr<0.05	254	fdr<0.01	236
+HSA039	Estimated qvalue formula	2026.09.07.07.06.44	total	687	noallranking	0	pvaluecalced	54	fdr<0.1	54	fdr<0.05	54	fdr<0.01	49
+HSA040	Estimated qvalue formula	2026.09.07.07.06.46	total	205	noallranking	0	pvaluecalced	64	fdr<0.1	64	fdr<0.05	64	fdr<0.01	63
+HSA041	Estimated qvalue formula	2026.09.07.07.07.17	total	1888	noallranking	0	pvaluecalced	363	fdr<0.1	345	fdr<0.05	322	fdr<0.01	300
+HSA042	Estimated qvalue formula	2026.09.07.07.08.08	total	2709	noallranking	0	pvaluecalced	978	fdr<0.1	978	fdr<0.05	934	fdr<0.01	885
+HSA043	Estimated qvalue formula	2026.09.07.07.08.50	total	2659	noallranking	0	pvaluecalced	1064	fdr<0.1	1064	fdr<0.05	1064	fdr<0.01	1019
+HSA044	Estimated qvalue formula	2026.09.07.07.10.32	total	6523	noallranking	0	pvaluecalced	2946	fdr<0.1	2946	fdr<0.05	2905	fdr<0.01	2745
+HSA045	Estimated qvalue formula	2026.09.07.07.11.11	total	3154	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	763	fdr<0.01	730
+HSA046	Estimated qvalue formula	2026.09.07.07.12.07	total	4023	noallranking	0	pvaluecalced	1672	fdr<0.1	1672	fdr<0.05	1649	fdr<0.01	1568
+HSA047	Estimated qvalue formula	2026.09.07.07.12.54	total	3546	noallranking	0	pvaluecalced	949	fdr<0.1	949	fdr<0.05	925	fdr<0.01	874
+HSA048	Estimated qvalue formula	2026.09.07.07.13.54	total	3722	noallranking	0	pvaluecalced	2139	fdr<0.1	2139	fdr<0.05	2139	fdr<0.01	2041
+HSA051	Estimated qvalue formula	2026.09.07.07.14.21	total	1621	noallranking	0	pvaluecalced	873	fdr<0.1	873	fdr<0.05	849	fdr<0.01	799
+HSA052	Estimated qvalue formula	2026.09.07.07.15.41	total	6238	noallranking	0	pvaluecalced	1450	fdr<0.1	1450	fdr<0.05	1411	fdr<0.01	1341
+HSA054	Estimated qvalue formula	2026.09.07.07.16.14	total	1643	noallranking	0	pvaluecalced	345	fdr<0.1	343	fdr<0.05	322	fdr<0.01	296
+HSA056	Estimated qvalue formula	2026.09.07.07.16.28	total	554	noallranking	0	pvaluecalced	114	fdr<0.1	90	fdr<0.05	84	fdr<0.01	72
+HSA057	Estimated qvalue formula	2026.09.07.07.17.11	total	1695	noallranking	0	pvaluecalced	443	fdr<0.1	410	fdr<0.05	382	fdr<0.01	349
+HSA059	Estimated qvalue formula	2026.09.07.07.18.49	total	6219	noallranking	0	pvaluecalced	1524	fdr<0.1	1485	fdr<0.05	1392	fdr<0.01	1318
+HSA060	Estimated qvalue formula	2026.09.07.07.21.06	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1182	fdr<0.05	1113	fdr<0.01	1053
+HSA061	Estimated qvalue formula	2026.09.07.07.21.17	total	835	noallranking	0	pvaluecalced	234	fdr<0.1	234	fdr<0.05	234	fdr<0.01	226
+HSA062	Estimated qvalue formula	2026.09.07.07.21.40	total	1285	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	665
+HSA063	Estimated qvalue formula	2026.09.07.07.22.07	total	1672	noallranking	0	pvaluecalced	953	fdr<0.1	953	fdr<0.05	953	fdr<0.01	924
+HSA064	Estimated qvalue formula	2026.09.07.07.22.43	total	1962	noallranking	0	pvaluecalced	1117	fdr<0.1	1117	fdr<0.05	1110	fdr<0.01	1051
+HSA065	Estimated qvalue formula	2026.09.07.07.22.58	total	1365	noallranking	0	pvaluecalced	156	fdr<0.1	156	fdr<0.05	156	fdr<0.01	149
+HSA066	Estimated qvalue formula	2026.09.07.07.23.55	total	2729	noallranking	0	pvaluecalced	1147	fdr<0.1	1147	fdr<0.05	1081	fdr<0.01	1016
+HSA067	Estimated qvalue formula	2026.09.07.07.24.13	total	1595	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	149	fdr<0.01	143
+HSA068	Estimated qvalue formula	2026.09.07.07.24.41	total	1976	noallranking	0	pvaluecalced	602	fdr<0.1	602	fdr<0.05	591	fdr<0.01	560
+HSA069	Estimated qvalue formula	2026.09.07.07.24.57	total	1236	noallranking	0	pvaluecalced	423	fdr<0.1	423	fdr<0.05	423	fdr<0.01	422
+HSA070	Estimated qvalue formula	2026.09.07.07.25.18	total	1505	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	695
+HSA073	Estimated qvalue formula	2026.09.07.07.25.54	total	2525	noallranking	0	pvaluecalced	283	fdr<0.1	283	fdr<0.05	277	fdr<0.01	265
+HSA076	Estimated qvalue formula	2026.09.07.07.27.24	total	3673	noallranking	0	pvaluecalced	2022	fdr<0.1	2022	fdr<0.05	1933	fdr<0.01	1818
+HSA077	Estimated qvalue formula	2026.09.07.07.27.42	total	1105	noallranking	0	pvaluecalced	566	fdr<0.1	566	fdr<0.05	566	fdr<0.01	554
+HSA078	Estimated qvalue formula	2026.09.07.07.31.09	total	15823	noallranking	0	pvaluecalced	3268	fdr<0.1	3268	fdr<0.05	3173	fdr<0.01	3005
+HSA079	Estimated qvalue formula	2026.09.07.07.33.11	total	9277	noallranking	0	pvaluecalced	2906	fdr<0.1	2906	fdr<0.05	2905	fdr<0.01	2764
+HSA080	Estimated qvalue formula	2026.09.07.07.35.56	total	12308	noallranking	0	pvaluecalced	3668	fdr<0.1	3668	fdr<0.05	3668	fdr<0.01	3500
+HSA081	Estimated qvalue formula	2026.09.07.07.36.21	total	1967	noallranking	0	pvaluecalced	290	fdr<0.1	290	fdr<0.05	280	fdr<0.01	266
+HSA082	Estimated qvalue formula	2026.09.07.07.36.49	total	2018	noallranking	0	pvaluecalced	490	fdr<0.1	488	fdr<0.05	461	fdr<0.01	434
+HSA087	Estimated qvalue formula	2026.09.07.07.37.21	total	1215	noallranking	0	pvaluecalced	259	fdr<0.1	224	fdr<0.05	208	fdr<0.01	189
+HSA088	Estimated qvalue formula	2026.09.07.07.40.48	total	15954	noallranking	0	pvaluecalced	5105	fdr<0.1	5105	fdr<0.05	5105	fdr<0.01	4995
+HSA089	Estimated qvalue formula	2026.09.07.07.41.15	total	1712	noallranking	0	pvaluecalced	1020	fdr<0.1	867	fdr<0.05	798	fdr<0.01	751
+HSA090	Estimated qvalue formula	2026.09.07.07.41.43	total	1602	noallranking	0	pvaluecalced	1208	fdr<0.1	1208	fdr<0.05	1208	fdr<0.01	1181
+HSA091	Estimated qvalue formula	2026.09.07.07.42.04	total	1597	noallranking	0	pvaluecalced	679	fdr<0.1	679	fdr<0.05	679	fdr<0.01	660
+HSA092	Estimated qvalue formula	2026.09.07.07.42.28	total	1769	noallranking	0	pvaluecalced	1021	fdr<0.1	1021	fdr<0.05	1021	fdr<0.01	993
+HSA093	Estimated qvalue formula	2026.09.07.07.42.59	total	1991	noallranking	0	pvaluecalced	1275	fdr<0.1	1275	fdr<0.05	1275	fdr<0.01	1259
+HSA094	Estimated qvalue formula	2026.09.07.07.43.31	total	2007	noallranking	0	pvaluecalced	1463	fdr<0.1	1463	fdr<0.05	1463	fdr<0.01	1417
+HSA099	Estimated qvalue formula	2026.09.07.07.43.49	total	1620	noallranking	0	pvaluecalced	231	fdr<0.1	231	fdr<0.05	231	fdr<0.01	226
+HSA100	Estimated qvalue formula	2026.09.07.07.44.17	total	2229	noallranking	0	pvaluecalced	668	fdr<0.1	668	fdr<0.05	668	fdr<0.01	644
+HSA001	Estimated qvalue formula	2026.09.07.07.45.41	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	353	fdr<0.05	288	fdr<0.01	199
+HSA002	Estimated qvalue formula	2026.09.07.07.46.08	total	2383	noallranking	0	pvaluecalced	137	fdr<0.1	132	fdr<0.05	112	fdr<0.01	56
+HSA003	Estimated qvalue formula	2026.09.07.07.47.20	total	3062	noallranking	0	pvaluecalced	563	fdr<0.1	563	fdr<0.05	530	fdr<0.01	328
+HSA004	Estimated qvalue formula	2026.09.07.07.47.51	total	2317	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	210	fdr<0.01	142
+HSA005	Estimated qvalue formula	2026.09.07.07.48.00	total	763	noallranking	0	pvaluecalced	81	fdr<0.1	81	fdr<0.05	81	fdr<0.01	58
+HSA006	Estimated qvalue formula	2026.09.07.07.48.14	total	867	noallranking	0	pvaluecalced	355	fdr<0.1	355	fdr<0.05	355	fdr<0.01	327
+HSA007	Estimated qvalue formula	2026.09.07.07.48.49	total	3067	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	279
+HSA008	Estimated qvalue formula	2026.09.07.07.49.24	total	3255	noallranking	0	pvaluecalced	306	fdr<0.1	306	fdr<0.05	301	fdr<0.01	217
+HSA009	Estimated qvalue formula	2026.09.07.07.54.00	total	21405	noallranking	0	pvaluecalced	2151	fdr<0.1	2151	fdr<0.05	1893	fdr<0.01	1076
+HSA010	Estimated qvalue formula	2026.09.07.07.55.48	total	19350	noallranking	0	pvaluecalced	3203	fdr<0.1	3203	fdr<0.05	2792	fdr<0.01	1745
+HSA014	Estimated qvalue formula	2026.09.07.07.55.51	total	1187	noallranking	0	pvaluecalced	119	fdr<0.1	119	fdr<0.05	115	fdr<0.01	76
+HSA015	Estimated qvalue formula	2026.09.07.07.56.02	total	2403	noallranking	0	pvaluecalced	350	fdr<0.1	338	fdr<0.05	287	fdr<0.01	159
+HSA017	Estimated qvalue formula	2026.09.07.07.56.03	total	228	noallranking	0	pvaluecalced	38	fdr<0.1	38	fdr<0.05	38	fdr<0.01	25
+HSA018	Estimated qvalue formula	2026.09.07.07.56.04	total	320	noallranking	0	pvaluecalced	77	fdr<0.1	77	fdr<0.05	77	fdr<0.01	61
+HSA019	Estimated qvalue formula	2026.09.07.07.56.20	total	4784	noallranking	0	pvaluecalced	689	fdr<0.1	689	fdr<0.05	655	fdr<0.01	372
+HSA020	Estimated qvalue formula	2026.09.07.07.56.42	total	7165	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	721	fdr<0.01	521
+HSA021	Estimated qvalue formula	2026.09.07.07.57.13	total	7820	noallranking	0	pvaluecalced	1167	fdr<0.1	1167	fdr<0.05	1117	fdr<0.01	713
+HSA022	Estimated qvalue formula	2026.09.07.07.57.40	total	9395	noallranking	0	pvaluecalced	1186	fdr<0.1	1186	fdr<0.05	1164	fdr<0.01	827
+HSA028	Estimated qvalue formula	2026.09.07.07.57.51	total	4358	noallranking	0	pvaluecalced	390	fdr<0.1	390	fdr<0.05	369	fdr<0.01	235
+HSA029	Estimated qvalue formula	2026.09.07.07.58.03	total	4191	noallranking	0	pvaluecalced	494	fdr<0.1	494	fdr<0.05	469	fdr<0.01	286
+HSA031	Estimated qvalue formula	2026.09.07.07.58.09	total	1488	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	134	fdr<0.01	48
+HSA032	Estimated qvalue formula	2026.09.07.07.58.26	total	2908	noallranking	0	pvaluecalced	391	fdr<0.1	391	fdr<0.05	349	fdr<0.01	165
+HSA033	Estimated qvalue formula	2026.09.07.07.58.35	total	2501	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	235	fdr<0.01	128
+HSA025	Estimated qvalue formula	2026.09.07.07.58.41	total	1848	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	242
+HSA034	Estimated qvalue formula	2026.09.07.07.58.47	total	1788	noallranking	0	pvaluecalced	258	fdr<0.1	258	fdr<0.05	255	fdr<0.01	151
+HSA035	Estimated qvalue formula	2026.09.07.07.59.01	total	3301	noallranking	0	pvaluecalced	606	fdr<0.1	606	fdr<0.05	592	fdr<0.01	435
+HSA036	Estimated qvalue formula	2026.09.07.07.59.03	total	307	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	16
+HSA037	Estimated qvalue formula	2026.09.07.07.59.09	total	2211	noallranking	0	pvaluecalced	44	fdr<0.1	44	fdr<0.05	44	fdr<0.01	21
+HSA038	Estimated qvalue formula	2026.09.07.07.59.15	total	925	noallranking	0	pvaluecalced	51	fdr<0.1	51	fdr<0.05	45	fdr<0.01	25
+HSA039	Estimated qvalue formula	2026.09.07.07.59.16	total	687	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	14
+HSA040	Estimated qvalue formula	2026.09.07.07.59.16	total	205	noallranking	0	pvaluecalced	28	fdr<0.1	28	fdr<0.05	28	fdr<0.01	24
+HSA041	Estimated qvalue formula	2026.09.07.07.59.21	total	1888	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	139	fdr<0.01	90
+HSA042	Estimated qvalue formula	2026.09.07.07.59.31	total	2709	noallranking	0	pvaluecalced	432	fdr<0.1	432	fdr<0.05	426	fdr<0.01	267
+HSA043	Estimated qvalue formula	2026.09.07.07.59.40	total	2659	noallranking	0	pvaluecalced	358	fdr<0.1	358	fdr<0.05	332	fdr<0.01	189
+HSA044	Estimated qvalue formula	2026.09.07.08.00.04	total	6523	noallranking	0	pvaluecalced	772	fdr<0.1	723	fdr<0.05	599	fdr<0.01	318
+HSA045	Estimated qvalue formula	2026.09.07.08.00.11	total	3154	noallranking	0	pvaluecalced	320	fdr<0.1	320	fdr<0.05	292	fdr<0.01	193
+HSA046	Estimated qvalue formula	2026.09.07.08.00.22	total	4023	noallranking	0	pvaluecalced	687	fdr<0.1	687	fdr<0.05	642	fdr<0.01	428
+HSA047	Estimated qvalue formula	2026.09.07.08.00.31	total	3546	noallranking	0	pvaluecalced	319	fdr<0.1	319	fdr<0.05	286	fdr<0.01	148
+HSA048	Estimated qvalue formula	2026.09.07.08.00.47	total	3722	noallranking	0	pvaluecalced	708	fdr<0.1	708	fdr<0.05	639	fdr<0.01	442
+HSA051	Estimated qvalue formula	2026.09.07.08.00.54	total	1621	noallranking	0	pvaluecalced	249	fdr<0.1	239	fdr<0.05	201	fdr<0.01	71
+HSA052	Estimated qvalue formula	2026.09.07.08.01.06	total	6238	noallranking	0	pvaluecalced	630	fdr<0.1	630	fdr<0.05	630	fdr<0.01	449
+HSA054	Estimated qvalue formula	2026.09.07.08.01.11	total	1643	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	219	fdr<0.01	128
+HSA056	Estimated qvalue formula	2026.09.07.08.01.13	total	554	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	44	fdr<0.01	8
+HSA057	Estimated qvalue formula	2026.09.07.08.01.20	total	1695	noallranking	0	pvaluecalced	148	fdr<0.1	148	fdr<0.05	143	fdr<0.01	97
+HSA059	Estimated qvalue formula	2026.09.07.08.01.38	total	6219	noallranking	0	pvaluecalced	499	fdr<0.1	499	fdr<0.05	478	fdr<0.01	253
+HSA060	Estimated qvalue formula	2026.09.07.08.02.08	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	409	fdr<0.01	195
+HSA061	Estimated qvalue formula	2026.09.07.08.02.11	total	835	noallranking	0	pvaluecalced	136	fdr<0.1	136	fdr<0.05	136	fdr<0.01	96
+HSA062	Estimated qvalue formula	2026.09.07.08.02.16	total	1285	noallranking	0	pvaluecalced	356	fdr<0.1	356	fdr<0.05	348	fdr<0.01	241
+HSA063	Estimated qvalue formula	2026.09.07.08.02.24	total	1672	noallranking	0	pvaluecalced	453	fdr<0.1	453	fdr<0.05	426	fdr<0.01	269
+HSA064	Estimated qvalue formula	2026.09.07.08.02.34	total	1962	noallranking	0	pvaluecalced	437	fdr<0.1	437	fdr<0.05	406	fdr<0.01	220
+HSA065	Estimated qvalue formula	2026.09.07.08.02.36	total	1365	noallranking	0	pvaluecalced	84	fdr<0.1	84	fdr<0.05	84	fdr<0.01	59
+HSA066	Estimated qvalue formula	2026.09.07.08.02.47	total	2729	noallranking	0	pvaluecalced	623	fdr<0.1	623	fdr<0.05	582	fdr<0.01	311
+HSA067	Estimated qvalue formula	2026.09.07.08.02.50	total	1595	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	33
+HSA068	Estimated qvalue formula	2026.09.07.08.02.56	total	1976	noallranking	0	pvaluecalced	373	fdr<0.1	373	fdr<0.05	363	fdr<0.01	255
+HSA069	Estimated qvalue formula	2026.09.07.08.03.00	total	1236	noallranking	0	pvaluecalced	147	fdr<0.1	147	fdr<0.05	145	fdr<0.01	79
+HSA070	Estimated qvalue formula	2026.09.07.08.03.06	total	1505	noallranking	0	pvaluecalced	281	fdr<0.1	281	fdr<0.05	261	fdr<0.01	196
+HSA073	Estimated qvalue formula	2026.09.07.08.03.13	total	2525	noallranking	0	pvaluecalced	129	fdr<0.1	129	fdr<0.05	129	fdr<0.01	88
+HSA076	Estimated qvalue formula	2026.09.07.08.03.37	total	3673	noallranking	0	pvaluecalced	737	fdr<0.1	733	fdr<0.05	628	fdr<0.01	338
+HSA077	Estimated qvalue formula	2026.09.07.08.03.42	total	1105	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	313	fdr<0.01	252
+HSA078	Estimated qvalue formula	2026.09.07.08.04.14	total	15823	noallranking	0	pvaluecalced	997	fdr<0.1	997	fdr<0.05	968	fdr<0.01	667
+HSA079	Estimated qvalue formula	2026.09.07.08.04.39	total	9277	noallranking	0	pvaluecalced	1201	fdr<0.1	1201	fdr<0.05	1118	fdr<0.01	691
+HSA080	Estimated qvalue formula	2026.09.07.08.05.11	total	12308	noallranking	0	pvaluecalced	1367	fdr<0.1	1367	fdr<0.05	1249	fdr<0.01	799
+HSA081	Estimated qvalue formula	2026.09.07.08.05.15	total	1967	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	90
+HSA082	Estimated qvalue formula	2026.09.07.08.05.19	total	2018	noallranking	0	pvaluecalced	266	fdr<0.1	266	fdr<0.05	262	fdr<0.01	215
+HSA087	Estimated qvalue formula	2026.09.07.08.05.26	total	1215	noallranking	0	pvaluecalced	69	fdr<0.1	69	fdr<0.05	68	fdr<0.01	24
+HSA088	Estimated qvalue formula	2026.09.07.08.06.11	total	15954	noallranking	0	pvaluecalced	1522	fdr<0.1	1522	fdr<0.05	1342	fdr<0.01	790
+HSA089	Estimated qvalue formula	2026.09.07.08.06.17	total	1712	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	406	fdr<0.01	247
+HSA090	Estimated qvalue formula	2026.09.07.08.06.26	total	1602	noallranking	0	pvaluecalced	479	fdr<0.1	472	fdr<0.05	394	fdr<0.01	206
+HSA091	Estimated qvalue formula	2026.09.07.08.06.31	total	1597	noallranking	0	pvaluecalced	293	fdr<0.1	293	fdr<0.05	275	fdr<0.01	160
+HSA092	Estimated qvalue formula	2026.09.07.08.06.37	total	1769	noallranking	0	pvaluecalced	449	fdr<0.1	449	fdr<0.05	419	fdr<0.01	263
+HSA093	Estimated qvalue formula	2026.09.07.08.06.47	total	1991	noallranking	0	pvaluecalced	543	fdr<0.1	543	fdr<0.05	508	fdr<0.01	319
+HSA094	Estimated qvalue formula	2026.09.07.08.06.58	total	2007	noallranking	0	pvaluecalced	635	fdr<0.1	635	fdr<0.05	603	fdr<0.01	397
+HSA099	Estimated qvalue formula	2026.09.07.08.07.01	total	1620	noallranking	0	pvaluecalced	88	fdr<0.1	88	fdr<0.05	87	fdr<0.01	51
+HSA100	Estimated qvalue formula	2026.09.07.08.07.06	total	2229	noallranking	0	pvaluecalced	302	fdr<0.1	302	fdr<0.05	300	fdr<0.01	223
+HSA001	Estimated qvalue	2026.09.07.15.17.05	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	363	fdr<0.05	305	fdr<0.01	0
+HSA002	Estimated qvalue	2026.09.07.15.19.15	total	885	noallranking	0	pvaluecalced	126	fdr<0.1	190	fdr<0.05	165	fdr<0.01	0
+HSA003	Estimated qvalue	2026.09.07.15.26.57	total	2342	noallranking	0	pvaluecalced	416	fdr<0.1	543	fdr<0.05	456	fdr<0.01	102
+HSA004	Estimated qvalue	2026.09.07.15.28.38	total	1673	noallranking	0	pvaluecalced	92	fdr<0.1	130	fdr<0.05	113	fdr<0.01	35
+HSA005	Estimated qvalue	2026.09.07.15.29.08	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	26	fdr<0.05	23	fdr<0.01	0
+HSA006	Estimated qvalue	2026.09.07.15.30.54	total	725	noallranking	0	pvaluecalced	112	fdr<0.1	185	fdr<0.05	165	fdr<0.01	0
+HSA007	Estimated qvalue	2026.09.07.15.32.40	total	1638	noallranking	0	pvaluecalced	200	fdr<0.1	329	fdr<0.05	281	fdr<0.01	75
+HSA008	Estimated qvalue	2026.09.07.15.33.38	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	60	fdr<0.05	58	fdr<0.01	25
+HSA009	Estimated qvalue	2026.09.07.15.53.08	total	17293	noallranking	0	pvaluecalced	1576	fdr<0.1	2377	fdr<0.05	2055	fdr<0.01	0
+HSA010	Estimated qvalue	2026.09.07.16.11.08	total	17465	noallranking	0	pvaluecalced	2233	fdr<0.1	3076	fdr<0.05	2641	fdr<0.01	0
+HSA014	Estimated qvalue	2026.09.07.16.11.31	total	906	noallranking	0	pvaluecalced	50	fdr<0.1	98	fdr<0.05	93	fdr<0.01	0
+HSA015	Estimated qvalue	2026.09.07.16.13.24	total	2013	noallranking	0	pvaluecalced	221	fdr<0.1	328	fdr<0.05	284	fdr<0.01	0
+HSA017	Estimated qvalue	2026.09.07.16.13.29	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	37	fdr<0.01	0
+HSA018	Estimated qvalue	2026.09.07.16.13.42	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	99	fdr<0.05	92	fdr<0.01	0
+HSA019	Estimated qvalue	2026.09.07.16.15.30	total	2890	noallranking	0	pvaluecalced	312	fdr<0.1	571	fdr<0.05	503	fdr<0.01	0
+HSA001	Estimated qvalue	2026.09.07.16.27.18	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	359	fdr<0.05	299	fdr<0.01	0
+HSA002	Estimated qvalue	2026.09.07.16.29.05	total	885	noallranking	0	pvaluecalced	126	fdr<0.1	188	fdr<0.05	160	fdr<0.01	0
+HSA003	Estimated qvalue	2026.09.07.16.36.18	total	2342	noallranking	0	pvaluecalced	416	fdr<0.1	538	fdr<0.05	454	fdr<0.01	101
+HSA004	Estimated qvalue	2026.09.07.16.37.38	total	1673	noallranking	0	pvaluecalced	92	fdr<0.1	129	fdr<0.05	113	fdr<0.01	34
+HSA005	Estimated qvalue	2026.09.07.16.38.00	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	26	fdr<0.05	21	fdr<0.01	0
+HSA006	Estimated qvalue	2026.09.07.16.39.36	total	725	noallranking	0	pvaluecalced	112	fdr<0.1	184	fdr<0.05	162	fdr<0.01	0
+HSA007	Estimated qvalue	2026.09.07.16.40.54	total	1638	noallranking	0	pvaluecalced	200	fdr<0.1	326	fdr<0.05	279	fdr<0.01	74
+HSA008	Estimated qvalue	2026.09.07.16.41.22	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	60	fdr<0.05	58	fdr<0.01	25
+HSA009	Estimated qvalue	2026.09.07.16.57.27	total	17293	noallranking	0	pvaluecalced	1576	fdr<0.1	2358	fdr<0.05	2037	fdr<0.01	0
+HSA010	Estimated qvalue	2026.09.07.17.12.22	total	17465	noallranking	0	pvaluecalced	2233	fdr<0.1	3049	fdr<0.05	2617	fdr<0.01	0
+HSA014	Estimated qvalue	2026.09.07.17.12.33	total	906	noallranking	0	pvaluecalced	50	fdr<0.1	98	fdr<0.05	93	fdr<0.01	0
+HSA015	Estimated qvalue	2026.09.07.17.14.03	total	2013	noallranking	0	pvaluecalced	221	fdr<0.1	325	fdr<0.05	281	fdr<0.01	0
+HSA017	Estimated qvalue	2026.09.07.17.14.05	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	37	fdr<0.01	0
+HSA018	Estimated qvalue	2026.09.07.17.14.15	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	99	fdr<0.05	92	fdr<0.01	0
+HSA019	Estimated qvalue	2026.09.07.17.15.15	total	2890	noallranking	0	pvaluecalced	312	fdr<0.1	568	fdr<0.05	498	fdr<0.01	0
+HSA020	Estimated qvalue	2026.09.07.17.17.28	total	5782	noallranking	0	pvaluecalced	483	fdr<0.1	747	fdr<0.05	651	fdr<0.01	0
+HSA021	Estimated qvalue	2026.09.07.17.21.39	total	6363	noallranking	0	pvaluecalced	493	fdr<0.1	747	fdr<0.05	651	fdr<0.01	0
+HSA022	Estimated qvalue	2026.09.07.17.25.46	total	7452	noallranking	0	pvaluecalced	813	fdr<0.1	1315	fdr<0.05	1160	fdr<0.01	0
+HSA028	Estimated qvalue	2026.09.07.17.27.20	total	3327	noallranking	0	pvaluecalced	282	fdr<0.1	485	fdr<0.05	428	fdr<0.01	0
+HSA029	Estimated qvalue	2026.09.07.17.29.49	total	3516	noallranking	0	pvaluecalced	327	fdr<0.1	529	fdr<0.05	474	fdr<0.01	0
+HSA031	Estimated qvalue	2026.09.07.17.30.44	total	620	noallranking	0	pvaluecalced	46	fdr<0.1	75	fdr<0.05	66	fdr<0.01	26
+HSA032	Estimated qvalue	2026.09.07.17.34.30	total	1723	noallranking	0	pvaluecalced	226	fdr<0.1	305	fdr<0.05	262	fdr<0.01	73
+HSA033	Estimated qvalue	2026.09.07.17.35.30	total	1217	noallranking	0	pvaluecalced	52	fdr<0.1	98	fdr<0.05	91	fdr<0.01	36
+HSA025	Estimated qvalue	2026.09.07.17.36.06	total	1660	noallranking	0	pvaluecalced	10	fdr<0.1	15	fdr<0.05	14	fdr<0.01	5
+HSA034	Estimated qvalue	2026.09.07.17.37.31	total	871	noallranking	0	pvaluecalced	150	fdr<0.1	242	fdr<0.05	209	fdr<0.01	56
+HSA035	Estimated qvalue	2026.09.07.17.38.59	total	1954	noallranking	0	pvaluecalced	26	fdr<0.1	39	fdr<0.05	35	fdr<0.01	9
+HSA036	Estimated qvalue	2026.09.07.17.39.32	total	206	noallranking	0	pvaluecalced	24	fdr<0.1	26	fdr<0.05	21	fdr<0.01	4
+HSA037	Estimated qvalue	2026.09.07.17.40.24	total	1234	noallranking	0	pvaluecalced	11	fdr<0.1	12	fdr<0.05	10	fdr<0.01	2
+HSA038	Estimated qvalue	2026.09.07.17.42.06	total	508	noallranking	0	pvaluecalced	33	fdr<0.1	27	fdr<0.05	23	fdr<0.01	7
+HSA039	Estimated qvalue	2026.09.07.17.42.14	total	428	noallranking	0	pvaluecalced	5	fdr<0.1	10	fdr<0.05	9	fdr<0.01	3
+HSA040	Estimated qvalue	2026.09.07.17.42.20	total	121	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	38	fdr<0.01	16
+HSA041	Estimated qvalue	2026.09.07.17.42.57	total	1094	noallranking	0	pvaluecalced	46	fdr<0.1	89	fdr<0.05	80	fdr<0.01	30
+HSA042	Estimated qvalue	2026.09.07.17.45.05	total	1853	noallranking	0	pvaluecalced	226	fdr<0.1	371	fdr<0.05	318	fdr<0.01	100
+HSA043	Estimated qvalue	2026.09.07.17.46.33	total	1935	noallranking	0	pvaluecalced	179	fdr<0.1	286	fdr<0.05	240	fdr<0.01	0
+HSA044	Estimated qvalue	2026.09.07.17.49.14	total	5469	noallranking	0	pvaluecalced	99	fdr<0.1	105	fdr<0.05	89	fdr<0.01	0
+HSA045	Estimated qvalue	2026.09.07.17.50.03	total	1874	noallranking	0	pvaluecalced	121	fdr<0.1	222	fdr<0.05	203	fdr<0.01	0
+HSA046	Estimated qvalue	2026.09.07.17.52.06	total	3407	noallranking	0	pvaluecalced	443	fdr<0.1	642	fdr<0.05	556	fdr<0.01	0
+HSA047	Estimated qvalue	2026.09.07.17.53.12	total	1713	noallranking	0	pvaluecalced	123	fdr<0.1	204	fdr<0.05	177	fdr<0.01	0
+HSA048	Estimated qvalue	2026.09.07.17.56.21	total	3306	noallranking	0	pvaluecalced	436	fdr<0.1	606	fdr<0.05	514	fdr<0.01	0
+HSA051	Estimated qvalue	2026.09.07.17.57.24	total	1452	noallranking	0	pvaluecalced	127	fdr<0.1	189	fdr<0.05	157	fdr<0.01	0
+HSA052	Estimated qvalue	2026.09.07.17.58.51	total	5194	noallranking	0	pvaluecalced	188	fdr<0.1	339	fdr<0.05	298	fdr<0.01	0
+HSA054	Estimated qvalue	2026.09.07.17.59.22	total	978	noallranking	0	pvaluecalced	18	fdr<0.1	27	fdr<0.05	24	fdr<0.01	0
+HSA056	Estimated qvalue	2026.09.07.17.59.34	total	405	noallranking	0	pvaluecalced	1	fdr<0.1	0	fdr<0.05	0	fdr<0.01	0
+HSA057	Estimated qvalue	2026.09.07.18.00.11	total	923	noallranking	0	pvaluecalced	11	fdr<0.1	13	fdr<0.05	11	fdr<0.01	2
+HSA059	Estimated qvalue	2026.09.07.18.02.27	total	4055	noallranking	0	pvaluecalced	150	fdr<0.1	272	fdr<0.05	239	fdr<0.01	74
+HSA060	Estimated qvalue	2026.09.07.18.06.19	total	3930	noallranking	0	pvaluecalced	253	fdr<0.1	415	fdr<0.05	357	fdr<0.01	104
+HSA061	Estimated qvalue	2026.09.07.18.06.37	total	691	noallranking	0	pvaluecalced	69	fdr<0.1	118	fdr<0.05	104	fdr<0.01	0
+HSA062	Estimated qvalue	2026.09.07.18.08.29	total	1161	noallranking	0	pvaluecalced	224	fdr<0.1	312	fdr<0.05	268	fdr<0.01	0
+HSA063	Estimated qvalue	2026.09.07.18.09.35	total	1379	noallranking	0	pvaluecalced	181	fdr<0.1	307	fdr<0.05	272	fdr<0.01	0
+HSA064	Estimated qvalue	2026.09.07.18.11.42	total	1765	noallranking	0	pvaluecalced	325	fdr<0.1	403	fdr<0.05	331	fdr<0.01	0
+HSA065	Estimated qvalue	2026.09.07.18.12.01	total	615	noallranking	0	pvaluecalced	29	fdr<0.1	54	fdr<0.05	48	fdr<0.01	0
+HSA066	Estimated qvalue	2026.09.07.18.13.48	total	1670	noallranking	0	pvaluecalced	237	fdr<0.1	340	fdr<0.05	260	fdr<0.01	0
+HSA067	Estimated qvalue	2026.09.07.18.14.10	total	682	noallranking	0	pvaluecalced	35	fdr<0.1	68	fdr<0.05	62	fdr<0.01	0
+HSA068	Estimated qvalue	2026.09.07.18.15.15	total	903	noallranking	0	pvaluecalced	159	fdr<0.1	232	fdr<0.05	202	fdr<0.01	0
+HSA069	Estimated qvalue	2026.09.07.18.16.03	total	1030	noallranking	0	pvaluecalced	65	fdr<0.1	91	fdr<0.05	70	fdr<0.01	0
+HSA070	Estimated qvalue	2026.09.07.18.17.23	total	1285	noallranking	0	pvaluecalced	179	fdr<0.1	249	fdr<0.05	214	fdr<0.01	0
+HSA073	Estimated qvalue	2026.09.07.18.18.03	total	2325	noallranking	0	pvaluecalced	32	fdr<0.1	52	fdr<0.05	46	fdr<0.01	0
+HSA076	Estimated qvalue	2026.09.07.18.22.06	total	3483	noallranking	0	pvaluecalced	386	fdr<0.1	528	fdr<0.05	434	fdr<0.01	0
+HSA077	Estimated qvalue	2026.09.07.18.22.43	total	1008	noallranking	0	pvaluecalced	113	fdr<0.1	154	fdr<0.05	134	fdr<0.01	0
+HSA078	Estimated qvalue	2026.09.07.18.27.08	total	10995	noallranking	0	pvaluecalced	296	fdr<0.1	456	fdr<0.05	372	fdr<0.01	0
+HSA079	Estimated qvalue	2026.09.07.18.31.50	total	6479	noallranking	0	pvaluecalced	586	fdr<0.1	818	fdr<0.05	694	fdr<0.01	0
+HSA080	Estimated qvalue	2026.09.07.18.37.48	total	8707	noallranking	0	pvaluecalced	708	fdr<0.1	985	fdr<0.05	843	fdr<0.01	0
+HSA081	Estimated qvalue	2026.09.07.18.38.17	total	1014	noallranking	0	pvaluecalced	20	fdr<0.1	32	fdr<0.05	27	fdr<0.01	0
+HSA082	Estimated qvalue	2026.09.07.18.38.51	total	1013	noallranking	0	pvaluecalced	78	fdr<0.1	88	fdr<0.05	66	fdr<0.01	0
+HSA087	Estimated qvalue	2026.09.07.18.39.21	total	613	noallranking	0	pvaluecalced	37	fdr<0.1	62	fdr<0.05	55	fdr<0.01	15
+HSA088	Estimated qvalue	2026.09.07.18.47.49	total	12411	noallranking	0	pvaluecalced	1078	fdr<0.1	1577	fdr<0.05	1347	fdr<0.01	0
+HSA089	Estimated qvalue	2026.09.07.18.49.02	total	1622	noallranking	0	pvaluecalced	213	fdr<0.1	257	fdr<0.05	214	fdr<0.01	0
+HSA090	Estimated qvalue	2026.09.07.18.51.23	total	1526	noallranking	0	pvaluecalced	365	fdr<0.1	471	fdr<0.05	391	fdr<0.01	0
+HSA091	Estimated qvalue	2026.09.07.18.52.08	total	1452	noallranking	0	pvaluecalced	192	fdr<0.1	293	fdr<0.05	253	fdr<0.01	0
+HSA092	Estimated qvalue	2026.09.07.18.53.08	total	1603	noallranking	0	pvaluecalced	253	fdr<0.1	399	fdr<0.05	348	fdr<0.01	0
+HSA093	Estimated qvalue	2026.09.07.18.55.23	total	1908	noallranking	0	pvaluecalced	394	fdr<0.1	538	fdr<0.05	454	fdr<0.01	0
+HSA094	Estimated qvalue	2026.09.07.18.57.35	total	1904	noallranking	0	pvaluecalced	459	fdr<0.1	672	fdr<0.05	586	fdr<0.01	0
+HSA099	Estimated qvalue	2026.09.07.18.57.56	total	1110	noallranking	0	pvaluecalced	45	fdr<0.1	79	fdr<0.05	73	fdr<0.01	0
+HSA100	Estimated qvalue	2026.09.07.18.58.46	total	1404	noallranking	0	pvaluecalced	206	fdr<0.1	297	fdr<0.05	259	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.07.18.59.12	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1264	fdr<0.05	1140	fdr<0.01	1057
+HSA002	Estimated qvalue formula	2026.09.07.18.59.19	total	2383	noallranking	0	pvaluecalced	577	fdr<0.1	441	fdr<0.05	397	fdr<0.01	368
+HSA003	Estimated qvalue formula	2026.09.07.19.00.04	total	3062	noallranking	0	pvaluecalced	1370	fdr<0.1	1260	fdr<0.05	1156	fdr<0.01	0
+HSA004	Estimated qvalue formula	2026.09.07.19.00.39	total	2317	noallranking	0	pvaluecalced	644	fdr<0.1	402	fdr<0.05	362	fdr<0.01	0
+HSA005	Estimated qvalue formula	2026.09.07.19.00.43	total	763	noallranking	0	pvaluecalced	111	fdr<0.1	85	fdr<0.05	77	fdr<0.01	71
+HSA006	Estimated qvalue formula	2026.09.07.19.00.53	total	867	noallranking	0	pvaluecalced	502	fdr<0.1	502	fdr<0.05	494	fdr<0.01	460
+HSA007	Estimated qvalue formula	2026.09.07.19.01.11	total	3067	noallranking	0	pvaluecalced	786	fdr<0.1	756	fdr<0.05	710	fdr<0.01	0
+HSA008	Estimated qvalue formula	2026.09.07.19.01.27	total	3255	noallranking	0	pvaluecalced	603	fdr<0.1	539	fdr<0.05	499	fdr<0.01	0
+HSA009	Estimated qvalue formula	2026.09.07.19.02.56	total	21405	noallranking	0	pvaluecalced	6440	fdr<0.1	6440	fdr<0.05	6010	fdr<0.01	5572
+HSA010	Estimated qvalue formula	2026.09.07.19.04.33	total	19350	noallranking	0	pvaluecalced	9293	fdr<0.1	9293	fdr<0.05	8923	fdr<0.01	8286
+HSA014	Estimated qvalue formula	2026.09.07.19.04.37	total	1187	noallranking	0	pvaluecalced	318	fdr<0.1	284	fdr<0.05	256	fdr<0.01	237
+HSA015	Estimated qvalue formula	2026.09.07.19.04.48	total	2403	noallranking	0	pvaluecalced	1221	fdr<0.1	1218	fdr<0.05	1133	fdr<0.01	1051
+HSA017	Estimated qvalue formula	2026.09.07.19.04.49	total	228	noallranking	0	pvaluecalced	80	fdr<0.1	80	fdr<0.05	78	fdr<0.01	74
+HSA018	Estimated qvalue formula	2026.09.07.19.04.50	total	320	noallranking	0	pvaluecalced	130	fdr<0.1	130	fdr<0.05	127	fdr<0.01	117
+HSA019	Estimated qvalue formula	2026.09.07.19.05.10	total	4784	noallranking	0	pvaluecalced	1536	fdr<0.1	1400	fdr<0.05	1264	fdr<0.01	1172
+HSA020	Estimated qvalue formula	2026.09.07.19.06.02	total	7165	noallranking	0	pvaluecalced	1797	fdr<0.1	1524	fdr<0.05	1388	fdr<0.01	1287
+HSA021	Estimated qvalue formula	2026.09.07.19.07.28	total	7820	noallranking	0	pvaluecalced	2678	fdr<0.1	2111	fdr<0.05	1903	fdr<0.01	1764
+HSA022	Estimated qvalue formula	2026.09.07.19.09.41	total	9395	noallranking	0	pvaluecalced	2538	fdr<0.1	2397	fdr<0.05	2234	fdr<0.01	2071
+HSA028	Estimated qvalue formula	2026.09.07.19.10.37	total	4358	noallranking	0	pvaluecalced	1176	fdr<0.1	1111	fdr<0.05	1007	fdr<0.01	934
+HSA029	Estimated qvalue formula	2026.09.07.19.11.34	total	4191	noallranking	0	pvaluecalced	1428	fdr<0.1	1428	fdr<0.05	1339	fdr<0.01	1246
+HSA031	Estimated qvalue formula	2026.09.07.19.12.00	total	1488	noallranking	0	pvaluecalced	341	fdr<0.1	239	fdr<0.05	215	fdr<0.01	0
+HSA032	Estimated qvalue formula	2026.09.07.19.13.03	total	2908	noallranking	0	pvaluecalced	1161	fdr<0.1	1030	fdr<0.05	939	fdr<0.01	0
+HSA033	Estimated qvalue formula	2026.09.07.19.13.48	total	2501	noallranking	0	pvaluecalced	642	fdr<0.1	498	fdr<0.05	448	fdr<0.01	0
+HSA025	Estimated qvalue formula	2026.09.07.19.14.21	total	1848	noallranking	0	pvaluecalced	764	fdr<0.1	703	fdr<0.05	661	fdr<0.01	0
+HSA034	Estimated qvalue formula	2026.09.07.19.14.51	total	1788	noallranking	0	pvaluecalced	592	fdr<0.1	533	fdr<0.05	483	fdr<0.01	0
+HSA035	Estimated qvalue formula	2026.09.07.19.16.20	total	3301	noallranking	0	pvaluecalced	1132	fdr<0.1	846	fdr<0.05	765	fdr<0.01	0
+HSA036	Estimated qvalue formula	2026.09.07.19.16.26	total	307	noallranking	0	pvaluecalced	87	fdr<0.1	65	fdr<0.05	59	fdr<0.01	0
+HSA037	Estimated qvalue formula	2026.09.07.19.16.59	total	2211	noallranking	0	pvaluecalced	341	fdr<0.1	242	fdr<0.05	218	fdr<0.01	0
+HSA038	Estimated qvalue formula	2026.09.07.19.17.16	total	925	noallranking	0	pvaluecalced	281	fdr<0.1	215	fdr<0.05	195	fdr<0.01	0
+HSA039	Estimated qvalue formula	2026.09.07.19.17.24	total	687	noallranking	0	pvaluecalced	54	fdr<0.1	43	fdr<0.05	38	fdr<0.01	0
+HSA040	Estimated qvalue formula	2026.09.07.19.17.26	total	205	noallranking	0	pvaluecalced	64	fdr<0.1	63	fdr<0.05	58	fdr<0.01	0
+HSA041	Estimated qvalue formula	2026.09.07.19.17.59	total	1888	noallranking	0	pvaluecalced	363	fdr<0.1	268	fdr<0.05	241	fdr<0.01	0
+HSA042	Estimated qvalue formula	2026.09.07.19.18.51	total	2709	noallranking	0	pvaluecalced	978	fdr<0.1	879	fdr<0.05	806	fdr<0.01	0
+HSA043	Estimated qvalue formula	2026.09.07.19.19.33	total	2659	noallranking	0	pvaluecalced	1064	fdr<0.1	800	fdr<0.05	721	fdr<0.01	669
+HSA044	Estimated qvalue formula	2026.09.07.19.21.19	total	6523	noallranking	0	pvaluecalced	2946	fdr<0.1	2507	fdr<0.05	2261	fdr<0.01	2096
+HSA045	Estimated qvalue formula	2026.09.07.19.21.59	total	3154	noallranking	0	pvaluecalced	763	fdr<0.1	689	fdr<0.05	621	fdr<0.01	576
+HSA046	Estimated qvalue formula	2026.09.07.19.22.57	total	4023	noallranking	0	pvaluecalced	1672	fdr<0.1	1592	fdr<0.05	1484	fdr<0.01	1375
+HSA047	Estimated qvalue formula	2026.09.07.19.23.46	total	3546	noallranking	0	pvaluecalced	949	fdr<0.1	743	fdr<0.05	670	fdr<0.01	621
+HSA048	Estimated qvalue formula	2026.09.07.19.24.50	total	3722	noallranking	0	pvaluecalced	2139	fdr<0.1	2086	fdr<0.05	1955	fdr<0.01	1813
+HSA051	Estimated qvalue formula	2026.09.07.19.25.18	total	1621	noallranking	0	pvaluecalced	873	fdr<0.1	705	fdr<0.05	636	fdr<0.01	589
+HSA052	Estimated qvalue formula	2026.09.07.19.26.40	total	6238	noallranking	0	pvaluecalced	1450	fdr<0.1	1137	fdr<0.05	1035	fdr<0.01	959
+HSA054	Estimated qvalue formula	2026.09.07.19.27.13	total	1643	noallranking	0	pvaluecalced	345	fdr<0.1	192	fdr<0.05	173	fdr<0.01	161
+HSA056	Estimated qvalue formula	2026.09.07.19.27.27	total	554	noallranking	0	pvaluecalced	114	fdr<0.1	65	fdr<0.05	59	fdr<0.01	0
+HSA057	Estimated qvalue formula	2026.09.07.19.28.10	total	1695	noallranking	0	pvaluecalced	443	fdr<0.1	318	fdr<0.05	287	fdr<0.01	0
+HSA059	Estimated qvalue formula	2026.09.07.19.29.51	total	6219	noallranking	0	pvaluecalced	1524	fdr<0.1	1272	fdr<0.05	1153	fdr<0.01	0
+HSA060	Estimated qvalue formula	2026.09.07.19.32.11	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1022	fdr<0.05	932	fdr<0.01	0
+HSA061	Estimated qvalue formula	2026.09.07.19.32.21	total	835	noallranking	0	pvaluecalced	234	fdr<0.1	179	fdr<0.05	161	fdr<0.01	150
+HSA062	Estimated qvalue formula	2026.09.07.19.32.45	total	1285	noallranking	0	pvaluecalced	695	fdr<0.1	664	fdr<0.05	613	fdr<0.01	568
+HSA063	Estimated qvalue formula	2026.09.07.19.33.13	total	1672	noallranking	0	pvaluecalced	953	fdr<0.1	746	fdr<0.05	672	fdr<0.01	623
+HSA064	Estimated qvalue formula	2026.09.07.19.33.49	total	1962	noallranking	0	pvaluecalced	1117	fdr<0.1	1048	fdr<0.05	967	fdr<0.01	897
+HSA065	Estimated qvalue formula	2026.09.07.19.34.05	total	1365	noallranking	0	pvaluecalced	156	fdr<0.1	121	fdr<0.05	109	fdr<0.01	101
+HSA066	Estimated qvalue formula	2026.09.07.19.35.04	total	2729	noallranking	0	pvaluecalced	1147	fdr<0.1	848	fdr<0.05	765	fdr<0.01	709
+HSA067	Estimated qvalue formula	2026.09.07.19.35.22	total	1595	noallranking	0	pvaluecalced	150	fdr<0.1	129	fdr<0.05	117	fdr<0.01	108
+HSA068	Estimated qvalue formula	2026.09.07.19.35.51	total	1976	noallranking	0	pvaluecalced	602	fdr<0.1	583	fdr<0.05	551	fdr<0.01	514
+HSA069	Estimated qvalue formula	2026.09.07.19.36.08	total	1236	noallranking	0	pvaluecalced	423	fdr<0.1	302	fdr<0.05	272	fdr<0.01	253
+HSA070	Estimated qvalue formula	2026.09.07.19.36.30	total	1505	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	667	fdr<0.01	619
+HSA073	Estimated qvalue formula	2026.09.07.19.37.07	total	2525	noallranking	0	pvaluecalced	283	fdr<0.1	229	fdr<0.05	206	fdr<0.01	191
+HSA076	Estimated qvalue formula	2026.09.07.19.38.40	total	3673	noallranking	0	pvaluecalced	2022	fdr<0.1	1564	fdr<0.05	1411	fdr<0.01	1308
+HSA077	Estimated qvalue formula	2026.09.07.19.38.58	total	1105	noallranking	0	pvaluecalced	566	fdr<0.1	566	fdr<0.05	551	fdr<0.01	517
+HSA078	Estimated qvalue formula	2026.09.07.19.42.30	total	15823	noallranking	0	pvaluecalced	3268	fdr<0.1	2669	fdr<0.05	2425	fdr<0.01	2248
+HSA079	Estimated qvalue formula	2026.09.07.19.44.37	total	9277	noallranking	0	pvaluecalced	2906	fdr<0.1	2773	fdr<0.05	2578	fdr<0.01	2390
+HSA080	Estimated qvalue formula	2026.09.07.19.47.27	total	12308	noallranking	0	pvaluecalced	3668	fdr<0.1	3380	fdr<0.05	3080	fdr<0.01	2855
+HSA081	Estimated qvalue formula	2026.09.07.19.47.53	total	1967	noallranking	0	pvaluecalced	290	fdr<0.1	229	fdr<0.05	206	fdr<0.01	191
+HSA082	Estimated qvalue formula	2026.09.07.19.48.21	total	2018	noallranking	0	pvaluecalced	490	fdr<0.1	434	fdr<0.05	403	fdr<0.01	373
+HSA087	Estimated qvalue formula	2026.09.07.19.48.55	total	1215	noallranking	0	pvaluecalced	259	fdr<0.1	167	fdr<0.05	151	fdr<0.01	0
+HSA088	Estimated qvalue formula	2026.09.07.19.52.30	total	15954	noallranking	0	pvaluecalced	5105	fdr<0.1	4981	fdr<0.05	4602	fdr<0.01	4266
+HSA089	Estimated qvalue formula	2026.09.07.19.52.58	total	1712	noallranking	0	pvaluecalced	1020	fdr<0.1	726	fdr<0.05	662	fdr<0.01	613
+HSA090	Estimated qvalue formula	2026.09.07.19.53.26	total	1602	noallranking	0	pvaluecalced	1208	fdr<0.1	1128	fdr<0.05	1020	fdr<0.01	946
+HSA091	Estimated qvalue formula	2026.09.07.19.53.47	total	1597	noallranking	0	pvaluecalced	679	fdr<0.1	606	fdr<0.05	546	fdr<0.01	507
+HSA092	Estimated qvalue formula	2026.09.07.19.54.12	total	1769	noallranking	0	pvaluecalced	1021	fdr<0.1	939	fdr<0.05	846	fdr<0.01	785
+HSA093	Estimated qvalue formula	2026.09.07.19.54.44	total	1991	noallranking	0	pvaluecalced	1275	fdr<0.1	1269	fdr<0.05	1177	fdr<0.01	1091
+HSA094	Estimated qvalue formula	2026.09.07.19.55.17	total	2007	noallranking	0	pvaluecalced	1463	fdr<0.1	1389	fdr<0.05	1262	fdr<0.01	1170
+HSA099	Estimated qvalue formula	2026.09.07.19.55.36	total	1620	noallranking	0	pvaluecalced	231	fdr<0.1	213	fdr<0.05	193	fdr<0.01	179
+HSA100	Estimated qvalue formula	2026.09.07.19.56.05	total	2229	noallranking	0	pvaluecalced	668	fdr<0.1	665	fdr<0.05	627	fdr<0.01	583
+HSA001	Estimated qvalue formula	2026.09.07.19.57.27	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	374	fdr<0.05	300	fdr<0.01	209
+HSA002	Estimated qvalue formula	2026.09.07.19.57.55	total	2383	noallranking	0	pvaluecalced	137	fdr<0.1	137	fdr<0.05	116	fdr<0.01	60
+HSA003	Estimated qvalue formula	2026.09.07.19.59.06	total	3062	noallranking	0	pvaluecalced	563	fdr<0.1	563	fdr<0.05	563	fdr<0.01	376
+HSA004	Estimated qvalue formula	2026.09.07.19.59.38	total	2317	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	162
+HSA005	Estimated qvalue formula	2026.09.07.19.59.48	total	763	noallranking	0	pvaluecalced	81	fdr<0.1	81	fdr<0.05	81	fdr<0.01	61
+HSA006	Estimated qvalue formula	2026.09.07.20.00.01	total	867	noallranking	0	pvaluecalced	355	fdr<0.1	355	fdr<0.05	355	fdr<0.01	331
+HSA007	Estimated qvalue formula	2026.09.07.20.00.36	total	3067	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	319
+HSA008	Estimated qvalue formula	2026.09.07.20.01.10	total	3255	noallranking	0	pvaluecalced	306	fdr<0.1	306	fdr<0.05	306	fdr<0.01	249
+HSA009	Estimated qvalue formula	2026.09.07.20.05.48	total	21405	noallranking	0	pvaluecalced	2151	fdr<0.1	2151	fdr<0.05	1958	fdr<0.01	1143
+HSA010	Estimated qvalue formula	2026.09.07.20.10.28	total	19350	noallranking	0	pvaluecalced	3203	fdr<0.1	3203	fdr<0.05	2885	fdr<0.01	1854
+HSA014	Estimated qvalue formula	2026.09.07.20.10.43	total	1187	noallranking	0	pvaluecalced	119	fdr<0.1	119	fdr<0.05	117	fdr<0.01	80
+HSA015	Estimated qvalue formula	2026.09.07.20.11.19	total	2403	noallranking	0	pvaluecalced	350	fdr<0.1	350	fdr<0.05	297	fdr<0.01	169
+HSA017	Estimated qvalue formula	2026.09.07.20.11.22	total	228	noallranking	0	pvaluecalced	38	fdr<0.1	38	fdr<0.05	38	fdr<0.01	26
+HSA018	Estimated qvalue formula	2026.09.07.20.11.26	total	320	noallranking	0	pvaluecalced	77	fdr<0.1	77	fdr<0.05	77	fdr<0.01	64
+HSA019	Estimated qvalue formula	2026.09.07.20.12.31	total	4784	noallranking	0	pvaluecalced	689	fdr<0.1	689	fdr<0.05	674	fdr<0.01	395
+HSA020	Estimated qvalue formula	2026.09.07.20.14.11	total	7165	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	741	fdr<0.01	548
+HSA021	Estimated qvalue formula	2026.09.07.20.16.05	total	7820	noallranking	0	pvaluecalced	1167	fdr<0.1	1167	fdr<0.05	1144	fdr<0.01	757
+HSA022	Estimated qvalue formula	2026.09.07.20.18.10	total	9395	noallranking	0	pvaluecalced	1186	fdr<0.1	1186	fdr<0.05	1186	fdr<0.01	877
+HSA028	Estimated qvalue formula	2026.09.07.20.19.05	total	4358	noallranking	0	pvaluecalced	390	fdr<0.1	390	fdr<0.05	379	fdr<0.01	250
+HSA029	Estimated qvalue formula	2026.09.07.20.20.01	total	4191	noallranking	0	pvaluecalced	494	fdr<0.1	494	fdr<0.05	482	fdr<0.01	304
+HSA031	Estimated qvalue formula	2026.09.07.20.20.22	total	1488	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	55
+HSA032	Estimated qvalue formula	2026.09.07.20.21.14	total	2908	noallranking	0	pvaluecalced	391	fdr<0.1	391	fdr<0.05	387	fdr<0.01	189
+HSA033	Estimated qvalue formula	2026.09.07.20.21.49	total	2501	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	249	fdr<0.01	147
+HSA025	Estimated qvalue formula	2026.09.07.20.22.15	total	1848	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	278
+HSA034	Estimated qvalue formula	2026.09.07.20.22.40	total	1788	noallranking	0	pvaluecalced	258	fdr<0.1	258	fdr<0.05	258	fdr<0.01	174
+HSA035	Estimated qvalue formula	2026.09.07.20.23.31	total	3301	noallranking	0	pvaluecalced	606	fdr<0.1	606	fdr<0.05	606	fdr<0.01	499
+HSA036	Estimated qvalue formula	2026.09.07.20.23.36	total	307	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	19
+HSA037	Estimated qvalue formula	2026.09.07.20.24.04	total	2211	noallranking	0	pvaluecalced	44	fdr<0.1	44	fdr<0.05	44	fdr<0.01	24
+HSA038	Estimated qvalue formula	2026.09.07.20.24.19	total	925	noallranking	0	pvaluecalced	51	fdr<0.1	51	fdr<0.05	49	fdr<0.01	29
+HSA039	Estimated qvalue formula	2026.09.07.20.24.27	total	687	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	16
+HSA040	Estimated qvalue formula	2026.09.07.20.24.30	total	205	noallranking	0	pvaluecalced	28	fdr<0.1	28	fdr<0.05	28	fdr<0.01	26
+HSA041	Estimated qvalue formula	2026.09.07.20.24.54	total	1888	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	103
+HSA042	Estimated qvalue formula	2026.09.07.20.25.35	total	2709	noallranking	0	pvaluecalced	432	fdr<0.1	432	fdr<0.05	432	fdr<0.01	306
+HSA043	Estimated qvalue formula	2026.09.07.20.26.14	total	2659	noallranking	0	pvaluecalced	358	fdr<0.1	358	fdr<0.05	342	fdr<0.01	201
+HSA044	Estimated qvalue formula	2026.09.07.20.27.52	total	6523	noallranking	0	pvaluecalced	772	fdr<0.1	760	fdr<0.05	619	fdr<0.01	337
+HSA045	Estimated qvalue formula	2026.09.07.20.28.31	total	3154	noallranking	0	pvaluecalced	320	fdr<0.1	320	fdr<0.05	301	fdr<0.01	203
+HSA046	Estimated qvalue formula	2026.09.07.20.29.28	total	4023	noallranking	0	pvaluecalced	687	fdr<0.1	687	fdr<0.05	661	fdr<0.01	454
+HSA047	Estimated qvalue formula	2026.09.07.20.30.14	total	3546	noallranking	0	pvaluecalced	319	fdr<0.1	319	fdr<0.05	296	fdr<0.01	157
+HSA048	Estimated qvalue formula	2026.09.07.20.31.15	total	3722	noallranking	0	pvaluecalced	708	fdr<0.1	708	fdr<0.05	658	fdr<0.01	465
+HSA051	Estimated qvalue formula	2026.09.07.20.31.42	total	1621	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	208	fdr<0.01	75
+HSA052	Estimated qvalue formula	2026.09.07.20.32.57	total	6238	noallranking	0	pvaluecalced	630	fdr<0.1	630	fdr<0.05	630	fdr<0.01	477
+HSA054	Estimated qvalue formula	2026.09.07.20.33.20	total	1643	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	136
+HSA056	Estimated qvalue formula	2026.09.07.20.33.28	total	554	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	48	fdr<0.01	9
+HSA057	Estimated qvalue formula	2026.09.07.20.33.55	total	1695	noallranking	0	pvaluecalced	148	fdr<0.1	148	fdr<0.05	148	fdr<0.01	111
+HSA059	Estimated qvalue formula	2026.09.07.20.35.20	total	6219	noallranking	0	pvaluecalced	499	fdr<0.1	499	fdr<0.05	499	fdr<0.01	290
+HSA060	Estimated qvalue formula	2026.09.07.20.36.59	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	448	fdr<0.01	224
+HSA061	Estimated qvalue formula	2026.09.07.20.37.10	total	835	noallranking	0	pvaluecalced	136	fdr<0.1	136	fdr<0.05	136	fdr<0.01	101
+HSA062	Estimated qvalue formula	2026.09.07.20.37.31	total	1285	noallranking	0	pvaluecalced	356	fdr<0.1	356	fdr<0.05	355	fdr<0.01	255
+HSA063	Estimated qvalue formula	2026.09.07.20.38.00	total	1672	noallranking	0	pvaluecalced	453	fdr<0.1	453	fdr<0.05	437	fdr<0.01	286
+HSA064	Estimated qvalue formula	2026.09.07.20.38.34	total	1962	noallranking	0	pvaluecalced	437	fdr<0.1	437	fdr<0.05	418	fdr<0.01	233
+HSA065	Estimated qvalue formula	2026.09.07.20.38.50	total	1365	noallranking	0	pvaluecalced	84	fdr<0.1	84	fdr<0.05	84	fdr<0.01	62
+HSA066	Estimated qvalue formula	2026.09.07.20.39.34	total	2729	noallranking	0	pvaluecalced	623	fdr<0.1	623	fdr<0.05	599	fdr<0.01	331
+HSA067	Estimated qvalue formula	2026.09.07.20.39.53	total	1595	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	35
+HSA068	Estimated qvalue formula	2026.09.07.20.40.21	total	1976	noallranking	0	pvaluecalced	373	fdr<0.1	373	fdr<0.05	371	fdr<0.01	270
+HSA069	Estimated qvalue formula	2026.09.07.20.40.38	total	1236	noallranking	0	pvaluecalced	147	fdr<0.1	147	fdr<0.05	147	fdr<0.01	84
+HSA070	Estimated qvalue formula	2026.09.07.20.41.02	total	1505	noallranking	0	pvaluecalced	281	fdr<0.1	281	fdr<0.05	269	fdr<0.01	206
+HSA073	Estimated qvalue formula	2026.09.07.20.41.34	total	2525	noallranking	0	pvaluecalced	129	fdr<0.1	129	fdr<0.05	129	fdr<0.01	93
+HSA076	Estimated qvalue formula	2026.09.07.20.42.47	total	3673	noallranking	0	pvaluecalced	737	fdr<0.1	737	fdr<0.05	650	fdr<0.01	359
+HSA077	Estimated qvalue formula	2026.09.07.20.43.04	total	1105	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	257
+HSA078	Estimated qvalue formula	2026.09.07.20.46.16	total	15823	noallranking	0	pvaluecalced	997	fdr<0.1	997	fdr<0.05	990	fdr<0.01	709
+HSA079	Estimated qvalue formula	2026.09.07.20.48.19	total	9277	noallranking	0	pvaluecalced	1201	fdr<0.1	1201	fdr<0.05	1152	fdr<0.01	734
+HSA080	Estimated qvalue formula	2026.09.07.20.51.01	total	12308	noallranking	0	pvaluecalced	1367	fdr<0.1	1367	fdr<0.05	1289	fdr<0.01	849
+HSA081	Estimated qvalue formula	2026.09.07.20.51.25	total	1967	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	95
+HSA082	Estimated qvalue formula	2026.09.07.20.51.50	total	2018	noallranking	0	pvaluecalced	266	fdr<0.1	266	fdr<0.05	266	fdr<0.01	225
+HSA087	Estimated qvalue formula	2026.09.07.20.52.12	total	1215	noallranking	0	pvaluecalced	69	fdr<0.1	69	fdr<0.05	69	fdr<0.01	27
+HSA088	Estimated qvalue formula	2026.09.07.20.55.50	total	15954	noallranking	0	pvaluecalced	1522	fdr<0.1	1522	fdr<0.05	1387	fdr<0.01	840
+HSA089	Estimated qvalue formula	2026.09.07.20.56.17	total	1712	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	418	fdr<0.01	263
+HSA090	Estimated qvalue formula	2026.09.07.20.56.46	total	1602	noallranking	0	pvaluecalced	479	fdr<0.1	479	fdr<0.05	409	fdr<0.01	219
+HSA091	Estimated qvalue formula	2026.09.07.20.57.09	total	1597	noallranking	0	pvaluecalced	293	fdr<0.1	293	fdr<0.05	282	fdr<0.01	170
+HSA092	Estimated qvalue formula	2026.09.07.20.57.35	total	1769	noallranking	0	pvaluecalced	449	fdr<0.1	449	fdr<0.05	431	fdr<0.01	280
+HSA093	Estimated qvalue formula	2026.09.07.20.58.09	total	1991	noallranking	0	pvaluecalced	543	fdr<0.1	543	fdr<0.05	523	fdr<0.01	339
+HSA094	Estimated qvalue formula	2026.09.07.20.58.45	total	2007	noallranking	0	pvaluecalced	635	fdr<0.1	635	fdr<0.05	619	fdr<0.01	422
+HSA099	Estimated qvalue formula	2026.09.07.20.59.04	total	1620	noallranking	0	pvaluecalced	88	fdr<0.1	88	fdr<0.05	88	fdr<0.01	55
+HSA100	Estimated qvalue formula	2026.09.07.20.59.32	total	2229	noallranking	0	pvaluecalced	302	fdr<0.1	302	fdr<0.05	302	fdr<0.01	235
+HSA060	Estimated qvalue	2026.09.10.20.37.56	total	3930	noallranking	0	pvaluecalced	253	fdr<0.1	415	fdr<0.05	357	fdr<0.01	104
+HSA060	Estimated qvalue formula	2026.09.10.20.39.40	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1182	fdr<0.05	1113	fdr<0.01	1053
+HSA060	Estimated qvalue formula	2026.09.10.20.40.40	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	448	fdr<0.01	224
+HSA001	Estimated qvalue	2026.09.10.23.39.36	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	359	fdr<0.05	299	fdr<0.01	0
+HSA002	Estimated qvalue	2026.09.10.23.41.47	total	885	noallranking	0	pvaluecalced	126	fdr<0.1	188	fdr<0.05	160	fdr<0.01	0
+HSA003	Estimated qvalue	2026.09.10.23.49.23	total	2342	noallranking	0	pvaluecalced	416	fdr<0.1	538	fdr<0.05	454	fdr<0.01	101
+HSA004	Estimated qvalue	2026.09.10.23.51.05	total	1673	noallranking	0	pvaluecalced	92	fdr<0.1	129	fdr<0.05	113	fdr<0.01	34
+HSA005	Estimated qvalue	2026.09.10.23.51.33	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	26	fdr<0.05	21	fdr<0.01	0
+HSA006	Estimated qvalue	2026.09.10.23.53.18	total	725	noallranking	0	pvaluecalced	112	fdr<0.1	184	fdr<0.05	162	fdr<0.01	0
+HSA007	Estimated qvalue	2026.09.10.23.55.04	total	1638	noallranking	0	pvaluecalced	200	fdr<0.1	326	fdr<0.05	279	fdr<0.01	74
+HSA008	Estimated qvalue	2026.09.10.23.56.01	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	60	fdr<0.05	58	fdr<0.01	25
+HSA009	Estimated qvalue	2026.09.11.00.15.24	total	17293	noallranking	0	pvaluecalced	1576	fdr<0.1	2358	fdr<0.05	2037	fdr<0.01	0
+HSA010	Estimated qvalue	2026.09.11.00.33.30	total	17465	noallranking	0	pvaluecalced	2233	fdr<0.1	3049	fdr<0.05	2617	fdr<0.01	0
+HSA014	Estimated qvalue	2026.09.11.00.33.53	total	906	noallranking	0	pvaluecalced	50	fdr<0.1	98	fdr<0.05	93	fdr<0.01	0
+HSA015	Estimated qvalue	2026.09.11.00.35.47	total	2013	noallranking	0	pvaluecalced	221	fdr<0.1	325	fdr<0.05	281	fdr<0.01	0
+HSA017	Estimated qvalue	2026.09.11.00.35.52	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	37	fdr<0.01	0
+HSA018	Estimated qvalue	2026.09.11.00.36.05	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	99	fdr<0.05	92	fdr<0.01	0
+HSA019	Estimated qvalue	2026.09.11.00.37.51	total	2890	noallranking	0	pvaluecalced	312	fdr<0.1	568	fdr<0.05	498	fdr<0.01	0
+HSA020	Estimated qvalue	2026.09.11.00.40.50	total	5782	noallranking	0	pvaluecalced	483	fdr<0.1	747	fdr<0.05	651	fdr<0.01	0
+HSA021	Estimated qvalue	2026.09.11.00.44.58	total	6363	noallranking	0	pvaluecalced	493	fdr<0.1	747	fdr<0.05	651	fdr<0.01	0
+HSA022	Estimated qvalue	2026.09.11.00.49.04	total	7452	noallranking	0	pvaluecalced	813	fdr<0.1	1315	fdr<0.05	1160	fdr<0.01	0
+HSA028	Estimated qvalue	2026.09.11.00.50.40	total	3327	noallranking	0	pvaluecalced	282	fdr<0.1	485	fdr<0.05	428	fdr<0.01	0
+HSA029	Estimated qvalue	2026.09.11.00.53.07	total	3516	noallranking	0	pvaluecalced	327	fdr<0.1	529	fdr<0.05	474	fdr<0.01	0
+HSA031	Estimated qvalue	2026.09.11.00.54.02	total	620	noallranking	0	pvaluecalced	46	fdr<0.1	75	fdr<0.05	66	fdr<0.01	26
+HSA032	Estimated qvalue	2026.09.11.00.57.46	total	1723	noallranking	0	pvaluecalced	226	fdr<0.1	305	fdr<0.05	262	fdr<0.01	73
+HSA033	Estimated qvalue	2026.09.11.00.58.46	total	1217	noallranking	0	pvaluecalced	52	fdr<0.1	98	fdr<0.05	91	fdr<0.01	36
+HSA025	Estimated qvalue	2026.09.11.00.59.22	total	1660	noallranking	0	pvaluecalced	10	fdr<0.1	15	fdr<0.05	14	fdr<0.01	5
+HSA034	Estimated qvalue	2026.09.11.01.00.46	total	871	noallranking	0	pvaluecalced	150	fdr<0.1	242	fdr<0.05	209	fdr<0.01	56
+HSA035	Estimated qvalue	2026.09.11.01.02.14	total	1954	noallranking	0	pvaluecalced	26	fdr<0.1	39	fdr<0.05	35	fdr<0.01	9
+HSA036	Estimated qvalue	2026.09.11.01.02.47	total	206	noallranking	0	pvaluecalced	24	fdr<0.1	26	fdr<0.05	21	fdr<0.01	4
+HSA037	Estimated qvalue	2026.09.11.01.03.38	total	1234	noallranking	0	pvaluecalced	11	fdr<0.1	12	fdr<0.05	10	fdr<0.01	2
+HSA038	Estimated qvalue	2026.09.11.01.05.20	total	508	noallranking	0	pvaluecalced	33	fdr<0.1	27	fdr<0.05	23	fdr<0.01	7
+HSA039	Estimated qvalue	2026.09.11.01.05.29	total	428	noallranking	0	pvaluecalced	5	fdr<0.1	10	fdr<0.05	9	fdr<0.01	3
+HSA040	Estimated qvalue	2026.09.11.01.05.34	total	121	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	38	fdr<0.01	16
+HSA041	Estimated qvalue	2026.09.11.01.06.11	total	1094	noallranking	0	pvaluecalced	46	fdr<0.1	89	fdr<0.05	80	fdr<0.01	30
+HSA042	Estimated qvalue	2026.09.11.01.08.18	total	1853	noallranking	0	pvaluecalced	226	fdr<0.1	371	fdr<0.05	318	fdr<0.01	100
+HSA043	Estimated qvalue	2026.09.11.01.09.43	total	1935	noallranking	0	pvaluecalced	179	fdr<0.1	286	fdr<0.05	240	fdr<0.01	0
+HSA044	Estimated qvalue	2026.09.11.01.12.24	total	5469	noallranking	0	pvaluecalced	99	fdr<0.1	105	fdr<0.05	89	fdr<0.01	0
+HSA045	Estimated qvalue	2026.09.11.01.13.13	total	1874	noallranking	0	pvaluecalced	121	fdr<0.1	222	fdr<0.05	203	fdr<0.01	0
+HSA046	Estimated qvalue	2026.09.11.01.15.12	total	3407	noallranking	0	pvaluecalced	443	fdr<0.1	642	fdr<0.05	556	fdr<0.01	0
+HSA047	Estimated qvalue	2026.09.11.01.16.17	total	1713	noallranking	0	pvaluecalced	123	fdr<0.1	204	fdr<0.05	177	fdr<0.01	0
+HSA048	Estimated qvalue	2026.09.11.01.19.20	total	3306	noallranking	0	pvaluecalced	436	fdr<0.1	606	fdr<0.05	514	fdr<0.01	0
+HSA051	Estimated qvalue	2026.09.11.01.20.24	total	1452	noallranking	0	pvaluecalced	127	fdr<0.1	189	fdr<0.05	157	fdr<0.01	0
+HSA052	Estimated qvalue	2026.09.11.01.21.50	total	5194	noallranking	0	pvaluecalced	188	fdr<0.1	339	fdr<0.05	298	fdr<0.01	0
+HSA054	Estimated qvalue	2026.09.11.01.22.20	total	978	noallranking	0	pvaluecalced	18	fdr<0.1	27	fdr<0.05	24	fdr<0.01	0
+HSA056	Estimated qvalue	2026.09.11.01.22.33	total	405	noallranking	0	pvaluecalced	1	fdr<0.1	0	fdr<0.05	0	fdr<0.01	0
+HSA057	Estimated qvalue	2026.09.11.01.23.09	total	923	noallranking	0	pvaluecalced	11	fdr<0.1	13	fdr<0.05	11	fdr<0.01	2
+HSA059	Estimated qvalue	2026.09.11.01.25.22	total	4055	noallranking	0	pvaluecalced	150	fdr<0.1	272	fdr<0.05	239	fdr<0.01	74
+HSA060	Estimated qvalue	2026.09.11.01.29.07	total	3930	noallranking	0	pvaluecalced	253	fdr<0.1	415	fdr<0.05	357	fdr<0.01	104
+HSA061	Estimated qvalue	2026.09.11.01.29.25	total	691	noallranking	0	pvaluecalced	69	fdr<0.1	118	fdr<0.05	104	fdr<0.01	0
+HSA062	Estimated qvalue	2026.09.11.01.31.14	total	1161	noallranking	0	pvaluecalced	224	fdr<0.1	312	fdr<0.05	268	fdr<0.01	0
+HSA063	Estimated qvalue	2026.09.11.01.32.19	total	1379	noallranking	0	pvaluecalced	181	fdr<0.1	307	fdr<0.05	272	fdr<0.01	0
+HSA064	Estimated qvalue	2026.09.11.01.34.20	total	1765	noallranking	0	pvaluecalced	325	fdr<0.1	403	fdr<0.05	331	fdr<0.01	0
+HSA065	Estimated qvalue	2026.09.11.01.34.40	total	615	noallranking	0	pvaluecalced	29	fdr<0.1	54	fdr<0.05	48	fdr<0.01	0
+HSA066	Estimated qvalue	2026.09.11.01.36.28	total	1670	noallranking	0	pvaluecalced	237	fdr<0.1	340	fdr<0.05	260	fdr<0.01	0
+HSA067	Estimated qvalue	2026.09.11.01.36.49	total	682	noallranking	0	pvaluecalced	35	fdr<0.1	68	fdr<0.05	62	fdr<0.01	0
+HSA068	Estimated qvalue	2026.09.11.01.37.54	total	903	noallranking	0	pvaluecalced	159	fdr<0.1	232	fdr<0.05	202	fdr<0.01	0
+HSA069	Estimated qvalue	2026.09.11.01.38.40	total	1030	noallranking	0	pvaluecalced	65	fdr<0.1	91	fdr<0.05	70	fdr<0.01	0
+HSA070	Estimated qvalue	2026.09.11.01.39.57	total	1285	noallranking	0	pvaluecalced	179	fdr<0.1	249	fdr<0.05	214	fdr<0.01	0
+HSA073	Estimated qvalue	2026.09.11.01.40.38	total	2325	noallranking	0	pvaluecalced	32	fdr<0.1	52	fdr<0.05	46	fdr<0.01	0
+HSA076	Estimated qvalue	2026.09.11.01.44.36	total	3483	noallranking	0	pvaluecalced	386	fdr<0.1	528	fdr<0.05	434	fdr<0.01	0
+HSA077	Estimated qvalue	2026.09.11.01.45.13	total	1008	noallranking	0	pvaluecalced	113	fdr<0.1	154	fdr<0.05	134	fdr<0.01	0
+HSA078	Estimated qvalue	2026.09.11.01.49.34	total	10995	noallranking	0	pvaluecalced	296	fdr<0.1	456	fdr<0.05	372	fdr<0.01	0
+HSA079	Estimated qvalue	2026.09.11.01.54.13	total	6479	noallranking	0	pvaluecalced	586	fdr<0.1	818	fdr<0.05	694	fdr<0.01	0
+HSA080	Estimated qvalue	2026.09.11.02.00.06	total	8707	noallranking	0	pvaluecalced	708	fdr<0.1	985	fdr<0.05	843	fdr<0.01	0
+HSA081	Estimated qvalue	2026.09.11.02.00.36	total	1014	noallranking	0	pvaluecalced	20	fdr<0.1	32	fdr<0.05	27	fdr<0.01	0
+HSA082	Estimated qvalue	2026.09.11.02.01.10	total	1013	noallranking	0	pvaluecalced	78	fdr<0.1	88	fdr<0.05	66	fdr<0.01	0
+HSA087	Estimated qvalue	2026.09.11.02.01.40	total	613	noallranking	0	pvaluecalced	37	fdr<0.1	62	fdr<0.05	55	fdr<0.01	15
+HSA088	Estimated qvalue	2026.09.11.02.10.01	total	12411	noallranking	0	pvaluecalced	1078	fdr<0.1	1577	fdr<0.05	1347	fdr<0.01	0
+HSA089	Estimated qvalue	2026.09.11.02.11.12	total	1622	noallranking	0	pvaluecalced	213	fdr<0.1	257	fdr<0.05	214	fdr<0.01	0
+HSA090	Estimated qvalue	2026.09.11.02.13.29	total	1526	noallranking	0	pvaluecalced	365	fdr<0.1	471	fdr<0.05	391	fdr<0.01	0
+HSA091	Estimated qvalue	2026.09.11.02.14.13	total	1452	noallranking	0	pvaluecalced	192	fdr<0.1	293	fdr<0.05	253	fdr<0.01	0
+HSA092	Estimated qvalue	2026.09.11.02.15.11	total	1603	noallranking	0	pvaluecalced	253	fdr<0.1	399	fdr<0.05	348	fdr<0.01	0
+HSA093	Estimated qvalue	2026.09.11.02.17.24	total	1908	noallranking	0	pvaluecalced	394	fdr<0.1	538	fdr<0.05	454	fdr<0.01	0
+HSA094	Estimated qvalue	2026.09.11.02.19.33	total	1904	noallranking	0	pvaluecalced	459	fdr<0.1	672	fdr<0.05	586	fdr<0.01	0
+HSA099	Estimated qvalue	2026.09.11.02.19.54	total	1110	noallranking	0	pvaluecalced	45	fdr<0.1	79	fdr<0.05	73	fdr<0.01	0
+HSA100	Estimated qvalue	2026.09.11.02.20.45	total	1404	noallranking	0	pvaluecalced	206	fdr<0.1	297	fdr<0.05	259	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.11.02.21.09	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA002	Estimated qvalue formula	2026.09.11.02.21.16	total	2383	noallranking	0	pvaluecalced	577	fdr<0.1	577	fdr<0.05	577	fdr<0.01	574
+HSA003	Estimated qvalue formula	2026.09.11.02.22.03	total	3062	noallranking	0	pvaluecalced	1370	fdr<0.1	1370	fdr<0.05	1329	fdr<0.01	1260
+HSA004	Estimated qvalue formula	2026.09.11.02.22.40	total	2317	noallranking	0	pvaluecalced	644	fdr<0.1	633	fdr<0.05	596	fdr<0.01	494
+HSA005	Estimated qvalue formula	2026.09.11.02.22.45	total	763	noallranking	0	pvaluecalced	111	fdr<0.1	111	fdr<0.05	111	fdr<0.01	107
+HSA006	Estimated qvalue formula	2026.09.11.02.22.55	total	867	noallranking	0	pvaluecalced	502	fdr<0.1	502	fdr<0.05	502	fdr<0.01	499
+HSA007	Estimated qvalue formula	2026.09.11.02.23.14	total	3067	noallranking	0	pvaluecalced	786	fdr<0.1	786	fdr<0.05	769	fdr<0.01	731
+HSA008	Estimated qvalue formula	2026.09.11.02.23.31	total	3255	noallranking	0	pvaluecalced	603	fdr<0.1	595	fdr<0.05	560	fdr<0.01	530
+HSA009	Estimated qvalue formula	2026.09.11.02.25.02	total	21405	noallranking	0	pvaluecalced	6440	fdr<0.1	6440	fdr<0.05	6440	fdr<0.01	6375
+HSA010	Estimated qvalue formula	2026.09.11.02.26.33	total	19350	noallranking	0	pvaluecalced	9293	fdr<0.1	9293	fdr<0.05	9293	fdr<0.01	9211
+HSA014	Estimated qvalue formula	2026.09.11.02.26.37	total	1187	noallranking	0	pvaluecalced	318	fdr<0.1	318	fdr<0.05	318	fdr<0.01	315
+HSA015	Estimated qvalue formula	2026.09.11.02.26.47	total	2403	noallranking	0	pvaluecalced	1221	fdr<0.1	1221	fdr<0.05	1221	fdr<0.01	1208
+HSA017	Estimated qvalue formula	2026.09.11.02.26.48	total	228	noallranking	0	pvaluecalced	80	fdr<0.1	80	fdr<0.05	80	fdr<0.01	78
+HSA018	Estimated qvalue formula	2026.09.11.02.26.49	total	320	noallranking	0	pvaluecalced	130	fdr<0.1	130	fdr<0.05	130	fdr<0.01	129
+HSA019	Estimated qvalue formula	2026.09.11.02.27.11	total	4784	noallranking	0	pvaluecalced	1536	fdr<0.1	1536	fdr<0.05	1536	fdr<0.01	1514
+HSA020	Estimated qvalue formula	2026.09.11.02.28.04	total	7165	noallranking	0	pvaluecalced	1797	fdr<0.1	1782	fdr<0.05	1687	fdr<0.01	1593
+HSA021	Estimated qvalue formula	2026.09.11.02.28.48	total	7820	noallranking	0	pvaluecalced	2678	fdr<0.1	2678	fdr<0.05	2678	fdr<0.01	2626
+HSA022	Estimated qvalue formula	2026.09.11.02.29.28	total	9395	noallranking	0	pvaluecalced	2538	fdr<0.1	2538	fdr<0.05	2492	fdr<0.01	2371
+HSA028	Estimated qvalue formula	2026.09.11.02.29.41	total	4358	noallranking	0	pvaluecalced	1176	fdr<0.1	1176	fdr<0.05	1176	fdr<0.01	1154
+HSA029	Estimated qvalue formula	2026.09.11.02.29.57	total	4191	noallranking	0	pvaluecalced	1428	fdr<0.1	1428	fdr<0.05	1428	fdr<0.01	1406
+HSA031	Estimated qvalue formula	2026.09.11.02.30.07	total	1488	noallranking	0	pvaluecalced	341	fdr<0.1	341	fdr<0.05	323	fdr<0.01	286
+HSA032	Estimated qvalue formula	2026.09.11.02.30.38	total	2908	noallranking	0	pvaluecalced	1161	fdr<0.1	1161	fdr<0.05	1114	fdr<0.01	1054
+HSA033	Estimated qvalue formula	2026.09.11.02.30.57	total	2501	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	625	fdr<0.01	573
+HSA025	Estimated qvalue formula	2026.09.11.02.31.12	total	1848	noallranking	0	pvaluecalced	764	fdr<0.1	757	fdr<0.05	715	fdr<0.01	676
+HSA034	Estimated qvalue formula	2026.09.11.02.31.25	total	1788	noallranking	0	pvaluecalced	592	fdr<0.1	592	fdr<0.05	587	fdr<0.01	556
+HSA035	Estimated qvalue formula	2026.09.11.02.32.16	total	3301	noallranking	0	pvaluecalced	1132	fdr<0.1	1074	fdr<0.05	1003	fdr<0.01	927
+HSA036	Estimated qvalue formula	2026.09.11.02.32.19	total	307	noallranking	0	pvaluecalced	87	fdr<0.1	81	fdr<0.05	76	fdr<0.01	72
+HSA037	Estimated qvalue formula	2026.09.11.02.32.30	total	2211	noallranking	0	pvaluecalced	341	fdr<0.1	283	fdr<0.05	263	fdr<0.01	249
+HSA038	Estimated qvalue formula	2026.09.11.02.32.38	total	925	noallranking	0	pvaluecalced	281	fdr<0.1	271	fdr<0.05	254	fdr<0.01	236
+HSA039	Estimated qvalue formula	2026.09.11.02.32.40	total	687	noallranking	0	pvaluecalced	54	fdr<0.1	54	fdr<0.05	54	fdr<0.01	49
+HSA040	Estimated qvalue formula	2026.09.11.02.32.40	total	205	noallranking	0	pvaluecalced	64	fdr<0.1	64	fdr<0.05	64	fdr<0.01	63
+HSA041	Estimated qvalue formula	2026.09.11.02.32.54	total	1888	noallranking	0	pvaluecalced	363	fdr<0.1	345	fdr<0.05	322	fdr<0.01	300
+HSA042	Estimated qvalue formula	2026.09.11.02.33.20	total	2709	noallranking	0	pvaluecalced	978	fdr<0.1	978	fdr<0.05	934	fdr<0.01	885
+HSA043	Estimated qvalue formula	2026.09.11.02.33.37	total	2659	noallranking	0	pvaluecalced	1064	fdr<0.1	1064	fdr<0.05	1064	fdr<0.01	1019
+HSA044	Estimated qvalue formula	2026.09.11.02.34.17	total	6523	noallranking	0	pvaluecalced	2946	fdr<0.1	2946	fdr<0.05	2905	fdr<0.01	2745
+HSA045	Estimated qvalue formula	2026.09.11.02.34.28	total	3154	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	763	fdr<0.01	730
+HSA046	Estimated qvalue formula	2026.09.11.02.34.47	total	4023	noallranking	0	pvaluecalced	1672	fdr<0.1	1672	fdr<0.05	1649	fdr<0.01	1568
+HSA047	Estimated qvalue formula	2026.09.11.02.35.03	total	3546	noallranking	0	pvaluecalced	949	fdr<0.1	949	fdr<0.05	925	fdr<0.01	874
+HSA048	Estimated qvalue formula	2026.09.11.02.35.25	total	3722	noallranking	0	pvaluecalced	2139	fdr<0.1	2139	fdr<0.05	2139	fdr<0.01	2041
+HSA051	Estimated qvalue formula	2026.09.11.02.35.36	total	1621	noallranking	0	pvaluecalced	873	fdr<0.1	873	fdr<0.05	849	fdr<0.01	799
+HSA052	Estimated qvalue formula	2026.09.11.02.36.00	total	6238	noallranking	0	pvaluecalced	1450	fdr<0.1	1450	fdr<0.05	1411	fdr<0.01	1341
+HSA054	Estimated qvalue formula	2026.09.11.02.36.16	total	1643	noallranking	0	pvaluecalced	345	fdr<0.1	343	fdr<0.05	322	fdr<0.01	296
+HSA056	Estimated qvalue formula	2026.09.11.02.36.24	total	554	noallranking	0	pvaluecalced	114	fdr<0.1	90	fdr<0.05	84	fdr<0.01	72
+HSA057	Estimated qvalue formula	2026.09.11.02.36.49	total	1695	noallranking	0	pvaluecalced	443	fdr<0.1	410	fdr<0.05	382	fdr<0.01	349
+HSA059	Estimated qvalue formula	2026.09.11.02.37.29	total	6219	noallranking	0	pvaluecalced	1524	fdr<0.1	1485	fdr<0.05	1392	fdr<0.01	1318
+HSA060	Estimated qvalue formula	2026.09.11.02.38.43	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1182	fdr<0.05	1113	fdr<0.01	1053
+HSA061	Estimated qvalue formula	2026.09.11.02.38.46	total	835	noallranking	0	pvaluecalced	234	fdr<0.1	234	fdr<0.05	234	fdr<0.01	226
+HSA062	Estimated qvalue formula	2026.09.11.02.38.56	total	1285	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	665
+HSA063	Estimated qvalue formula	2026.09.11.02.39.07	total	1672	noallranking	0	pvaluecalced	953	fdr<0.1	953	fdr<0.05	953	fdr<0.01	924
+HSA064	Estimated qvalue formula	2026.09.11.02.39.21	total	1962	noallranking	0	pvaluecalced	1117	fdr<0.1	1117	fdr<0.05	1110	fdr<0.01	1051
+HSA065	Estimated qvalue formula	2026.09.11.02.39.24	total	1365	noallranking	0	pvaluecalced	156	fdr<0.1	156	fdr<0.05	156	fdr<0.01	149
+HSA066	Estimated qvalue formula	2026.09.11.02.39.53	total	2729	noallranking	0	pvaluecalced	1147	fdr<0.1	1147	fdr<0.05	1081	fdr<0.01	1016
+HSA067	Estimated qvalue formula	2026.09.11.02.39.57	total	1595	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	149	fdr<0.01	143
+HSA068	Estimated qvalue formula	2026.09.11.02.40.07	total	1976	noallranking	0	pvaluecalced	602	fdr<0.1	602	fdr<0.05	591	fdr<0.01	560
+HSA069	Estimated qvalue formula	2026.09.11.02.40.12	total	1236	noallranking	0	pvaluecalced	423	fdr<0.1	423	fdr<0.05	423	fdr<0.01	422
+HSA070	Estimated qvalue formula	2026.09.11.02.40.19	total	1505	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	695
+HSA073	Estimated qvalue formula	2026.09.11.02.40.31	total	2525	noallranking	0	pvaluecalced	283	fdr<0.1	283	fdr<0.05	277	fdr<0.01	265
+HSA076	Estimated qvalue formula	2026.09.11.02.41.20	total	3673	noallranking	0	pvaluecalced	2022	fdr<0.1	2022	fdr<0.05	1933	fdr<0.01	1818
+HSA077	Estimated qvalue formula	2026.09.11.02.41.26	total	1105	noallranking	0	pvaluecalced	566	fdr<0.1	566	fdr<0.05	566	fdr<0.01	554
+HSA078	Estimated qvalue formula	2026.09.11.02.42.28	total	15823	noallranking	0	pvaluecalced	3268	fdr<0.1	3268	fdr<0.05	3173	fdr<0.01	3005
+HSA079	Estimated qvalue formula	2026.09.11.02.43.04	total	9277	noallranking	0	pvaluecalced	2906	fdr<0.1	2906	fdr<0.05	2905	fdr<0.01	2764
+HSA080	Estimated qvalue formula	2026.09.11.02.43.53	total	12308	noallranking	0	pvaluecalced	3668	fdr<0.1	3668	fdr<0.05	3668	fdr<0.01	3500
+HSA081	Estimated qvalue formula	2026.09.11.02.44.01	total	1967	noallranking	0	pvaluecalced	290	fdr<0.1	290	fdr<0.05	280	fdr<0.01	266
+HSA082	Estimated qvalue formula	2026.09.11.02.44.11	total	2018	noallranking	0	pvaluecalced	490	fdr<0.1	488	fdr<0.05	461	fdr<0.01	434
+HSA087	Estimated qvalue formula	2026.09.11.02.44.29	total	1215	noallranking	0	pvaluecalced	259	fdr<0.1	224	fdr<0.05	208	fdr<0.01	189
+HSA088	Estimated qvalue formula	2026.09.11.02.45.25	total	15954	noallranking	0	pvaluecalced	5105	fdr<0.1	5105	fdr<0.05	5105	fdr<0.01	4995
+HSA089	Estimated qvalue formula	2026.09.11.02.45.35	total	1712	noallranking	0	pvaluecalced	1020	fdr<0.1	867	fdr<0.05	798	fdr<0.01	751
+HSA090	Estimated qvalue formula	2026.09.11.02.45.47	total	1602	noallranking	0	pvaluecalced	1208	fdr<0.1	1208	fdr<0.05	1208	fdr<0.01	1181
+HSA091	Estimated qvalue formula	2026.09.11.02.45.53	total	1597	noallranking	0	pvaluecalced	679	fdr<0.1	679	fdr<0.05	679	fdr<0.01	660
+HSA092	Estimated qvalue formula	2026.09.11.02.46.00	total	1769	noallranking	0	pvaluecalced	1021	fdr<0.1	1021	fdr<0.05	1021	fdr<0.01	993
+HSA093	Estimated qvalue formula	2026.09.11.02.46.11	total	1991	noallranking	0	pvaluecalced	1275	fdr<0.1	1275	fdr<0.05	1275	fdr<0.01	1259
+HSA094	Estimated qvalue formula	2026.09.11.02.46.24	total	2007	noallranking	0	pvaluecalced	1463	fdr<0.1	1463	fdr<0.05	1463	fdr<0.01	1417
+HSA099	Estimated qvalue formula	2026.09.11.02.46.28	total	1620	noallranking	0	pvaluecalced	231	fdr<0.1	231	fdr<0.05	231	fdr<0.01	226
+HSA100	Estimated qvalue formula	2026.09.11.02.46.36	total	2229	noallranking	0	pvaluecalced	668	fdr<0.1	668	fdr<0.05	668	fdr<0.01	644
+HSA001	Estimated qvalue formula	2026.09.11.02.47.29	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	374	fdr<0.05	300	fdr<0.01	209
+HSA002	Estimated qvalue formula	2026.09.11.02.47.35	total	2383	noallranking	0	pvaluecalced	137	fdr<0.1	137	fdr<0.05	116	fdr<0.01	60
+HSA003	Estimated qvalue formula	2026.09.11.02.48.14	total	3062	noallranking	0	pvaluecalced	563	fdr<0.1	563	fdr<0.05	563	fdr<0.01	376
+HSA004	Estimated qvalue formula	2026.09.11.02.48.22	total	2317	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	162
+HSA005	Estimated qvalue formula	2026.09.11.02.48.24	total	763	noallranking	0	pvaluecalced	81	fdr<0.1	81	fdr<0.05	81	fdr<0.01	61
+HSA006	Estimated qvalue formula	2026.09.11.02.48.27	total	867	noallranking	0	pvaluecalced	355	fdr<0.1	355	fdr<0.05	355	fdr<0.01	331
+HSA007	Estimated qvalue formula	2026.09.11.02.48.36	total	3067	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	319
+HSA008	Estimated qvalue formula	2026.09.11.02.48.42	total	3255	noallranking	0	pvaluecalced	306	fdr<0.1	306	fdr<0.05	306	fdr<0.01	249
+HSA009	Estimated qvalue formula	2026.09.11.02.49.52	total	21405	noallranking	0	pvaluecalced	2151	fdr<0.1	2151	fdr<0.05	1958	fdr<0.01	1143
+HSA010	Estimated qvalue formula	2026.09.11.02.51.13	total	19350	noallranking	0	pvaluecalced	3203	fdr<0.1	3203	fdr<0.05	2885	fdr<0.01	1854
+HSA014	Estimated qvalue formula	2026.09.11.02.51.16	total	1187	noallranking	0	pvaluecalced	119	fdr<0.1	119	fdr<0.05	117	fdr<0.01	80
+HSA015	Estimated qvalue formula	2026.09.11.02.51.27	total	2403	noallranking	0	pvaluecalced	350	fdr<0.1	350	fdr<0.05	297	fdr<0.01	169
+HSA017	Estimated qvalue formula	2026.09.11.02.51.28	total	228	noallranking	0	pvaluecalced	38	fdr<0.1	38	fdr<0.05	38	fdr<0.01	26
+HSA018	Estimated qvalue formula	2026.09.11.02.51.29	total	320	noallranking	0	pvaluecalced	77	fdr<0.1	77	fdr<0.05	77	fdr<0.01	64
+HSA019	Estimated qvalue formula	2026.09.11.02.51.45	total	4784	noallranking	0	pvaluecalced	689	fdr<0.1	689	fdr<0.05	674	fdr<0.01	395
+HSA020	Estimated qvalue formula	2026.09.11.02.52.09	total	7165	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	741	fdr<0.01	548
+HSA021	Estimated qvalue formula	2026.09.11.02.52.39	total	7820	noallranking	0	pvaluecalced	1167	fdr<0.1	1167	fdr<0.05	1144	fdr<0.01	757
+HSA022	Estimated qvalue formula	2026.09.11.02.53.07	total	9395	noallranking	0	pvaluecalced	1186	fdr<0.1	1186	fdr<0.05	1186	fdr<0.01	877
+HSA028	Estimated qvalue formula	2026.09.11.02.53.18	total	4358	noallranking	0	pvaluecalced	390	fdr<0.1	390	fdr<0.05	379	fdr<0.01	250
+HSA029	Estimated qvalue formula	2026.09.11.02.53.30	total	4191	noallranking	0	pvaluecalced	494	fdr<0.1	494	fdr<0.05	482	fdr<0.01	304
+HSA031	Estimated qvalue formula	2026.09.11.02.53.36	total	1488	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	55
+HSA032	Estimated qvalue formula	2026.09.11.02.53.53	total	2908	noallranking	0	pvaluecalced	391	fdr<0.1	391	fdr<0.05	387	fdr<0.01	189
+HSA033	Estimated qvalue formula	2026.09.11.02.54.01	total	2501	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	249	fdr<0.01	147
+HSA025	Estimated qvalue formula	2026.09.11.02.54.08	total	1848	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	278
+HSA034	Estimated qvalue formula	2026.09.11.02.54.14	total	1788	noallranking	0	pvaluecalced	258	fdr<0.1	258	fdr<0.05	258	fdr<0.01	174
+HSA035	Estimated qvalue formula	2026.09.11.02.54.27	total	3301	noallranking	0	pvaluecalced	606	fdr<0.1	606	fdr<0.05	606	fdr<0.01	499
+HSA036	Estimated qvalue formula	2026.09.11.02.54.28	total	307	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	19
+HSA037	Estimated qvalue formula	2026.09.11.02.54.35	total	2211	noallranking	0	pvaluecalced	44	fdr<0.1	44	fdr<0.05	44	fdr<0.01	24
+HSA038	Estimated qvalue formula	2026.09.11.02.54.40	total	925	noallranking	0	pvaluecalced	51	fdr<0.1	51	fdr<0.05	49	fdr<0.01	29
+HSA039	Estimated qvalue formula	2026.09.11.02.54.41	total	687	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	16
+HSA040	Estimated qvalue formula	2026.09.11.02.54.42	total	205	noallranking	0	pvaluecalced	28	fdr<0.1	28	fdr<0.05	28	fdr<0.01	26
+HSA041	Estimated qvalue formula	2026.09.11.02.54.47	total	1888	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	103
+HSA042	Estimated qvalue formula	2026.09.11.02.54.56	total	2709	noallranking	0	pvaluecalced	432	fdr<0.1	432	fdr<0.05	432	fdr<0.01	306
+HSA043	Estimated qvalue formula	2026.09.11.02.55.05	total	2659	noallranking	0	pvaluecalced	358	fdr<0.1	358	fdr<0.05	342	fdr<0.01	201
+HSA044	Estimated qvalue formula	2026.09.11.02.55.29	total	6523	noallranking	0	pvaluecalced	772	fdr<0.1	760	fdr<0.05	619	fdr<0.01	337
+HSA045	Estimated qvalue formula	2026.09.11.02.55.36	total	3154	noallranking	0	pvaluecalced	320	fdr<0.1	320	fdr<0.05	301	fdr<0.01	203
+HSA046	Estimated qvalue formula	2026.09.11.02.55.47	total	4023	noallranking	0	pvaluecalced	687	fdr<0.1	687	fdr<0.05	661	fdr<0.01	454
+HSA047	Estimated qvalue formula	2026.09.11.02.55.57	total	3546	noallranking	0	pvaluecalced	319	fdr<0.1	319	fdr<0.05	296	fdr<0.01	157
+HSA048	Estimated qvalue formula	2026.09.11.02.56.12	total	3722	noallranking	0	pvaluecalced	708	fdr<0.1	708	fdr<0.05	658	fdr<0.01	465
+HSA051	Estimated qvalue formula	2026.09.11.02.56.20	total	1621	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	208	fdr<0.01	75
+HSA052	Estimated qvalue formula	2026.09.11.02.56.31	total	6238	noallranking	0	pvaluecalced	630	fdr<0.1	630	fdr<0.05	630	fdr<0.01	477
+HSA054	Estimated qvalue formula	2026.09.11.02.56.36	total	1643	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	136
+HSA056	Estimated qvalue formula	2026.09.11.02.56.38	total	554	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	48	fdr<0.01	9
+HSA057	Estimated qvalue formula	2026.09.11.02.56.45	total	1695	noallranking	0	pvaluecalced	148	fdr<0.1	148	fdr<0.05	148	fdr<0.01	111
+HSA059	Estimated qvalue formula	2026.09.11.02.57.03	total	6219	noallranking	0	pvaluecalced	499	fdr<0.1	499	fdr<0.05	499	fdr<0.01	290
+HSA060	Estimated qvalue formula	2026.09.11.02.57.35	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	448	fdr<0.01	224
+HSA061	Estimated qvalue formula	2026.09.11.02.57.37	total	835	noallranking	0	pvaluecalced	136	fdr<0.1	136	fdr<0.05	136	fdr<0.01	101
+HSA062	Estimated qvalue formula	2026.09.11.02.57.43	total	1285	noallranking	0	pvaluecalced	356	fdr<0.1	356	fdr<0.05	355	fdr<0.01	255
+HSA063	Estimated qvalue formula	2026.09.11.02.57.51	total	1672	noallranking	0	pvaluecalced	453	fdr<0.1	453	fdr<0.05	437	fdr<0.01	286
+HSA064	Estimated qvalue formula	2026.09.11.02.58.01	total	1962	noallranking	0	pvaluecalced	437	fdr<0.1	437	fdr<0.05	418	fdr<0.01	233
+HSA065	Estimated qvalue formula	2026.09.11.02.58.04	total	1365	noallranking	0	pvaluecalced	84	fdr<0.1	84	fdr<0.05	84	fdr<0.01	62
+HSA066	Estimated qvalue formula	2026.09.11.02.58.16	total	2729	noallranking	0	pvaluecalced	623	fdr<0.1	623	fdr<0.05	599	fdr<0.01	331
+HSA067	Estimated qvalue formula	2026.09.11.02.58.19	total	1595	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	35
+HSA068	Estimated qvalue formula	2026.09.11.02.58.24	total	1976	noallranking	0	pvaluecalced	373	fdr<0.1	373	fdr<0.05	371	fdr<0.01	270
+HSA069	Estimated qvalue formula	2026.09.11.02.58.29	total	1236	noallranking	0	pvaluecalced	147	fdr<0.1	147	fdr<0.05	147	fdr<0.01	84
+HSA070	Estimated qvalue formula	2026.09.11.02.58.35	total	1505	noallranking	0	pvaluecalced	281	fdr<0.1	281	fdr<0.05	269	fdr<0.01	206
+HSA073	Estimated qvalue formula	2026.09.11.02.58.42	total	2525	noallranking	0	pvaluecalced	129	fdr<0.1	129	fdr<0.05	129	fdr<0.01	93
+HSA076	Estimated qvalue formula	2026.09.11.02.59.06	total	3673	noallranking	0	pvaluecalced	737	fdr<0.1	737	fdr<0.05	650	fdr<0.01	359
+HSA077	Estimated qvalue formula	2026.09.11.02.59.10	total	1105	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	257
+HSA078	Estimated qvalue formula	2026.09.11.02.59.43	total	15823	noallranking	0	pvaluecalced	997	fdr<0.1	997	fdr<0.05	990	fdr<0.01	709
+HSA079	Estimated qvalue formula	2026.09.11.03.00.08	total	9277	noallranking	0	pvaluecalced	1201	fdr<0.1	1201	fdr<0.05	1152	fdr<0.01	734
+HSA080	Estimated qvalue formula	2026.09.11.03.00.40	total	12308	noallranking	0	pvaluecalced	1367	fdr<0.1	1367	fdr<0.05	1289	fdr<0.01	849
+HSA081	Estimated qvalue formula	2026.09.11.03.00.44	total	1967	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	95
+HSA082	Estimated qvalue formula	2026.09.11.03.00.48	total	2018	noallranking	0	pvaluecalced	266	fdr<0.1	266	fdr<0.05	266	fdr<0.01	225
+HSA087	Estimated qvalue formula	2026.09.11.03.00.55	total	1215	noallranking	0	pvaluecalced	69	fdr<0.1	69	fdr<0.05	69	fdr<0.01	27
+HSA088	Estimated qvalue formula	2026.09.11.03.01.40	total	15954	noallranking	0	pvaluecalced	1522	fdr<0.1	1522	fdr<0.05	1387	fdr<0.01	840
+HSA089	Estimated qvalue formula	2026.09.11.03.01.47	total	1712	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	418	fdr<0.01	263
+HSA090	Estimated qvalue formula	2026.09.11.03.01.56	total	1602	noallranking	0	pvaluecalced	479	fdr<0.1	479	fdr<0.05	409	fdr<0.01	219
+HSA091	Estimated qvalue formula	2026.09.11.03.02.01	total	1597	noallranking	0	pvaluecalced	293	fdr<0.1	293	fdr<0.05	282	fdr<0.01	170
+HSA092	Estimated qvalue formula	2026.09.11.03.02.08	total	1769	noallranking	0	pvaluecalced	449	fdr<0.1	449	fdr<0.05	431	fdr<0.01	280
+HSA093	Estimated qvalue formula	2026.09.11.03.02.17	total	1991	noallranking	0	pvaluecalced	543	fdr<0.1	543	fdr<0.05	523	fdr<0.01	339
+HSA094	Estimated qvalue formula	2026.09.11.03.02.28	total	2007	noallranking	0	pvaluecalced	635	fdr<0.1	635	fdr<0.05	619	fdr<0.01	422
+HSA099	Estimated qvalue formula	2026.09.11.03.02.31	total	1620	noallranking	0	pvaluecalced	88	fdr<0.1	88	fdr<0.05	88	fdr<0.01	55
+HSA100	Estimated qvalue formula	2026.09.11.03.02.37	total	2229	noallranking	0	pvaluecalced	302	fdr<0.1	302	fdr<0.05	302	fdr<0.01	235
+HSA011	Estimated qvalue	2026.09.13.07.09.26	total	2755	noallranking	0	pvaluecalced	424	fdr<0.1	639	fdr<0.05	549	fdr<0.01	0
+HSA011	Estimated qvalue formula	2026.09.13.07.10.09	total	3365	noallranking	0	pvaluecalced	1815	fdr<0.1	1815	fdr<0.05	1795	fdr<0.01	1704
+HSA011	Estimated qvalue formula	2026.09.13.07.11.06	total	3365	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	591	fdr<0.01	372
+HSA011	Estimated qvalue	2026.09.13.09.40.14	total	2755	noallranking	0	pvaluecalced	424	fdr<0.1	639	fdr<0.05	549	fdr<0.01	0
+HSA011	Estimated qvalue formula	2026.09.13.09.40.56	total	3365	noallranking	0	pvaluecalced	1815	fdr<0.1	1815	fdr<0.05	1795	fdr<0.01	1704
+HSA011	Estimated qvalue formula	2026.09.13.09.41.50	total	3365	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	591	fdr<0.01	372
+HSA001	Estimated qvalue	2026.09.13.14.38.06	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	359	fdr<0.05	299	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.13.14.38.34	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1660
+HSA001	Estimated qvalue formula	2026.09.13.14.39.35	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	374	fdr<0.05	300	fdr<0.01	209
+HSA001	Estimated qvalue	2026.09.13.15.06.32	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	361	fdr<0.05	305	fdr<0.01	0
+HSA001	Estimated qvalue	2026.09.13.15.25.55	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	361	fdr<0.05	305	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.13.15.26.27	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1678
+HSA001	Estimated qvalue formula	2026.09.13.15.27.35	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	388	fdr<0.05	303	fdr<0.01	214
+HSA012	Estimated qvalue	2026.09.13.16.58.42	total	2739	noallranking	0	pvaluecalced	321	fdr<0.1	463	fdr<0.05	408	fdr<0.01	0
+HSA012	Estimated qvalue formula	2026.09.13.16.59.13	total	4546	noallranking	0	pvaluecalced	1754	fdr<0.1	1754	fdr<0.05	1754	fdr<0.01	1750
+HSA012	Estimated qvalue formula	2026.09.13.17.00.11	total	4546	noallranking	0	pvaluecalced	528	fdr<0.1	528	fdr<0.05	478	fdr<0.01	284
+HSA001	Estimated qvalue	2026.09.13.18.44.43	total	2003	noallranking	0	pvaluecalced	264	fdr<0.1	361	fdr<0.05	305	fdr<0.01	0
+HSA002	Estimated qvalue	2026.09.13.18.46.53	total	885	noallranking	0	pvaluecalced	126	fdr<0.1	188	fdr<0.05	160	fdr<0.01	0
+HSA003	Estimated qvalue	2026.09.13.18.54.32	total	2342	noallranking	0	pvaluecalced	416	fdr<0.1	569	fdr<0.05	525	fdr<0.01	117
+HSA004	Estimated qvalue	2026.09.13.18.56.21	total	1673	noallranking	0	pvaluecalced	92	fdr<0.1	130	fdr<0.05	118	fdr<0.01	34
+HSA005	Estimated qvalue	2026.09.13.18.56.52	total	414	noallranking	0	pvaluecalced	16	fdr<0.1	26	fdr<0.05	22	fdr<0.01	0
+HSA006	Estimated qvalue	2026.09.13.18.58.41	total	725	noallranking	0	pvaluecalced	112	fdr<0.1	184	fdr<0.05	166	fdr<0.01	0
+HSA007	Estimated qvalue	2026.09.13.19.00.26	total	1638	noallranking	0	pvaluecalced	200	fdr<0.1	329	fdr<0.05	307	fdr<0.01	88
+HSA008	Estimated qvalue	2026.09.13.19.01.24	total	1487	noallranking	0	pvaluecalced	37	fdr<0.1	60	fdr<0.05	58	fdr<0.01	25
+HSA009	Estimated qvalue	2026.09.13.19.20.59	total	17293	noallranking	0	pvaluecalced	1576	fdr<0.1	2360	fdr<0.05	2067	fdr<0.01	0
+HSA010	Estimated qvalue	2026.09.13.19.39.10	total	17465	noallranking	0	pvaluecalced	2233	fdr<0.1	3052	fdr<0.05	2666	fdr<0.01	0
+HSA011	Estimated qvalue	2026.09.13.19.42.27	total	2755	noallranking	0	pvaluecalced	424	fdr<0.1	639	fdr<0.05	561	fdr<0.01	0
+HSA012	Estimated qvalue	2026.09.13.19.45.07	total	2739	noallranking	0	pvaluecalced	321	fdr<0.1	463	fdr<0.05	408	fdr<0.01	0
+HSA014	Estimated qvalue	2026.09.13.19.45.27	total	906	noallranking	0	pvaluecalced	50	fdr<0.1	98	fdr<0.05	93	fdr<0.01	0
+HSA015	Estimated qvalue	2026.09.13.19.47.23	total	2013	noallranking	0	pvaluecalced	221	fdr<0.1	329	fdr<0.05	284	fdr<0.01	0
+HSA017	Estimated qvalue	2026.09.13.19.47.27	total	143	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	37	fdr<0.01	0
+HSA018	Estimated qvalue	2026.09.13.19.47.40	total	187	noallranking	0	pvaluecalced	57	fdr<0.1	100	fdr<0.05	92	fdr<0.01	0
+HSA019	Estimated qvalue	2026.09.13.19.49.30	total	2890	noallranking	0	pvaluecalced	312	fdr<0.1	568	fdr<0.05	504	fdr<0.01	0
+HSA020	Estimated qvalue	2026.09.13.19.52.25	total	5782	noallranking	0	pvaluecalced	483	fdr<0.1	748	fdr<0.05	652	fdr<0.01	0
+HSA021	Estimated qvalue	2026.09.13.19.56.36	total	6363	noallranking	0	pvaluecalced	493	fdr<0.1	749	fdr<0.05	658	fdr<0.01	0
+HSA022	Estimated qvalue	2026.09.13.20.00.37	total	7452	noallranking	0	pvaluecalced	813	fdr<0.1	1315	fdr<0.05	1169	fdr<0.01	0
+HSA028	Estimated qvalue	2026.09.13.20.02.14	total	3327	noallranking	0	pvaluecalced	282	fdr<0.1	485	fdr<0.05	429	fdr<0.01	0
+HSA029	Estimated qvalue	2026.09.13.20.04.40	total	3516	noallranking	0	pvaluecalced	327	fdr<0.1	529	fdr<0.05	475	fdr<0.01	0
+HSA031	Estimated qvalue	2026.09.13.20.05.35	total	620	noallranking	0	pvaluecalced	46	fdr<0.1	75	fdr<0.05	67	fdr<0.01	26
+HSA032	Estimated qvalue	2026.09.13.20.09.22	total	1723	noallranking	0	pvaluecalced	226	fdr<0.1	305	fdr<0.05	279	fdr<0.01	86
+HSA033	Estimated qvalue	2026.09.13.20.10.25	total	1217	noallranking	0	pvaluecalced	52	fdr<0.1	99	fdr<0.05	92	fdr<0.01	39
+HSA025	Estimated qvalue	2026.09.13.20.11.03	total	1660	noallranking	0	pvaluecalced	10	fdr<0.1	15	fdr<0.05	14	fdr<0.01	5
+HSA034	Estimated qvalue	2026.09.13.20.12.26	total	871	noallranking	0	pvaluecalced	150	fdr<0.1	245	fdr<0.05	230	fdr<0.01	67
+HSA035	Estimated qvalue	2026.09.13.20.13.55	total	1954	noallranking	0	pvaluecalced	26	fdr<0.1	39	fdr<0.05	35	fdr<0.01	11
+HSA036	Estimated qvalue	2026.09.13.20.14.29	total	206	noallranking	0	pvaluecalced	24	fdr<0.1	26	fdr<0.05	22	fdr<0.01	4
+HSA037	Estimated qvalue	2026.09.13.20.15.21	total	1234	noallranking	0	pvaluecalced	11	fdr<0.1	12	fdr<0.05	10	fdr<0.01	2
+HSA038	Estimated qvalue	2026.09.13.20.17.03	total	508	noallranking	0	pvaluecalced	33	fdr<0.1	27	fdr<0.05	23	fdr<0.01	7
+HSA039	Estimated qvalue	2026.09.13.20.17.11	total	428	noallranking	0	pvaluecalced	5	fdr<0.1	10	fdr<0.05	9	fdr<0.01	3
+HSA040	Estimated qvalue	2026.09.13.20.17.17	total	121	noallranking	0	pvaluecalced	21	fdr<0.1	39	fdr<0.05	38	fdr<0.01	16
+HSA041	Estimated qvalue	2026.09.13.20.17.55	total	1094	noallranking	0	pvaluecalced	46	fdr<0.1	89	fdr<0.05	83	fdr<0.01	31
+HSA042	Estimated qvalue	2026.09.13.20.20.05	total	1853	noallranking	0	pvaluecalced	226	fdr<0.1	372	fdr<0.05	346	fdr<0.01	110
+HSA043	Estimated qvalue	2026.09.13.20.21.33	total	1935	noallranking	0	pvaluecalced	179	fdr<0.1	286	fdr<0.05	245	fdr<0.01	0
+HSA044	Estimated qvalue	2026.09.13.20.24.22	total	5469	noallranking	0	pvaluecalced	99	fdr<0.1	105	fdr<0.05	89	fdr<0.01	0
+HSA045	Estimated qvalue	2026.09.13.20.25.12	total	1874	noallranking	0	pvaluecalced	121	fdr<0.1	222	fdr<0.05	204	fdr<0.01	0
+HSA046	Estimated qvalue	2026.09.13.20.27.17	total	3407	noallranking	0	pvaluecalced	443	fdr<0.1	645	fdr<0.05	563	fdr<0.01	0
+HSA047	Estimated qvalue	2026.09.13.20.28.27	total	1713	noallranking	0	pvaluecalced	123	fdr<0.1	205	fdr<0.05	177	fdr<0.01	0
+HSA048	Estimated qvalue	2026.09.13.20.31.38	total	3306	noallranking	0	pvaluecalced	436	fdr<0.1	610	fdr<0.05	523	fdr<0.01	0
+HSA051	Estimated qvalue	2026.09.13.20.32.46	total	1452	noallranking	0	pvaluecalced	127	fdr<0.1	190	fdr<0.05	159	fdr<0.01	0
+HSA052	Estimated qvalue	2026.09.13.20.34.17	total	5194	noallranking	0	pvaluecalced	188	fdr<0.1	339	fdr<0.05	304	fdr<0.01	0
+HSA054	Estimated qvalue	2026.09.13.20.34.52	total	978	noallranking	0	pvaluecalced	18	fdr<0.1	28	fdr<0.05	24	fdr<0.01	0
+HSA056	Estimated qvalue	2026.09.13.20.35.05	total	405	noallranking	0	pvaluecalced	1	fdr<0.1	0	fdr<0.05	0	fdr<0.01	0
+HSA057	Estimated qvalue	2026.09.13.20.35.43	total	923	noallranking	0	pvaluecalced	11	fdr<0.1	13	fdr<0.05	11	fdr<0.01	2
+HSA059	Estimated qvalue	2026.09.13.20.38.03	total	4055	noallranking	0	pvaluecalced	150	fdr<0.1	272	fdr<0.05	240	fdr<0.01	82
+HSA060	Estimated qvalue	2026.09.13.20.41.59	total	3930	noallranking	0	pvaluecalced	253	fdr<0.1	418	fdr<0.05	392	fdr<0.01	107
+HSA061	Estimated qvalue	2026.09.13.20.42.17	total	691	noallranking	0	pvaluecalced	69	fdr<0.1	118	fdr<0.05	105	fdr<0.01	0
+HSA062	Estimated qvalue	2026.09.13.20.43.58	total	1161	noallranking	0	pvaluecalced	224	fdr<0.1	312	fdr<0.05	269	fdr<0.01	0
+HSA063	Estimated qvalue	2026.09.13.20.44.59	total	1379	noallranking	0	pvaluecalced	181	fdr<0.1	307	fdr<0.05	273	fdr<0.01	0
+HSA064	Estimated qvalue	2026.09.13.20.47.00	total	1765	noallranking	0	pvaluecalced	325	fdr<0.1	403	fdr<0.05	344	fdr<0.01	0
+HSA065	Estimated qvalue	2026.09.13.20.47.19	total	615	noallranking	0	pvaluecalced	29	fdr<0.1	54	fdr<0.05	48	fdr<0.01	0
+HSA066	Estimated qvalue	2026.09.13.20.49.06	total	1670	noallranking	0	pvaluecalced	237	fdr<0.1	340	fdr<0.05	291	fdr<0.01	0
+HSA067	Estimated qvalue	2026.09.13.20.49.28	total	682	noallranking	0	pvaluecalced	35	fdr<0.1	68	fdr<0.05	62	fdr<0.01	0
+HSA068	Estimated qvalue	2026.09.13.20.50.33	total	903	noallranking	0	pvaluecalced	159	fdr<0.1	234	fdr<0.05	204	fdr<0.01	0
+HSA069	Estimated qvalue	2026.09.13.20.51.20	total	1030	noallranking	0	pvaluecalced	65	fdr<0.1	92	fdr<0.05	70	fdr<0.01	0
+HSA070	Estimated qvalue	2026.09.13.20.52.38	total	1285	noallranking	0	pvaluecalced	179	fdr<0.1	250	fdr<0.05	219	fdr<0.01	0
+HSA073	Estimated qvalue	2026.09.13.20.53.20	total	2325	noallranking	0	pvaluecalced	32	fdr<0.1	52	fdr<0.05	46	fdr<0.01	0
+HSA076	Estimated qvalue	2026.09.13.20.57.19	total	3483	noallranking	0	pvaluecalced	386	fdr<0.1	529	fdr<0.05	440	fdr<0.01	0
+HSA077	Estimated qvalue	2026.09.13.20.57.56	total	1008	noallranking	0	pvaluecalced	113	fdr<0.1	154	fdr<0.05	134	fdr<0.01	0
+HSA078	Estimated qvalue	2026.09.13.21.02.24	total	10995	noallranking	0	pvaluecalced	296	fdr<0.1	456	fdr<0.05	390	fdr<0.01	0
+HSA079	Estimated qvalue	2026.09.13.21.07.08	total	6479	noallranking	0	pvaluecalced	586	fdr<0.1	819	fdr<0.05	694	fdr<0.01	0
+HSA080	Estimated qvalue	2026.09.13.21.13.07	total	8707	noallranking	0	pvaluecalced	708	fdr<0.1	986	fdr<0.05	845	fdr<0.01	0
+HSA081	Estimated qvalue	2026.09.13.21.13.38	total	1014	noallranking	0	pvaluecalced	20	fdr<0.1	32	fdr<0.05	27	fdr<0.01	0
+HSA082	Estimated qvalue	2026.09.13.21.14.15	total	1013	noallranking	0	pvaluecalced	78	fdr<0.1	88	fdr<0.05	78	fdr<0.01	0
+HSA087	Estimated qvalue	2026.09.13.21.14.45	total	613	noallranking	0	pvaluecalced	37	fdr<0.1	64	fdr<0.05	56	fdr<0.01	21
+HSA088	Estimated qvalue	2026.09.13.21.23.18	total	12411	noallranking	0	pvaluecalced	1078	fdr<0.1	1579	fdr<0.05	1358	fdr<0.01	0
+HSA089	Estimated qvalue	2026.09.13.21.24.28	total	1622	noallranking	0	pvaluecalced	213	fdr<0.1	260	fdr<0.05	224	fdr<0.01	0
+HSA090	Estimated qvalue	2026.09.13.21.26.42	total	1526	noallranking	0	pvaluecalced	365	fdr<0.1	471	fdr<0.05	396	fdr<0.01	0
+HSA091	Estimated qvalue	2026.09.13.21.27.28	total	1452	noallranking	0	pvaluecalced	192	fdr<0.1	293	fdr<0.05	259	fdr<0.01	0
+HSA092	Estimated qvalue	2026.09.13.21.28.28	total	1603	noallranking	0	pvaluecalced	253	fdr<0.1	399	fdr<0.05	351	fdr<0.01	0
+HSA093	Estimated qvalue	2026.09.13.21.30.45	total	1908	noallranking	0	pvaluecalced	394	fdr<0.1	541	fdr<0.05	458	fdr<0.01	0
+HSA094	Estimated qvalue	2026.09.13.21.32.58	total	1904	noallranking	0	pvaluecalced	459	fdr<0.1	672	fdr<0.05	589	fdr<0.01	0
+HSA099	Estimated qvalue	2026.09.13.21.33.19	total	1110	noallranking	0	pvaluecalced	45	fdr<0.1	79	fdr<0.05	73	fdr<0.01	0
+HSA100	Estimated qvalue	2026.09.13.21.34.10	total	1404	noallranking	0	pvaluecalced	206	fdr<0.1	298	fdr<0.05	260	fdr<0.01	0
+HSA001	Estimated qvalue formula	2026.09.13.21.35.03	total	2873	noallranking	0	pvaluecalced	1679	fdr<0.1	1679	fdr<0.05	1679	fdr<0.01	1678
+HSA002	Estimated qvalue formula	2026.09.13.21.35.32	total	2383	noallranking	0	pvaluecalced	577	fdr<0.1	577	fdr<0.05	577	fdr<0.01	575
+HSA003	Estimated qvalue formula	2026.09.13.21.36.51	total	3062	noallranking	0	pvaluecalced	1370	fdr<0.1	1370	fdr<0.05	1343	fdr<0.01	1323
+HSA004	Estimated qvalue formula	2026.09.13.21.37.53	total	2317	noallranking	0	pvaluecalced	644	fdr<0.1	635	fdr<0.05	607	fdr<0.01	512
+HSA005	Estimated qvalue formula	2026.09.13.21.38.05	total	763	noallranking	0	pvaluecalced	111	fdr<0.1	111	fdr<0.05	111	fdr<0.01	107
+HSA006	Estimated qvalue formula	2026.09.13.21.38.25	total	867	noallranking	0	pvaluecalced	502	fdr<0.1	502	fdr<0.05	502	fdr<0.01	499
+HSA007	Estimated qvalue formula	2026.09.13.21.39.15	total	3067	noallranking	0	pvaluecalced	786	fdr<0.1	786	fdr<0.05	776	fdr<0.01	754
+HSA008	Estimated qvalue formula	2026.09.13.21.40.01	total	3255	noallranking	0	pvaluecalced	603	fdr<0.1	599	fdr<0.05	571	fdr<0.01	571
+HSA009	Estimated qvalue formula	2026.09.13.21.42.47	total	21405	noallranking	0	pvaluecalced	6440	fdr<0.1	6440	fdr<0.05	6440	fdr<0.01	6384
+HSA010	Estimated qvalue formula	2026.09.13.21.44.17	total	19350	noallranking	0	pvaluecalced	9293	fdr<0.1	9293	fdr<0.05	9293	fdr<0.01	9221
+HSA011	Estimated qvalue formula	2026.09.13.21.44.37	total	3365	noallranking	0	pvaluecalced	1815	fdr<0.1	1815	fdr<0.05	1795	fdr<0.01	1759
+HSA012	Estimated qvalue formula	2026.09.13.21.44.51	total	4546	noallranking	0	pvaluecalced	1754	fdr<0.1	1754	fdr<0.05	1754	fdr<0.01	1750
+HSA014	Estimated qvalue formula	2026.09.13.21.44.54	total	1187	noallranking	0	pvaluecalced	318	fdr<0.1	318	fdr<0.05	318	fdr<0.01	316
+HSA015	Estimated qvalue formula	2026.09.13.21.45.04	total	2403	noallranking	0	pvaluecalced	1221	fdr<0.1	1221	fdr<0.05	1221	fdr<0.01	1217
+HSA017	Estimated qvalue formula	2026.09.13.21.45.05	total	228	noallranking	0	pvaluecalced	80	fdr<0.1	80	fdr<0.05	80	fdr<0.01	78
+HSA018	Estimated qvalue formula	2026.09.13.21.45.06	total	320	noallranking	0	pvaluecalced	130	fdr<0.1	130	fdr<0.05	130	fdr<0.01	129
+HSA019	Estimated qvalue formula	2026.09.13.21.45.26	total	4784	noallranking	0	pvaluecalced	1536	fdr<0.1	1536	fdr<0.05	1536	fdr<0.01	1520
+HSA020	Estimated qvalue formula	2026.09.13.21.46.16	total	7165	noallranking	0	pvaluecalced	1797	fdr<0.1	1787	fdr<0.05	1704	fdr<0.01	1672
+HSA021	Estimated qvalue formula	2026.09.13.21.46.55	total	7820	noallranking	0	pvaluecalced	2678	fdr<0.1	2678	fdr<0.05	2678	fdr<0.01	2643
+HSA022	Estimated qvalue formula	2026.09.13.21.47.34	total	9395	noallranking	0	pvaluecalced	2538	fdr<0.1	2538	fdr<0.05	2496	fdr<0.01	2426
+HSA028	Estimated qvalue formula	2026.09.13.21.47.46	total	4358	noallranking	0	pvaluecalced	1176	fdr<0.1	1176	fdr<0.05	1176	fdr<0.01	1162
+HSA029	Estimated qvalue formula	2026.09.13.21.48.01	total	4191	noallranking	0	pvaluecalced	1428	fdr<0.1	1428	fdr<0.05	1428	fdr<0.01	1414
+HSA031	Estimated qvalue formula	2026.09.13.21.48.11	total	1488	noallranking	0	pvaluecalced	341	fdr<0.1	341	fdr<0.05	329	fdr<0.01	295
+HSA032	Estimated qvalue formula	2026.09.13.21.48.40	total	2908	noallranking	0	pvaluecalced	1161	fdr<0.1	1161	fdr<0.05	1128	fdr<0.01	1128
+HSA033	Estimated qvalue formula	2026.09.13.21.48.59	total	2501	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	629	fdr<0.01	584
+HSA025	Estimated qvalue formula	2026.09.13.21.49.13	total	1848	noallranking	0	pvaluecalced	764	fdr<0.1	757	fdr<0.05	719	fdr<0.01	719
+HSA034	Estimated qvalue formula	2026.09.13.21.49.25	total	1788	noallranking	0	pvaluecalced	592	fdr<0.1	592	fdr<0.05	591	fdr<0.01	585
+HSA035	Estimated qvalue formula	2026.09.13.21.50.16	total	3301	noallranking	0	pvaluecalced	1132	fdr<0.1	1100	fdr<0.05	1057	fdr<0.01	931
+HSA036	Estimated qvalue formula	2026.09.13.21.50.18	total	307	noallranking	0	pvaluecalced	87	fdr<0.1	83	fdr<0.05	79	fdr<0.01	72
+HSA037	Estimated qvalue formula	2026.09.13.21.50.29	total	2211	noallranking	0	pvaluecalced	341	fdr<0.1	306	fdr<0.05	306	fdr<0.01	249
+HSA038	Estimated qvalue formula	2026.09.13.21.50.37	total	925	noallranking	0	pvaluecalced	281	fdr<0.1	275	fdr<0.05	267	fdr<0.01	237
+HSA039	Estimated qvalue formula	2026.09.13.21.50.38	total	687	noallranking	0	pvaluecalced	54	fdr<0.1	54	fdr<0.05	54	fdr<0.01	51
+HSA040	Estimated qvalue formula	2026.09.13.21.50.39	total	205	noallranking	0	pvaluecalced	64	fdr<0.1	64	fdr<0.05	64	fdr<0.01	63
+HSA041	Estimated qvalue formula	2026.09.13.21.50.53	total	1888	noallranking	0	pvaluecalced	363	fdr<0.1	351	fdr<0.05	338	fdr<0.01	301
+HSA042	Estimated qvalue formula	2026.09.13.21.51.16	total	2709	noallranking	0	pvaluecalced	978	fdr<0.1	978	fdr<0.05	952	fdr<0.01	931
+HSA043	Estimated qvalue formula	2026.09.13.21.51.32	total	2659	noallranking	0	pvaluecalced	1064	fdr<0.1	1064	fdr<0.05	1064	fdr<0.01	1043
+HSA044	Estimated qvalue formula	2026.09.13.21.52.10	total	6523	noallranking	0	pvaluecalced	2946	fdr<0.1	2946	fdr<0.05	2908	fdr<0.01	2872
+HSA045	Estimated qvalue formula	2026.09.13.21.52.19	total	3154	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	763	fdr<0.01	736
+HSA046	Estimated qvalue formula	2026.09.13.21.52.37	total	4023	noallranking	0	pvaluecalced	1672	fdr<0.1	1672	fdr<0.05	1655	fdr<0.01	1608
+HSA047	Estimated qvalue formula	2026.09.13.21.52.51	total	3546	noallranking	0	pvaluecalced	949	fdr<0.1	949	fdr<0.05	928	fdr<0.01	917
+HSA048	Estimated qvalue formula	2026.09.13.21.53.13	total	3722	noallranking	0	pvaluecalced	2139	fdr<0.1	2139	fdr<0.05	2139	fdr<0.01	2087
+HSA051	Estimated qvalue formula	2026.09.13.21.53.23	total	1621	noallranking	0	pvaluecalced	873	fdr<0.1	873	fdr<0.05	849	fdr<0.01	849
+HSA052	Estimated qvalue formula	2026.09.13.21.53.48	total	6238	noallranking	0	pvaluecalced	1450	fdr<0.1	1450	fdr<0.05	1416	fdr<0.01	1378
+HSA054	Estimated qvalue formula	2026.09.13.21.54.03	total	1643	noallranking	0	pvaluecalced	345	fdr<0.1	344	fdr<0.05	330	fdr<0.01	296
+HSA056	Estimated qvalue formula	2026.09.13.21.54.12	total	554	noallranking	0	pvaluecalced	114	fdr<0.1	94	fdr<0.05	94	fdr<0.01	72
+HSA057	Estimated qvalue formula	2026.09.13.21.54.36	total	1695	noallranking	0	pvaluecalced	443	fdr<0.1	429	fdr<0.05	408	fdr<0.01	349
+HSA059	Estimated qvalue formula	2026.09.13.21.55.15	total	6219	noallranking	0	pvaluecalced	1524	fdr<0.1	1498	fdr<0.05	1440	fdr<0.01	1440
+HSA060	Estimated qvalue formula	2026.09.13.21.56.28	total	5420	noallranking	0	pvaluecalced	1236	fdr<0.1	1203	fdr<0.05	1132	fdr<0.01	1132
+HSA061	Estimated qvalue formula	2026.09.13.21.56.30	total	835	noallranking	0	pvaluecalced	234	fdr<0.1	234	fdr<0.05	234	fdr<0.01	229
+HSA062	Estimated qvalue formula	2026.09.13.21.56.40	total	1285	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	687
+HSA063	Estimated qvalue formula	2026.09.13.21.56.50	total	1672	noallranking	0	pvaluecalced	953	fdr<0.1	953	fdr<0.05	953	fdr<0.01	941
+HSA064	Estimated qvalue formula	2026.09.13.21.57.04	total	1962	noallranking	0	pvaluecalced	1117	fdr<0.1	1117	fdr<0.05	1112	fdr<0.01	1094
+HSA065	Estimated qvalue formula	2026.09.13.21.57.07	total	1365	noallranking	0	pvaluecalced	156	fdr<0.1	156	fdr<0.05	156	fdr<0.01	149
+HSA066	Estimated qvalue formula	2026.09.13.21.57.34	total	2729	noallranking	0	pvaluecalced	1147	fdr<0.1	1147	fdr<0.05	1098	fdr<0.01	1098
+HSA067	Estimated qvalue formula	2026.09.13.21.57.38	total	1595	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	144
+HSA068	Estimated qvalue formula	2026.09.13.21.57.47	total	1976	noallranking	0	pvaluecalced	602	fdr<0.1	602	fdr<0.05	591	fdr<0.01	583
+HSA069	Estimated qvalue formula	2026.09.13.21.57.52	total	1236	noallranking	0	pvaluecalced	423	fdr<0.1	423	fdr<0.05	423	fdr<0.01	422
+HSA070	Estimated qvalue formula	2026.09.13.21.57.58	total	1505	noallranking	0	pvaluecalced	695	fdr<0.1	695	fdr<0.05	695	fdr<0.01	695
+HSA073	Estimated qvalue formula	2026.09.13.21.58.09	total	2525	noallranking	0	pvaluecalced	283	fdr<0.1	283	fdr<0.05	278	fdr<0.01	268
+HSA076	Estimated qvalue formula	2026.09.13.21.58.55	total	3673	noallranking	0	pvaluecalced	2022	fdr<0.1	2022	fdr<0.05	1938	fdr<0.01	1938
+HSA077	Estimated qvalue formula	2026.09.13.21.59.01	total	1105	noallranking	0	pvaluecalced	566	fdr<0.1	566	fdr<0.05	566	fdr<0.01	554
+HSA078	Estimated qvalue formula	2026.09.13.22.00.01	total	15823	noallranking	0	pvaluecalced	3268	fdr<0.1	3268	fdr<0.05	3196	fdr<0.01	3121
+HSA079	Estimated qvalue formula	2026.09.13.22.00.37	total	9277	noallranking	0	pvaluecalced	2906	fdr<0.1	2906	fdr<0.05	2906	fdr<0.01	2833
+HSA080	Estimated qvalue formula	2026.09.13.22.01.26	total	12308	noallranking	0	pvaluecalced	3668	fdr<0.1	3668	fdr<0.05	3668	fdr<0.01	3573
+HSA081	Estimated qvalue formula	2026.09.13.22.01.34	total	1967	noallranking	0	pvaluecalced	290	fdr<0.1	290	fdr<0.05	280	fdr<0.01	276
+HSA082	Estimated qvalue formula	2026.09.13.22.01.43	total	2018	noallranking	0	pvaluecalced	490	fdr<0.1	488	fdr<0.05	463	fdr<0.01	463
+HSA087	Estimated qvalue formula	2026.09.13.22.02.02	total	1215	noallranking	0	pvaluecalced	259	fdr<0.1	231	fdr<0.05	231	fdr<0.01	190
+HSA088	Estimated qvalue formula	2026.09.13.22.02.56	total	15954	noallranking	0	pvaluecalced	5105	fdr<0.1	5105	fdr<0.05	5105	fdr<0.01	5032
+HSA089	Estimated qvalue formula	2026.09.13.22.03.06	total	1712	noallranking	0	pvaluecalced	1020	fdr<0.1	991	fdr<0.05	991	fdr<0.01	991
+HSA090	Estimated qvalue formula	2026.09.13.22.03.16	total	1602	noallranking	0	pvaluecalced	1208	fdr<0.1	1208	fdr<0.05	1208	fdr<0.01	1200
+HSA091	Estimated qvalue formula	2026.09.13.22.03.22	total	1597	noallranking	0	pvaluecalced	679	fdr<0.1	679	fdr<0.05	679	fdr<0.01	663
+HSA092	Estimated qvalue formula	2026.09.13.22.03.29	total	1769	noallranking	0	pvaluecalced	1021	fdr<0.1	1021	fdr<0.05	1021	fdr<0.01	1001
+HSA093	Estimated qvalue formula	2026.09.13.22.03.39	total	1991	noallranking	0	pvaluecalced	1275	fdr<0.1	1275	fdr<0.05	1275	fdr<0.01	1267
+HSA094	Estimated qvalue formula	2026.09.13.22.03.50	total	2007	noallranking	0	pvaluecalced	1463	fdr<0.1	1463	fdr<0.05	1463	fdr<0.01	1446
+HSA099	Estimated qvalue formula	2026.09.13.22.03.53	total	1620	noallranking	0	pvaluecalced	231	fdr<0.1	231	fdr<0.05	231	fdr<0.01	227
+HSA100	Estimated qvalue formula	2026.09.13.22.04.01	total	2229	noallranking	0	pvaluecalced	668	fdr<0.1	668	fdr<0.05	668	fdr<0.01	649
+HSA001	Estimated qvalue formula	2026.09.13.22.04.54	total	2873	noallranking	0	pvaluecalced	411	fdr<0.1	388	fdr<0.05	303	fdr<0.01	214
+HSA002	Estimated qvalue formula	2026.09.13.22.05.00	total	2383	noallranking	0	pvaluecalced	137	fdr<0.1	137	fdr<0.05	121	fdr<0.01	72
+HSA003	Estimated qvalue formula	2026.09.13.22.05.38	total	3062	noallranking	0	pvaluecalced	563	fdr<0.1	563	fdr<0.05	563	fdr<0.01	466
+HSA004	Estimated qvalue formula	2026.09.13.22.05.46	total	2317	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	183
+HSA005	Estimated qvalue formula	2026.09.13.22.05.48	total	763	noallranking	0	pvaluecalced	81	fdr<0.1	81	fdr<0.05	81	fdr<0.01	73
+HSA006	Estimated qvalue formula	2026.09.13.22.05.52	total	867	noallranking	0	pvaluecalced	355	fdr<0.1	355	fdr<0.05	355	fdr<0.01	338
+HSA007	Estimated qvalue formula	2026.09.13.22.06.00	total	3067	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	433	fdr<0.01	394
+HSA008	Estimated qvalue formula	2026.09.13.22.06.06	total	3255	noallranking	0	pvaluecalced	306	fdr<0.1	306	fdr<0.05	306	fdr<0.01	266
+HSA009	Estimated qvalue formula	2026.09.13.22.07.13	total	21405	noallranking	0	pvaluecalced	2151	fdr<0.1	2151	fdr<0.05	2001	fdr<0.01	1262
+HSA010	Estimated qvalue formula	2026.09.13.22.08.30	total	19350	noallranking	0	pvaluecalced	3203	fdr<0.1	3203	fdr<0.05	2951	fdr<0.01	1878
+HSA011	Estimated qvalue formula	2026.09.13.22.08.45	total	3365	noallranking	0	pvaluecalced	642	fdr<0.1	642	fdr<0.05	592	fdr<0.01	387
+HSA012	Estimated qvalue formula	2026.09.13.22.08.59	total	4546	noallranking	0	pvaluecalced	528	fdr<0.1	528	fdr<0.05	478	fdr<0.01	284
+HSA014	Estimated qvalue formula	2026.09.13.22.09.02	total	1187	noallranking	0	pvaluecalced	119	fdr<0.1	119	fdr<0.05	119	fdr<0.01	86
+HSA015	Estimated qvalue formula	2026.09.13.22.09.12	total	2403	noallranking	0	pvaluecalced	350	fdr<0.1	350	fdr<0.05	302	fdr<0.01	179
+HSA017	Estimated qvalue formula	2026.09.13.22.09.13	total	228	noallranking	0	pvaluecalced	38	fdr<0.1	38	fdr<0.05	38	fdr<0.01	26
+HSA018	Estimated qvalue formula	2026.09.13.22.09.14	total	320	noallranking	0	pvaluecalced	77	fdr<0.1	77	fdr<0.05	77	fdr<0.01	65
+HSA019	Estimated qvalue formula	2026.09.13.22.09.29	total	4784	noallranking	0	pvaluecalced	689	fdr<0.1	689	fdr<0.05	678	fdr<0.01	446
+HSA020	Estimated qvalue formula	2026.09.13.22.09.51	total	7165	noallranking	0	pvaluecalced	763	fdr<0.1	763	fdr<0.05	743	fdr<0.01	556
+HSA021	Estimated qvalue formula	2026.09.13.22.10.17	total	7820	noallranking	0	pvaluecalced	1167	fdr<0.1	1167	fdr<0.05	1144	fdr<0.01	790
+HSA022	Estimated qvalue formula	2026.09.13.22.10.43	total	9395	noallranking	0	pvaluecalced	1186	fdr<0.1	1186	fdr<0.05	1186	fdr<0.01	920
+HSA028	Estimated qvalue formula	2026.09.13.22.10.53	total	4358	noallranking	0	pvaluecalced	390	fdr<0.1	390	fdr<0.05	381	fdr<0.01	259
+HSA029	Estimated qvalue formula	2026.09.13.22.11.05	total	4191	noallranking	0	pvaluecalced	494	fdr<0.1	494	fdr<0.05	485	fdr<0.01	320
+HSA031	Estimated qvalue formula	2026.09.13.22.11.10	total	1488	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	62
+HSA032	Estimated qvalue formula	2026.09.13.22.11.26	total	2908	noallranking	0	pvaluecalced	391	fdr<0.1	391	fdr<0.05	391	fdr<0.01	223
+HSA033	Estimated qvalue formula	2026.09.13.22.11.35	total	2501	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	249	fdr<0.01	149
+HSA025	Estimated qvalue formula	2026.09.13.22.11.40	total	1848	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	283
+HSA034	Estimated qvalue formula	2026.09.13.22.11.46	total	1788	noallranking	0	pvaluecalced	258	fdr<0.1	258	fdr<0.05	258	fdr<0.01	230
+HSA035	Estimated qvalue formula	2026.09.13.22.11.59	total	3301	noallranking	0	pvaluecalced	606	fdr<0.1	606	fdr<0.05	606	fdr<0.01	522
+HSA036	Estimated qvalue formula	2026.09.13.22.12.00	total	307	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	21
+HSA037	Estimated qvalue formula	2026.09.13.22.12.06	total	2211	noallranking	0	pvaluecalced	44	fdr<0.1	44	fdr<0.05	44	fdr<0.01	28
+HSA038	Estimated qvalue formula	2026.09.13.22.12.11	total	925	noallranking	0	pvaluecalced	51	fdr<0.1	51	fdr<0.05	51	fdr<0.01	29
+HSA039	Estimated qvalue formula	2026.09.13.22.12.13	total	687	noallranking	0	pvaluecalced	23	fdr<0.1	23	fdr<0.05	23	fdr<0.01	17
+HSA040	Estimated qvalue formula	2026.09.13.22.12.13	total	205	noallranking	0	pvaluecalced	28	fdr<0.1	28	fdr<0.05	28	fdr<0.01	26
+HSA041	Estimated qvalue formula	2026.09.13.22.12.18	total	1888	noallranking	0	pvaluecalced	143	fdr<0.1	143	fdr<0.05	143	fdr<0.01	123
+HSA042	Estimated qvalue formula	2026.09.13.22.12.28	total	2709	noallranking	0	pvaluecalced	432	fdr<0.1	432	fdr<0.05	432	fdr<0.01	378
+HSA043	Estimated qvalue formula	2026.09.13.22.12.36	total	2659	noallranking	0	pvaluecalced	358	fdr<0.1	358	fdr<0.05	343	fdr<0.01	228
+HSA044	Estimated qvalue formula	2026.09.13.22.12.59	total	6523	noallranking	0	pvaluecalced	772	fdr<0.1	760	fdr<0.05	654	fdr<0.01	389
+HSA045	Estimated qvalue formula	2026.09.13.22.13.06	total	3154	noallranking	0	pvaluecalced	320	fdr<0.1	320	fdr<0.05	302	fdr<0.01	217
+HSA046	Estimated qvalue formula	2026.09.13.22.13.17	total	4023	noallranking	0	pvaluecalced	687	fdr<0.1	687	fdr<0.05	662	fdr<0.01	459
+HSA047	Estimated qvalue formula	2026.09.13.22.13.26	total	3546	noallranking	0	pvaluecalced	319	fdr<0.1	319	fdr<0.05	302	fdr<0.01	186
+HSA048	Estimated qvalue formula	2026.09.13.22.13.40	total	3722	noallranking	0	pvaluecalced	708	fdr<0.1	708	fdr<0.05	661	fdr<0.01	476
+HSA051	Estimated qvalue formula	2026.09.13.22.13.47	total	1621	noallranking	0	pvaluecalced	249	fdr<0.1	249	fdr<0.05	211	fdr<0.01	118
+HSA052	Estimated qvalue formula	2026.09.13.22.13.59	total	6238	noallranking	0	pvaluecalced	630	fdr<0.1	630	fdr<0.05	630	fdr<0.01	479
+HSA054	Estimated qvalue formula	2026.09.13.22.14.03	total	1643	noallranking	0	pvaluecalced	220	fdr<0.1	220	fdr<0.05	220	fdr<0.01	172
+HSA056	Estimated qvalue formula	2026.09.13.22.14.05	total	554	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	50	fdr<0.01	20
+HSA057	Estimated qvalue formula	2026.09.13.22.14.12	total	1695	noallranking	0	pvaluecalced	148	fdr<0.1	148	fdr<0.05	148	fdr<0.01	126
+HSA059	Estimated qvalue formula	2026.09.13.22.14.30	total	6219	noallranking	0	pvaluecalced	499	fdr<0.1	499	fdr<0.05	499	fdr<0.01	297
+HSA060	Estimated qvalue formula	2026.09.13.22.14.59	total	5420	noallranking	0	pvaluecalced	448	fdr<0.1	448	fdr<0.05	448	fdr<0.01	227
+HSA061	Estimated qvalue formula	2026.09.13.22.15.01	total	835	noallranking	0	pvaluecalced	136	fdr<0.1	136	fdr<0.05	136	fdr<0.01	107
+HSA062	Estimated qvalue formula	2026.09.13.22.15.07	total	1285	noallranking	0	pvaluecalced	356	fdr<0.1	356	fdr<0.05	356	fdr<0.01	277
+HSA063	Estimated qvalue formula	2026.09.13.22.15.14	total	1672	noallranking	0	pvaluecalced	453	fdr<0.1	453	fdr<0.05	437	fdr<0.01	309
+HSA064	Estimated qvalue formula	2026.09.13.22.15.23	total	1962	noallranking	0	pvaluecalced	437	fdr<0.1	437	fdr<0.05	419	fdr<0.01	281
+HSA065	Estimated qvalue formula	2026.09.13.22.15.26	total	1365	noallranking	0	pvaluecalced	84	fdr<0.1	84	fdr<0.05	84	fdr<0.01	66
+HSA066	Estimated qvalue formula	2026.09.13.22.15.36	total	2729	noallranking	0	pvaluecalced	623	fdr<0.1	623	fdr<0.05	601	fdr<0.01	377
+HSA067	Estimated qvalue formula	2026.09.13.22.15.39	total	1595	noallranking	0	pvaluecalced	52	fdr<0.1	52	fdr<0.05	52	fdr<0.01	36
+HSA068	Estimated qvalue formula	2026.09.13.22.15.44	total	1976	noallranking	0	pvaluecalced	373	fdr<0.1	373	fdr<0.05	371	fdr<0.01	285
+HSA069	Estimated qvalue formula	2026.09.13.22.15.48	total	1236	noallranking	0	pvaluecalced	147	fdr<0.1	147	fdr<0.05	147	fdr<0.01	97
+HSA070	Estimated qvalue formula	2026.09.13.22.15.54	total	1505	noallranking	0	pvaluecalced	281	fdr<0.1	281	fdr<0.05	270	fdr<0.01	218
+HSA073	Estimated qvalue formula	2026.09.13.22.16.00	total	2525	noallranking	0	pvaluecalced	129	fdr<0.1	129	fdr<0.05	129	fdr<0.01	111
+HSA076	Estimated qvalue formula	2026.09.13.22.16.22	total	3673	noallranking	0	pvaluecalced	737	fdr<0.1	737	fdr<0.05	664	fdr<0.01	406
+HSA077	Estimated qvalue formula	2026.09.13.22.16.26	total	1105	noallranking	0	pvaluecalced	316	fdr<0.1	316	fdr<0.05	316	fdr<0.01	284
+HSA078	Estimated qvalue formula	2026.09.13.22.16.58	total	15823	noallranking	0	pvaluecalced	997	fdr<0.1	997	fdr<0.05	991	fdr<0.01	709
+HSA079	Estimated qvalue formula	2026.09.13.22.17.21	total	9277	noallranking	0	pvaluecalced	1201	fdr<0.1	1201	fdr<0.05	1153	fdr<0.01	784
+HSA080	Estimated qvalue formula	2026.09.13.22.17.52	total	12308	noallranking	0	pvaluecalced	1367	fdr<0.1	1367	fdr<0.05	1302	fdr<0.01	875
+HSA081	Estimated qvalue formula	2026.09.13.22.17.56	total	1967	noallranking	0	pvaluecalced	150	fdr<0.1	150	fdr<0.05	150	fdr<0.01	121
+HSA082	Estimated qvalue formula	2026.09.13.22.17.59	total	2018	noallranking	0	pvaluecalced	266	fdr<0.1	266	fdr<0.05	266	fdr<0.01	225
+HSA087	Estimated qvalue formula	2026.09.13.22.18.06	total	1215	noallranking	0	pvaluecalced	69	fdr<0.1	69	fdr<0.05	69	fdr<0.01	38
+HSA088	Estimated qvalue formula	2026.09.13.22.18.50	total	15954	noallranking	0	pvaluecalced	1522	fdr<0.1	1522	fdr<0.05	1416	fdr<0.01	920
+HSA089	Estimated qvalue formula	2026.09.13.22.18.57	total	1712	noallranking	0	pvaluecalced	433	fdr<0.1	433	fdr<0.05	420	fdr<0.01	284
+HSA090	Estimated qvalue formula	2026.09.13.22.19.05	total	1602	noallranking	0	pvaluecalced	479	fdr<0.1	479	fdr<0.05	436	fdr<0.01	241
+HSA091	Estimated qvalue formula	2026.09.13.22.19.10	total	1597	noallranking	0	pvaluecalced	293	fdr<0.1	293	fdr<0.05	287	fdr<0.01	191
+HSA092	Estimated qvalue formula	2026.09.13.22.19.16	total	1769	noallranking	0	pvaluecalced	449	fdr<0.1	449	fdr<0.05	434	fdr<0.01	289
+HSA093	Estimated qvalue formula	2026.09.13.22.19.26	total	1991	noallranking	0	pvaluecalced	543	fdr<0.1	543	fdr<0.05	523	fdr<0.01	345
+HSA094	Estimated qvalue formula	2026.09.13.22.19.36	total	2007	noallranking	0	pvaluecalced	635	fdr<0.1	635	fdr<0.05	619	fdr<0.01	422
+HSA099	Estimated qvalue formula	2026.09.13.22.19.39	total	1620	noallranking	0	pvaluecalced	88	fdr<0.1	88	fdr<0.05	88	fdr<0.01	60
+HSA100	Estimated qvalue formula	2026.09.13.22.19.44	total	2229	noallranking	0	pvaluecalced	302	fdr<0.1	302	fdr<0.05	302	fdr<0.01	239

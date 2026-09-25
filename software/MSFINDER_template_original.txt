@@ -1,0 +1,134 @@
+#Formula finder parameters
+LewisAndSeniorCheck=True
+Ms1Tolerance=[MS1ttol]
+IsotopicAbundanceTolerance=20
+MassToleranceType=Ppm
+CommonRange=TRUE
+ExtendedRange=FALSE
+ExtremeRange=FALSE
+ElementProbabilityCheck=False
+Ocheck=True
+Ncheck=True
+Pcheck=True
+Scheck=True
+Fcheck=False
+ClCheck=False
+BrCheck=False
+Icheck=False
+SiCheck=False
+IsTmsMeoxDerivative=False
+MinimumTmsCount=1
+MinimumMeoxCount=0
+CanExcuteMS1AdductSearch=False
+CanExcuteMS2AdductSearch=False
+FormulaMaximumReportNumber=100
+
+#Structure finder parameters
+TreeDepth=2
+Ms2Tolerance=[MS2ttol]
+RelativeAbundanceCutOff=0.1
+StructureMaximumReportNumber=100
+IsUseEiFragmentDB=False
+StructureScoreCutOff=0
+
+#Data source
+MinesNeverUse=True
+MinesOnlyUseForNecessary=False
+MinesAllways=False
+PubChemNeverUse=True
+PubChemOnlyUseForNecessary=False
+PubChemAllways=False
+HMDB=True
+YMDB=True
+PubChem=True
+SMPDB=True
+UNPD=True
+ChEBI=True
+PlantCyc=True
+KNApSAcK=True
+BMDB=True
+FooDB=True
+ECMDB=True
+DrugBank=True
+T3DB=True
+STOFF=True
+NANPDB=True
+LipidMAPS=True
+Urine=True
+Saliva=True
+Feces=True
+Serum=True
+Csf=True
+BLEXP=True
+NPA=True
+COCONUT=True
+IsUserDefinedDB=False
+UserDefinedDbFilePath=
+
+#Spectral database search
+IsRunSpectralDbSearch=False
+IsRunInSilicoFragmenterSearch=True
+IsPrecursorOrientedSearch=True
+IsUseInternalExperimentalSpectralDb=False
+IsUseInSilicoSpectralDbForLipids=False
+IsUseUserDefinedSpectralDb=False
+UserDefinedSpectralDbFilePath=E:\7_MassSpecCuration\Distributed MSPs\MSMS-Public-Neg-VS16.msp
+SolventType=CH3COONH4
+MassRangeMin=70
+MassRangeMax=1250
+ScoreCutOffForSpectralMatch=80
+
+#Retention time setting for structure elucidation
+IsUsePredictedRtForStructureElucidation=False
+IsUseRtInchikeyLibrary=True
+IsUseXlogpPrediction=False
+RtInChIKeyDictionaryFilepath=
+RtSmilesDictionaryFilepath=
+Coeff_RtPrediction=-1
+Intercept_RtPrediction=-1
+RtToleranceForStructureElucidation=2.5
+RtPredictionSummaryReport=
+IsUseRtForFilteringCandidates=False
+
+#Retention time setting for spectral searching
+IsUseExperimentalRtForSpectralSearching=False
+RetentionType=RT
+RtToleranceForSpectralSearching=0.5
+
+#CCS setting for structure elucidation
+CcsToleranceForStructureElucidation=10
+IsUsePredictedCcsForStructureElucidation=False
+IsUseCcsInchikeyAdductLibrary=False
+CcsAdductInChIKeyDictionaryFilepath=
+IsUseExperimentalCcsForSpectralSearching=False
+CcsToleranceForSpectralSearching=10
+IsUseCcsForFilteringCandidates=False
+
+#Batch job
+AllProcess=True
+FormulaFinder=True
+StructureFinder=True
+TryTopNMolecularFormulaSearch=5
+
+#FSEA parameter
+FseaRelativeAbundanceCutOff=5
+FseanonsignificantDef=OntologySpace
+FseaPvalueCutOff=1
+
+#Msfinder molecular networking (mmn)
+IsMmnLocalCytoscape=True
+IsMmnMsdialOutput=False
+IsMmnFormulaBioreaction=False
+IsMmnRetentionRestrictionUsed=False
+IsMmnOntologySimilarityUsed=True
+MmnMassTolerance=0.025
+MmnRelativeCutoff=1
+MmnMassSimilarityCutOff=75
+MmnRtTolerance=100
+MmnOntologySimilarityCutOff=90
+MmnOutputFolderPath=
+
+#Time out parameter
+FormulaPredictionTimeOut=-1
+StructurePredictionTimeOut=-1
+

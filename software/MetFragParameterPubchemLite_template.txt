@@ -1,0 +1,50 @@
+#
+# data file containing mz intensity peak pairs (one per line)
+#
+PeakListPath = [inputpath]/tempspec.txt
+
+#
+# database parameters -> how to retrieve candidates
+#
+#
+MetFragDatabaseType = LocalCSV
+#MetFragDatabaseType = PubChem
+#LocalDatabasePath = ./hmdb_2017-07-23.csv
+LocalDatabasePath = [LocalDatabasePath]
+NeutralPrecursorMolecularFormula = [formula]
+#NeutralPrecursorMass = 348.926284
+IonizedPrecursorMass = [precmz]
+
+OfflineSpectralDatabaseFile = ~/MoNA-export-LC-MS-MS_Spectra-20241014-0.005.mb
+DatabaseSearchRelativeMassDeviation = 5.0
+#
+# peak matching parameters
+#
+#FragmentPeakMatchAbsoluteMassDeviation = 0.001
+FragmentPeakMatchRelativeMassDeviation = [MS2ttol]
+PrecursorIonMode = [ionform]
+IsPositiveIonMode = [positive]
+
+#
+# scoring parameters
+#
+#MetFragScoreTypes = FragmenterScore
+#MetFragScoreWeights = 1.0
+MetFragScoreTypes = FragmenterScore,OfflineIndividualMoNAScore,AnnoTypeCount,Patent_Count,PubMed_Count
+MetFragScoreWeights = 1.0,1.0,1.0,1.0,1.0
+#
+# output
+# SDF, XLS, CSV, ExtendedXLS, ExtendedFragmentsXLS
+#
+MetFragCandidateWriter = CSV
+SampleName = [outputname]
+ResultsPath = [outputpath]
+
+#
+# following parameteres can be kept as they are
+#
+MaximumTreeDepth = 2
+#MetFragPreProcessingCandidateFilter = UnconnectedCompoundFilter
+MetFragPreProcessingCandidateFilter = UnconnectedCompoundFilter,IsotopeFilter
+MetFragPostProcessingCandidateFilter = InChIKeyFilter
+# NumberThreads = 1
