@@ -189,14 +189,14 @@ Each tool needs a path entry in `script/settings.ini`. All relative paths are re
 3. Place them in `ShinMassBank/software/`.
 4. Install a JDK, for example `jdk-23_windows-x64_bin.msi` from <https://www.oracle.com/jp/java/technologies/downloads/#jdk23-windows>.
 
-5. Generate strucuture DB from MsfinderStructureDB-VS15.esd of MS-FINDER. Describe path to "MsfinderStructureDB-VS15.esd" in '/MSFINDER/Resources/' of your environment. 
+5. Generate strucuture DB from `MsfinderStructureDB-VS15.esd` of MS-FINDER. Describe path to `MsfinderStructureDB-VS15.esd` in '/MSFINDER/Resources/' of your environment. 
 
 ```
 > cd C:\ShinMassBank\script
 > python DDAtools.py -d ../software/MSFINDER/Resources/MsfinderStructureDB-VS15.esd
 ```
 
-MsfinderStructureDB-VS15_forMetFrag.csv is generated in `ShinMassBank/software/`
+`MsfinderStructureDB-VS15_forMetFrag.csv` is generated in `ShinMassBank/software/`
 
 6. Set the paths in `settings.ini`:
 
